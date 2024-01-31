@@ -1,0 +1,361 @@
+isco1d,isco1d_label,tech40_id,tech40_label,tech40_labelshort,cosine1d,n_patent,xposure1d
+1,Managers,1,3D Printer Hardware,3D Printer Hardware,0.1076591889422463,9,0.10745229557949856
+1,Managers,2,3D Printing,3D Printing,0.32415021759610796,28,0.3187263591077164
+1,Managers,3,Additive Manufacturing,Additive Manufacturing,0.359692460150849,31,0.3523559557022414
+1,Managers,4,Smart Agriculture & Water Management,Smart Agriculture,19.242032653959235,1533,3.6509187935076883
+1,Managers,5,Internet of Things (IoT),IoT,8.736050994916104,841,2.863865199306713
+1,Managers,6,Predictive Energy Management and Distribution,Energy Management,7.8827642986513435,735,2.76182506130118
+1,Managers,7,Industrial Automation & Robot Control,Industrial Automation,4.016770641875129,298,2.098772020563948
+1,Managers,8,Remote Monitoring & Control Systems,Remote Monitoring,6.293639552990889,509,2.538939333705267
+1,Managers,9,Smart Home & Intelligent Household Control,Smart Home,3.0726135026704413,305,1.8411621395303448
+1,Managers,10,Intelligent Logistics,Intelligent Logistics,21.199441609023623,1510,3.7476778361791068
+1,Managers,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.34125322342812353,39,0.3349546426478708
+1,Managers,12,Parking & Vehicle Space Management,Parking Management,0.2332481033887508,28,0.23118330043245996
+1,Managers,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,2.560994243397799,229,1.6696486517802884
+1,Managers,14,Passenger Transportation,Passenger Transportation,5.2391401922669845,427,2.3582905440207647
+1,Managers,15,Food Ordering & Vending Systems,Food Ordering,18.563435844214556,1352,3.615065699892556
+1,Managers,16,Digital Advertising,Digital Advertising,55.154857323116566,4759,4.703374168214043
+1,Managers,17,Electronic Trading and Auctions,E-Trading,2.6436697383355914,250,1.6993060065338799
+1,Managers,18,Online Shopping Platforms,Online Shopping,40.686581474083646,3019,4.399196512028379
+1,Managers,19,E-Coupons & Promotion Management,E-Coupons,8.71359402627711,764,2.861308022618992
+1,Managers,20,Electronic Payments & Financial Transactions,E-Payment,8.661859752669427,719,2.8553921976554384
+1,Managers,21,Mobile Payments,Mobile Payment,2.333784474131847,230,1.5836667051592612
+1,Managers,22,Gaming & Wagering Systems,Gaming,3.19200946552333,333,1.8774774929099112
+1,Managers,23,Digital Authentication,Digital Authentification,10.35404668678146,1021,3.032848445975009
+1,Managers,24,E-Learning,E-Learning,33.786729654448436,2760,4.213434222079939
+1,Managers,25,Location-Based Services & Tracking,Location-Based Services,5.758476282572065,508,2.451275420296874
+1,Managers,26,Voice Communication,Voice Communication,13.653138433383674,1121,3.308455050435756
+1,Managers,27,Electronic Messaging,Electronic Messaging,4.410659224719492,370,2.1897813530299657
+1,Managers,28,Workflow Management,Workflow Management,27.45473069782611,2036,4.006017177073585
+1,Managers,29,Cloud Storage & Data Security,Cloud Storage,6.338996912076151,640,2.5460320037405926
+1,Managers,30,Information Processing,Information Processing,14.019515313212489,1088,3.3348670321068004
+1,Managers,31,Cloud Computing,Cloud Computing,47.242415452008345,4340,4.54855129817075
+1,Managers,32,Recommender Systems,Recommender Systems,11.686844727942134,1075,3.1534364000516697
+1,Managers,33,Social Networking & Media Platforms,Social Networking,8.350862779850509,825,2.8190778180813023
+1,Managers,34,Digital Media Content,Digital Media Content,13.800044126285577,1181,3.3191291338835462
+1,Managers,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.7810996909489218,168,1.3412249475217195
+1,Managers,36,Machine Learning & Neural Networks,Machine Learning,0.14776450052491374,19,0.14723199266427606
+1,Managers,37,Medical Imaging & Image Processing,Medical Imaging,0.31719999120366377,38,0.3121081025616424
+1,Managers,38,Health Monitoring,Health Monitoring,1.4006912690558941,128,1.138383772598192
+1,Managers,39,Medical Information,Medical Information,1.8349440479243186,137,1.3672862402956765
+1,Managers,40,E-Healthcare,E-Healthcare,6.648155794239044,504,2.59309564295865
+2,Professionals,1,3D Printer Hardware,3D Printer Hardware,0.028908656295445076,22,0.028904631264791637
+2,Professionals,2,3D Printing,3D Printing,0.6492976703410034,186,0.610635355457117
+2,Professionals,3,Additive Manufacturing,Additive Manufacturing,0.7150198264834817,183,0.664927872549052
+2,Professionals,4,Smart Agriculture & Water Management,Smart Agriculture,2.5430024327631977,717,1.663084505876996
+2,Professionals,5,Internet of Things (IoT),IoT,1.9944571004014076,715,1.4411538635469927
+2,Professionals,6,Predictive Energy Management and Distribution,Energy Management,14.347410920553711,4303,3.357928963495618
+2,Professionals,7,Industrial Automation & Robot Control,Industrial Automation,1.6724531423854587,453,1.2867689851598012
+2,Professionals,8,Remote Monitoring & Control Systems,Remote Monitoring,7.061243450259727,1710,2.6527449709841138
+2,Professionals,9,Smart Home & Intelligent Household Control,Smart Home,4.355978486553168,1264,2.177618968352323
+2,Professionals,10,Intelligent Logistics,Intelligent Logistics,1.4568340648562832,346,1.1705780685149956
+2,Professionals,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,5.561756968054038,1396,2.4170469336372387
+2,Professionals,12,Parking & Vehicle Space Management,Parking Management,1.556185542232722,469,1.2255306393829675
+2,Professionals,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,5.623023452363151,1442,2.427831309187669
+2,Professionals,14,Passenger Transportation,Passenger Transportation,6.738419488712762,1564,2.6064335019596796
+2,Professionals,15,Food Ordering & Vending Systems,Food Ordering,0.47687547969523714,125,0.4604335779930645
+2,Professionals,16,Digital Advertising,Digital Advertising,35.29048602963327,8056,4.256961265935426
+2,Professionals,17,Electronic Trading and Auctions,E-Trading,3.0396834354327833,836,1.8309213207692587
+2,Professionals,18,Online Shopping Platforms,Online Shopping,6.08050972202735,1408,2.5049299036757042
+2,Professionals,19,E-Coupons & Promotion Management,E-Coupons,1.3991308574361911,386,1.137476763583596
+2,Professionals,20,Electronic Payments & Financial Transactions,E-Payment,2.458575172034221,681,1.6317354987607722
+2,Professionals,21,Mobile Payments,Mobile Payment,1.6792300885481806,496,1.2902416306433973
+2,Professionals,22,Gaming & Wagering Systems,Gaming,3.3486829120576136,1115,1.9232978493001502
+2,Professionals,23,Digital Authentication,Digital Authentification,4.5576091891119574,1377,2.221769265553604
+2,Professionals,24,E-Learning,E-Learning,35.69116095638318,8659,4.268246442747111
+2,Professionals,25,Location-Based Services & Tracking,Location-Based Services,4.415684842205353,1187,2.1908919742938995
+2,Professionals,26,Voice Communication,Voice Communication,10.74413388760931,2773,3.069665794097651
+2,Professionals,27,Electronic Messaging,Electronic Messaging,6.088274207358371,1570,2.506189141234803
+2,Professionals,28,Workflow Management,Workflow Management,15.148049398002643,3615,3.4121066737735135
+2,Professionals,29,Cloud Storage & Data Security,Cloud Storage,10.236384170166579,3149,3.0214730062896487
+2,Professionals,30,Information Processing,Information Processing,9.265810215233408,2306,2.922377726840252
+2,Professionals,31,Cloud Computing,Cloud Computing,17.32839857116043,5111,3.5463254088589338
+2,Professionals,32,Recommender Systems,Recommender Systems,8.929269106002211,2508,2.885602589813428
+2,Professionals,33,Social Networking & Media Platforms,Social Networking,15.081045432135761,4662,3.407683259518498
+2,Professionals,34,Digital Media Content,Digital Media Content,16.610890851143843,4621,3.5041105614033867
+2,Professionals,35,Augmented and Virtual Reality (AR/VR),AR/VR,5.2938467431970375,1559,2.368495945668005
+2,Professionals,36,Machine Learning & Neural Networks,Machine Learning,6.042691295193972,2031,2.4987740744472955
+2,Professionals,37,Medical Imaging & Image Processing,Medical Imaging,3.7401012678011676,1014,2.029670940183743
+2,Professionals,38,Health Monitoring,Health Monitoring,10.182920966111796,2662,3.0162613986691458
+2,Professionals,39,Medical Information,Medical Information,18.34377337088542,4159,3.6031795002801905
+2,Professionals,40,E-Healthcare,E-Healthcare,17.221283459588456,4083,3.5401351098729883
+3,Technicians and associate professionals,1,3D Printer Hardware,3D Printer Hardware,0.37778652477836705,116,0.369332511700216
+3,Technicians and associate professionals,2,3D Printing,3D Printing,0.6054575648342617,182,0.5734990845836414
+3,Technicians and associate professionals,3,Additive Manufacturing,Additive Manufacturing,0.900586113701969,189,0.8093025270580739
+3,Technicians and associate professionals,4,Smart Agriculture & Water Management,Smart Agriculture,15.510046768033108,3370,3.4356727918776055
+3,Technicians and associate professionals,5,Internet of Things (IoT),IoT,7.615751456514883,2156,2.727648607500193
+3,Technicians and associate professionals,6,Predictive Energy Management and Distribution,Energy Management,31.086013012930962,7625,4.130163763954374
+3,Technicians and associate professionals,7,Industrial Automation & Robot Control,Industrial Automation,21.379281240707865,4372,3.756115976875071
+3,Technicians and associate professionals,8,Remote Monitoring & Control Systems,Remote Monitoring,29.330959080585433,6283,4.072081230633996
+3,Technicians and associate professionals,9,Smart Home & Intelligent Household Control,Smart Home,21.736869907477274,5626,3.772685763979646
+3,Technicians and associate professionals,10,Intelligent Logistics,Intelligent Logistics,2.0095872219277773,477,1.4479148084092248
+3,Technicians and associate professionals,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,12.39524624056173,3148,3.2120834126756788
+3,Technicians and associate professionals,12,Parking & Vehicle Space Management,Parking Management,0.43490797499635636,149,0.42224828144027404
+3,Technicians and associate professionals,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,13.160559663799136,3063,3.271811933270348
+3,Technicians and associate professionals,14,Passenger Transportation,Passenger Transportation,3.458570708281448,782,1.9542762535665843
+3,Technicians and associate professionals,15,Food Ordering & Vending Systems,Food Ordering,1.5691334212201793,366,1.2325097520347406
+3,Technicians and associate professionals,16,Digital Advertising,Digital Advertising,16.830173465119085,4102,3.5172019271942463
+3,Technicians and associate professionals,17,Electronic Trading and Auctions,E-Trading,21.646919589607386,4430,3.7685434326290363
+3,Technicians and associate professionals,18,Online Shopping Platforms,Online Shopping,22.55033600887379,4767,3.809388409882013
+3,Technicians and associate professionals,19,E-Coupons & Promotion Management,E-Coupons,3.6871619443290875,911,2.0159056648047584
+3,Technicians and associate professionals,20,Electronic Payments & Financial Transactions,E-Payment,42.53134884279182,9482,4.443526780115814
+3,Technicians and associate professionals,21,Mobile Payments,Mobile Payment,10.652901662965792,2734,3.0611751958144384
+3,Technicians and associate professionals,22,Gaming & Wagering Systems,Gaming,7.2150059207610076,2036,2.6740784538599027
+3,Technicians and associate professionals,23,Digital Authentication,Digital Authentification,15.497811585474674,4156,3.4348852617200873
+3,Technicians and associate professionals,24,E-Learning,E-Learning,9.146471816678615,2130,2.9094904437731515
+3,Technicians and associate professionals,25,Location-Based Services & Tracking,Location-Based Services,6.956794649107106,1748,2.637992048241154
+3,Technicians and associate professionals,26,Voice Communication,Voice Communication,33.561736132497785,7820,4.206755667129052
+3,Technicians and associate professionals,27,Electronic Messaging,Electronic Messaging,15.534624913121915,3631,3.4372529216045216
+3,Technicians and associate professionals,28,Workflow Management,Workflow Management,24.51539603558202,4996,3.892864221216764
+3,Technicians and associate professionals,29,Cloud Storage & Data Security,Cloud Storage,9.12807715302089,2586,2.907489246552183
+3,Technicians and associate professionals,30,Information Processing,Information Processing,21.066587777995885,4581,3.7413982883178645
+3,Technicians and associate professionals,31,Cloud Computing,Cloud Computing,16.503453807622286,4563,3.497633489363252
+3,Technicians and associate professionals,32,Recommender Systems,Recommender Systems,7.02032800930642,1754,2.646991492622304
+3,Technicians and associate professionals,33,Social Networking & Media Platforms,Social Networking,8.068217772181296,2237,2.7848983290593883
+3,Technicians and associate professionals,34,Digital Media Content,Digital Media Content,18.46348099068974,4630,3.6096745084463486
+3,Technicians and associate professionals,35,Augmented and Virtual Reality (AR/VR),AR/VR,7.710200836530903,1925,2.73987054635062
+3,Technicians and associate professionals,36,Machine Learning & Neural Networks,Machine Learning,2.9555781824197473,907,1.8043046529806892
+3,Technicians and associate professionals,37,Medical Imaging & Image Processing,Medical Imaging,28.855580368692884,6093,4.055750694845762
+3,Technicians and associate professionals,38,Health Monitoring,Health Monitoring,32.03459332396484,7104,4.160207065483369
+3,Technicians and associate professionals,39,Medical Information,Medical Information,50.21094902862226,9337,4.609479438383076
+3,Technicians and associate professionals,40,E-Healthcare,E-Healthcare,49.02110898532979,9554,4.58550219892121
+4,Clerical support workers,1,3D Printer Hardware,3D Printer Hardware,0.1487681106799056,19,0.1482247502548627
+4,Clerical support workers,2,3D Printing,3D Printing,0.6814377931762073,74,0.6373935216226004
+4,Clerical support workers,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+4,Clerical support workers,4,Smart Agriculture & Water Management,Smart Agriculture,0.15791251677496915,16,0.15726347982552696
+4,Clerical support workers,5,Internet of Things (IoT),IoT,0.24365547274035432,33,0.24130680387739192
+4,Clerical support workers,6,Predictive Energy Management and Distribution,Energy Management,0.45887254391759447,51,0.4441272569223354
+4,Clerical support workers,7,Industrial Automation & Robot Control,Industrial Automation,2.7246726710566165,226,1.727586765194886
+4,Clerical support workers,8,Remote Monitoring & Control Systems,Remote Monitoring,2.430015690327813,210,1.620921293489202
+4,Clerical support workers,9,Smart Home & Intelligent Household Control,Smart Home,8.633940606385579,817,2.852185134608532
+4,Clerical support workers,10,Intelligent Logistics,Intelligent Logistics,40.497703523702604,2708,4.394544848180987
+4,Clerical support workers,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,8.0012074027104525,631,2.7766220294721307
+4,Clerical support workers,12,Parking & Vehicle Space Management,Parking Management,11.84596755959649,1099,3.1669115115140856
+4,Clerical support workers,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,29.59511862298089,2336,4.081041924921992
+4,Clerical support workers,14,Passenger Transportation,Passenger Transportation,59.820525176329326,4298,4.784565867446961
+4,Clerical support workers,15,Food Ordering & Vending Systems,Food Ordering,10.335783295770868,807,3.031091190372056
+4,Clerical support workers,16,Digital Advertising,Digital Advertising,4.924654106694,440,2.2975537186996315
+4,Clerical support workers,17,Electronic Trading and Auctions,E-Trading,5.334001812645308,482,2.3759222030055986
+4,Clerical support workers,18,Online Shopping Platforms,Online Shopping,20.104826323409227,1496,3.694725008875306
+4,Clerical support workers,19,E-Coupons & Promotion Management,E-Coupons,7.159429643138958,664,2.666419540173301
+4,Clerical support workers,20,Electronic Payments & Financial Transactions,E-Payment,178.98766852252916,13625,5.880471896578875
+4,Clerical support workers,21,Mobile Payments,Mobile Payment,83.00997484859224,6985,5.112144239076343
+4,Clerical support workers,22,Gaming & Wagering Systems,Gaming,35.8123147678334,2773,4.271633874220595
+4,Clerical support workers,23,Digital Authentication,Digital Authentification,43.490417786159696,3797,4.465819963487599
+4,Clerical support workers,24,E-Learning,E-Learning,2.9195392801502527,262,1.7926907173474655
+4,Clerical support workers,25,Location-Based Services & Tracking,Location-Based Services,15.00248113669499,1214,3.4024716746506174
+4,Clerical support workers,26,Voice Communication,Voice Communication,61.91808145791571,4575,4.819024627399821
+4,Clerical support workers,27,Electronic Messaging,Electronic Messaging,24.71423642489902,2005,3.9009356842136547
+4,Clerical support workers,28,Workflow Management,Workflow Management,23.382633279004324,1753,3.8455976959486438
+4,Clerical support workers,29,Cloud Storage & Data Security,Cloud Storage,12.072511644857295,1209,3.1857892055603645
+4,Clerical support workers,30,Information Processing,Information Processing,32.20208509411448,2448,4.165419384369449
+4,Clerical support workers,31,Cloud Computing,Cloud Computing,2.243756826643716,256,1.547619422370982
+4,Clerical support workers,32,Recommender Systems,Recommender Systems,2.9847232547086486,265,1.8136044260198974
+4,Clerical support workers,33,Social Networking & Media Platforms,Social Networking,4.060537422170539,386,2.109291411872753
+4,Clerical support workers,34,Digital Media Content,Digital Media Content,3.5039805705970934,334,1.9668134439633795
+4,Clerical support workers,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.9360288111284343,182,1.4146551230828168
+4,Clerical support workers,36,Machine Learning & Neural Networks,Machine Learning,2.150067334233895,216,1.5088016704792167
+4,Clerical support workers,37,Medical Imaging & Image Processing,Medical Imaging,0.9133258908013673,86,0.8187392322500799
+4,Clerical support workers,38,Health Monitoring,Health Monitoring,0.2737070915988546,28,0.27039992547820035
+4,Clerical support workers,39,Medical Information,Medical Information,2.7329681735014333,218,1.7304411041865542
+4,Clerical support workers,40,E-Healthcare,E-Healthcare,2.6345843904278348,210,1.6960867973041507
+5,Service and sales workers,1,3D Printer Hardware,3D Printer Hardware,0.03619454367483798,11,0.03618664558325874
+5,Service and sales workers,2,3D Printing,3D Printing,0.05844628840868,10,0.058413064340341665
+5,Service and sales workers,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+5,Service and sales workers,4,Smart Agriculture & Water Management,Smart Agriculture,0.03141832147382477,6,0.031413154873774565
+5,Service and sales workers,5,Internet of Things (IoT),IoT,0.8318653447401708,129,0.7573579899710131
+5,Service and sales workers,6,Predictive Energy Management and Distribution,Energy Management,1.216241838329141,224,1.0263295225001754
+5,Service and sales workers,7,Industrial Automation & Robot Control,Industrial Automation,0.25759489001605257,45,0.25482794893332955
+5,Service and sales workers,8,Remote Monitoring & Control Systems,Remote Monitoring,5.367504617637544,547,2.38207698311412
+5,Service and sales workers,9,Smart Home & Intelligent Household Control,Smart Home,3.617416422437394,438,1.9974867256099949
+5,Service and sales workers,10,Intelligent Logistics,Intelligent Logistics,2.6523834062495224,274,1.7023844387885683
+5,Service and sales workers,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,15.674309908035475,1674,3.446186258760414
+5,Service and sales workers,12,Parking & Vehicle Space Management,Parking Management,12.53656896080778,1604,3.2233839679736795
+5,Service and sales workers,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,10.261851308368986,1113,3.023946076602581
+5,Service and sales workers,14,Passenger Transportation,Passenger Transportation,9.960295212134266,1098,2.9942643903564834
+5,Service and sales workers,15,Food Ordering & Vending Systems,Food Ordering,26.13944148482661,2372,3.956958208932306
+5,Service and sales workers,16,Digital Advertising,Digital Advertising,11.05088397659108,1259,3.097698478101944
+5,Service and sales workers,17,Electronic Trading and Auctions,E-Trading,5.587276568824349,619,2.4215529175624018
+5,Service and sales workers,18,Online Shopping Platforms,Online Shopping,35.9300499812247,3513,4.274914769589505
+5,Service and sales workers,19,E-Coupons & Promotion Management,E-Coupons,7.224305040758918,846,2.675354301675826
+5,Service and sales workers,20,Electronic Payments & Financial Transactions,E-Payment,6.532526891222756,737,2.575748575409731
+5,Service and sales workers,21,Mobile Payments,Mobile Payment,5.671040074827972,690,2.4362040743059423
+5,Service and sales workers,22,Gaming & Wagering Systems,Gaming,0.7104720630862461,123,0.6612245101120472
+5,Service and sales workers,23,Digital Authentication,Digital Authentification,13.672821942981027,1804,3.3098918528601624
+5,Service and sales workers,24,E-Learning,E-Learning,1.1921630397925633,138,1.010946349740184
+5,Service and sales workers,25,Location-Based Services & Tracking,Location-Based Services,3.25504888767469,373,1.8961558892100894
+5,Service and sales workers,26,Voice Communication,Voice Communication,1.61140520678436,204,1.2550126254354628
+5,Service and sales workers,27,Electronic Messaging,Electronic Messaging,0.5215895243323003,69,0.500438238209384
+5,Service and sales workers,28,Workflow Management,Workflow Management,1.972488978762395,230,1.4312640400469978
+5,Service and sales workers,29,Cloud Storage & Data Security,Cloud Storage,0.23055598608774855,35,0.22856077810185293
+5,Service and sales workers,30,Information Processing,Information Processing,0.8065791225015192,119,0.7377974476638486
+5,Service and sales workers,31,Cloud Computing,Cloud Computing,1.0186815884752882,140,0.8945219629460875
+5,Service and sales workers,32,Recommender Systems,Recommender Systems,1.5456341009411794,184,1.2198127808908037
+5,Service and sales workers,33,Social Networking & Media Platforms,Social Networking,1.0856298758574408,157,0.9406458720806584
+5,Service and sales workers,34,Digital Media Content,Digital Media Content,0.3741984662153298,50,0.3659740059201277
+5,Service and sales workers,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.5390814622140392,195,1.2162480159533942
+5,Service and sales workers,36,Machine Learning & Neural Networks,Machine Learning,0.5085696483337835,87,0.4888635847650697
+5,Service and sales workers,37,Medical Imaging & Image Processing,Medical Imaging,0.11488513578663455,18,0.1146339047130245
+5,Service and sales workers,38,Health Monitoring,Health Monitoring,0.6115265016233736,81,0.5786836293301013
+5,Service and sales workers,39,Medical Information,Medical Information,1.2596179310709,124,1.053587222097337
+5,Service and sales workers,40,E-Healthcare,E-Healthcare,1.2630730841012388,126,1.0557337388405612
+6,"Skilled agricultural, forestry and fishery workers",1,3D Printer Hardware,3D Printer Hardware,0.01590864019315049,3,0.0159079692303052
+6,"Skilled agricultural, forestry and fishery workers",2,3D Printing,3D Printing,0,1,-0
+6,"Skilled agricultural, forestry and fishery workers",3,Additive Manufacturing,Additive Manufacturing,0.018467021793792164,1,0.018465972317349172
+6,"Skilled agricultural, forestry and fishery workers",4,Smart Agriculture & Water Management,Smart Agriculture,110.87747577403066,5189,5.401593285165847
+6,"Skilled agricultural, forestry and fishery workers",5,Internet of Things (IoT),IoT,35.334902345231875,1964,4.258218562318587
+6,"Skilled agricultural, forestry and fishery workers",6,Predictive Energy Management and Distribution,Energy Management,0.05433702149396774,6,0.054310318506703315
+6,"Skilled agricultural, forestry and fishery workers",7,Industrial Automation & Robot Control,Industrial Automation,0.7268830525874314,38,0.6745509454959091
+6,"Skilled agricultural, forestry and fishery workers",8,Remote Monitoring & Control Systems,Remote Monitoring,0.6404485998079565,42,0.6031985371198855
+6,"Skilled agricultural, forestry and fishery workers",9,Smart Home & Intelligent Household Control,Smart Home,0.10381467468610714,7,0.10362909643601649
+6,"Skilled agricultural, forestry and fishery workers",10,Intelligent Logistics,Intelligent Logistics,0.5328574030878176,23,0.5104056438244927
+6,"Skilled agricultural, forestry and fishery workers",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.2875889310551585,28,0.2837653085309879
+6,"Skilled agricultural, forestry and fishery workers",12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.02782563842570395,9,0.027822048934539576
+6,"Skilled agricultural, forestry and fishery workers",14,Passenger Transportation,Passenger Transportation,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",15,Food Ordering & Vending Systems,Food Ordering,0.48441405822666705,30,0.4672280646604724
+6,"Skilled agricultural, forestry and fishery workers",16,Digital Advertising,Digital Advertising,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",17,Electronic Trading and Auctions,E-Trading,0.04363260471127883,4,0.04361877190276334
+6,"Skilled agricultural, forestry and fishery workers",18,Online Shopping Platforms,Online Shopping,0.5333753824125409,38,0.5108627255708021
+6,"Skilled agricultural, forestry and fishery workers",19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",20,Electronic Payments & Financial Transactions,E-Payment,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",21,Mobile Payments,Mobile Payment,0.023476223717142735,2,0.023474067831200242
+6,"Skilled agricultural, forestry and fishery workers",22,Gaming & Wagering Systems,Gaming,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",23,Digital Authentication,Digital Authentification,0.013944371475717084,1,0.013943919611883276
+6,"Skilled agricultural, forestry and fishery workers",24,E-Learning,E-Learning,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",25,Location-Based Services & Tracking,Location-Based Services,0.03629179502480111,2,0.03628383312294339
+6,"Skilled agricultural, forestry and fishery workers",26,Voice Communication,Voice Communication,0.11739130711158818,8,0.11712334277260229
+6,"Skilled agricultural, forestry and fishery workers",27,Electronic Messaging,Electronic Messaging,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",28,Workflow Management,Workflow Management,2.7470109044588877,157,1.735255593180442
+6,"Skilled agricultural, forestry and fishery workers",29,Cloud Storage & Data Security,Cloud Storage,0,1,-0
+6,"Skilled agricultural, forestry and fishery workers",30,Information Processing,Information Processing,0.25650861159206634,14,0.2537758728815223
+6,"Skilled agricultural, forestry and fishery workers",31,Cloud Computing,Cloud Computing,0.5981395737237032,32,0.5672289418083396
+6,"Skilled agricultural, forestry and fishery workers",32,Recommender Systems,Recommender Systems,0.09799868548088442,4,0.09784250050487188
+6,"Skilled agricultural, forestry and fishery workers",33,Social Networking & Media Platforms,Social Networking,0.03417072776996492,3,0.03416408141795225
+6,"Skilled agricultural, forestry and fishery workers",34,Digital Media Content,Digital Media Content,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",35,Augmented and Virtual Reality (AR/VR),AR/VR,0.09913697129577669,19,0.09897529665550225
+6,"Skilled agricultural, forestry and fishery workers",36,Machine Learning & Neural Networks,Machine Learning,0.02477446678807147,3,0.024771933166350013
+6,"Skilled agricultural, forestry and fishery workers",37,Medical Imaging & Image Processing,Medical Imaging,0.0450527994569889,2,0.045037572338984755
+6,"Skilled agricultural, forestry and fishery workers",38,Health Monitoring,Health Monitoring,0,3,-0
+6,"Skilled agricultural, forestry and fishery workers",39,Medical Information,Medical Information,0,0,-0
+6,"Skilled agricultural, forestry and fishery workers",40,E-Healthcare,E-Healthcare,0,2,-0
+7,Craft and related trades workers,1,3D Printer Hardware,3D Printer Hardware,20.466960740902245,3363,3.71255536798876
+7,Craft and related trades workers,2,3D Printing,3D Printing,11.633975273316878,1937,3.1489188756803532
+7,Craft and related trades workers,3,Additive Manufacturing,Additive Manufacturing,22.26559461957133,3347,3.7966937240433403
+7,Craft and related trades workers,4,Smart Agriculture & Water Management,Smart Agriculture,6.254695184293381,1062,2.532809586683016
+7,Craft and related trades workers,5,Internet of Things (IoT),IoT,2.523235695441219,527,1.6558262648752826
+7,Craft and related trades workers,6,Predictive Energy Management and Distribution,Energy Management,17.579052893986926,3428,3.5606632183490334
+7,Craft and related trades workers,7,Industrial Automation & Robot Control,Industrial Automation,5.367361571453028,861,2.382050783185238
+7,Craft and related trades workers,8,Remote Monitoring & Control Systems,Remote Monitoring,14.970420164873165,2390,3.4003370901109156
+7,Craft and related trades workers,9,Smart Home & Intelligent Household Control,Smart Home,11.409786638047905,2171,3.129533506675586
+7,Craft and related trades workers,10,Intelligent Logistics,Intelligent Logistics,0.3092986045143974,62,0.30456801047749255
+7,Craft and related trades workers,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,6.99344818956089,1342,2.643193769935244
+7,Craft and related trades workers,12,Parking & Vehicle Space Management,Parking Management,1.3084380142854741,265,1.0835853373775415
+7,Craft and related trades workers,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,20.51193859027327,3355,3.714747930269231
+7,Craft and related trades workers,14,Passenger Transportation,Passenger Transportation,0.5245572279271681,102,0.5030679186223348
+7,Craft and related trades workers,15,Food Ordering & Vending Systems,Food Ordering,1.0127084092951277,164,0.8903313000802069
+7,Craft and related trades workers,16,Digital Advertising,Digital Advertising,0.78506761686999,141,0.7209655131428626
+7,Craft and related trades workers,17,Electronic Trading and Auctions,E-Trading,0.16482759529144383,36,0.16409023185430355
+7,Craft and related trades workers,18,Online Shopping Platforms,Online Shopping,0.8407806975077029,137,0.7641968906878261
+7,Craft and related trades workers,19,E-Coupons & Promotion Management,E-Coupons,0.07359740688029894,28,0.07353112728791464
+7,Craft and related trades workers,20,Electronic Payments & Financial Transactions,E-Payment,0.17019390767655881,31,0.16938279788846874
+7,Craft and related trades workers,21,Mobile Payments,Mobile Payment,0.6587266695277286,117,0.6185265390904086
+7,Craft and related trades workers,22,Gaming & Wagering Systems,Gaming,0.1768203186569626,47,0.175911652176715
+7,Craft and related trades workers,23,Digital Authentication,Digital Authentification,0.2704723575836793,74,0.2672786675418057
+7,Craft and related trades workers,24,E-Learning,E-Learning,0.6604326465505393,137,0.6199506386923503
+7,Craft and related trades workers,25,Location-Based Services & Tracking,Location-Based Services,2.191745864672153,382,1.5262395894307996
+7,Craft and related trades workers,26,Voice Communication,Voice Communication,7.428977640552392,1203,2.7030347881534142
+7,Craft and related trades workers,27,Electronic Messaging,Electronic Messaging,1.194072608492117,206,1.0121729727164732
+7,Craft and related trades workers,28,Workflow Management,Workflow Management,2.9341243717586583,475,1.7974063159546285
+7,Craft and related trades workers,29,Cloud Storage & Data Security,Cloud Storage,0.17002085097568403,34,0.1692121919560721
+7,Craft and related trades workers,30,Information Processing,Information Processing,1.448389300234915,261,1.165789539209651
+7,Craft and related trades workers,31,Cloud Computing,Cloud Computing,0.7371127256940642,164,0.6828054598170601
+7,Craft and related trades workers,32,Recommender Systems,Recommender Systems,1.1063383979049133,209,0.9546038803227926
+7,Craft and related trades workers,33,Social Networking & Media Platforms,Social Networking,0.5752997417366856,116,0.5475295473287921
+7,Craft and related trades workers,34,Digital Media Content,Digital Media Content,0.9653132292241879,180,0.8566324305294442
+7,Craft and related trades workers,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.5768054427817433,132,0.5488342551718429
+7,Craft and related trades workers,36,Machine Learning & Neural Networks,Machine Learning,0.6588895024718869,183,0.6186625154611358
+7,Craft and related trades workers,37,Medical Imaging & Image Processing,Medical Imaging,0.6103894569272128,116,0.5777133436493955
+7,Craft and related trades workers,38,Health Monitoring,Health Monitoring,0.9775985791186909,197,0.8654443513349775
+7,Craft and related trades workers,39,Medical Information,Medical Information,0.08264801540151911,21,0.08255421289108263
+7,Craft and related trades workers,40,E-Healthcare,E-Healthcare,0.25353469773425824,51,0.2508941905157368
+8,"Plant and machine operators, and assemblers",1,3D Printer Hardware,3D Printer Hardware,235.30319931887118,23941,6.154026588211969
+8,"Plant and machine operators, and assemblers",2,3D Printing,3D Printing,114.04116319269619,11506,5.429725866667692
+8,"Plant and machine operators, and assemblers",3,Additive Manufacturing,Additive Manufacturing,52.500720511301424,5057,4.654064762209043
+8,"Plant and machine operators, and assemblers",4,Smart Agriculture & Water Management,Smart Agriculture,23.84394578735894,2780,3.865116958151007
+8,"Plant and machine operators, and assemblers",5,Internet of Things (IoT),IoT,6.609984276413999,933,2.587401846331906
+8,"Plant and machine operators, and assemblers",6,Predictive Energy Management and Distribution,Energy Management,2.527347091019554,350,1.657339988519899
+8,"Plant and machine operators, and assemblers",7,Industrial Automation & Robot Control,Industrial Automation,30.26840208225067,3182,4.103524275037932
+8,"Plant and machine operators, and assemblers",8,Remote Monitoring & Control Systems,Remote Monitoring,27.43997350824398,2780,4.005479879146436
+8,"Plant and machine operators, and assemblers",9,Smart Home & Intelligent Household Control,Smart Home,7.5918961810555565,1005,2.7245381150903194
+8,"Plant and machine operators, and assemblers",10,Intelligent Logistics,Intelligent Logistics,14.504378338646198,1450,3.3687839690180215
+8,"Plant and machine operators, and assemblers",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,48.8180940238705,5556,4.581353088068715
+8,"Plant and machine operators, and assemblers",12,Parking & Vehicle Space Management,Parking Management,25.09948457905666,3016,3.9163910911742352
+8,"Plant and machine operators, and assemblers",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,90.37121206398568,9565,5.197103556377314
+8,"Plant and machine operators, and assemblers",14,Passenger Transportation,Passenger Transportation,53.34723568618603,5296,4.670057175522716
+8,"Plant and machine operators, and assemblers",15,Food Ordering & Vending Systems,Food Ordering,7.097625710110737,734,2.6578336139505225
+8,"Plant and machine operators, and assemblers",16,Digital Advertising,Digital Advertising,2.8234398656824746,347,1.7610834502816557
+8,"Plant and machine operators, and assemblers",17,Electronic Trading and Auctions,E-Trading,0.15964709804321892,31,0.158976600548148
+8,"Plant and machine operators, and assemblers",18,Online Shopping Platforms,Online Shopping,3.6178815546484566,395,1.997610651268966
+8,"Plant and machine operators, and assemblers",19,E-Coupons & Promotion Management,E-Coupons,0.5939890090282761,87,0.5636636867995378
+8,"Plant and machine operators, and assemblers",20,Electronic Payments & Financial Transactions,E-Payment,3.31370146005219,374,1.9132400018041702
+8,"Plant and machine operators, and assemblers",21,Mobile Payments,Mobile Payment,1.7426648617736296,224,1.3222527595002662
+8,"Plant and machine operators, and assemblers",22,Gaming & Wagering Systems,Gaming,0.8352954055423931,142,0.7599927157082818
+8,"Plant and machine operators, and assemblers",23,Digital Authentication,Digital Authentification,1.3135220076285676,193,1.0866687169631917
+8,"Plant and machine operators, and assemblers",24,E-Learning,E-Learning,0.46157822973980006,69,0.44658513599952626
+8,"Plant and machine operators, and assemblers",25,Location-Based Services & Tracking,Location-Based Services,7.278328827137302,841,2.6827346882073657
+8,"Plant and machine operators, and assemblers",26,Voice Communication,Voice Communication,2.8507562479223907,355,1.770164213842278
+8,"Plant and machine operators, and assemblers",27,Electronic Messaging,Electronic Messaging,1.0048602499964396,132,0.884806130314601
+8,"Plant and machine operators, and assemblers",28,Workflow Management,Workflow Management,7.481855030644086,729,2.7100643438148677
+8,"Plant and machine operators, and assemblers",29,Cloud Storage & Data Security,Cloud Storage,0.8569661806969384,123,0.7765361237842213
+8,"Plant and machine operators, and assemblers",30,Information Processing,Information Processing,10.840274888008063,1122,3.0785362280494857
+8,"Plant and machine operators, and assemblers",31,Cloud Computing,Cloud Computing,1.9381337396645582,311,1.4156206984806008
+8,"Plant and machine operators, and assemblers",32,Recommender Systems,Recommender Systems,0.5114870388996633,76,0.4914624696292743
+8,"Plant and machine operators, and assemblers",33,Social Networking & Media Platforms,Social Networking,0.5684080653941856,78,0.5415469953637313
+8,"Plant and machine operators, and assemblers",34,Digital Media Content,Digital Media Content,6.700426250243067,804,2.6008408405474017
+8,"Plant and machine operators, and assemblers",35,Augmented and Virtual Reality (AR/VR),AR/VR,5.947774479064192,701,2.4831574695339627
+8,"Plant and machine operators, and assemblers",36,Machine Learning & Neural Networks,Machine Learning,6.7242519026746574,962,2.604351627714442
+8,"Plant and machine operators, and assemblers",37,Medical Imaging & Image Processing,Medical Imaging,13.187524230268771,1341,3.273852857918726
+8,"Plant and machine operators, and assemblers",38,Health Monitoring,Health Monitoring,1.9603723814474225,292,1.4257716993866092
+8,"Plant and machine operators, and assemblers",39,Medical Information,Medical Information,1.0107266218693636,109,0.8889381505898565
+8,"Plant and machine operators, and assemblers",40,E-Healthcare,E-Healthcare,0.2614262563341774,35,0.2585364714070829
+9,Elementary occupations,1,3D Printer Hardware,3D Printer Hardware,2.650159457384272,238,1.7015995871121987
+9,Elementary occupations,2,3D Printing,3D Printing,0.8757549446529508,67,0.7907367728909945
+9,Elementary occupations,3,Additive Manufacturing,Additive Manufacturing,0.08967865426369717,7,0.08955888401894466
+9,Elementary occupations,4,Smart Agriculture & Water Management,Smart Agriculture,18.627552211718328,1659,3.6185086803070523
+9,Elementary occupations,5,Internet of Things (IoT),IoT,11.684196547417539,1218,3.153210604649941
+9,Elementary occupations,6,Predictive Energy Management and Distribution,Energy Management,22.185341326924974,1984,3.7930864987730257
+9,Elementary occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.6696432637841094,95,0.6276200943192789
+9,Elementary occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,6.179868496552215,515,2.520926898877626
+9,Elementary occupations,9,Smart Home & Intelligent Household Control,Smart Home,8.884219473463054,859,2.880576236498328
+9,Elementary occupations,10,Intelligent Logistics,Intelligent Logistics,67.61208402133792,4772,4.906988588774806
+9,Elementary occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,50.04566409051759,4045,4.6061828536619
+9,Elementary occupations,12,Parking & Vehicle Space Management,Parking Management,51.283006908016134,5050,4.630601673910802
+9,Elementary occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,19.684793464496735,1769,3.673638165510375
+9,Elementary occupations,14,Passenger Transportation,Passenger Transportation,15.62406268383717,1347,3.442981939344944
+9,Elementary occupations,15,Food Ordering & Vending Systems,Food Ordering,22.572875379075473,1576,3.8103864445625244
+9,Elementary occupations,16,Digital Advertising,Digital Advertising,1.9989194686101728,188,1.4431521423959046
+9,Elementary occupations,17,Electronic Trading and Auctions,E-Trading,1.038586798559976,125,0.9083970799019567
+9,Elementary occupations,18,Online Shopping Platforms,Online Shopping,12.830434979307485,1014,3.246482462539303
+9,Elementary occupations,19,E-Coupons & Promotion Management,E-Coupons,2.422347888802773,245,1.6179993197800011
+9,Elementary occupations,20,Electronic Payments & Financial Transactions,E-Payment,7.227485854225102,611,2.6757903423780607
+9,Elementary occupations,21,Mobile Payments,Mobile Payment,10.20671316778918,978,3.01858400764678
+9,Elementary occupations,22,Gaming & Wagering Systems,Gaming,2.443077019659254,252,1.6258804726840625
+9,Elementary occupations,23,Digital Authentication,Digital Authentification,0.970763354196809,102,0.8605483231533081
+9,Elementary occupations,24,E-Learning,E-Learning,0.04066294614864445,6,0.04065174861622613
+9,Elementary occupations,25,Location-Based Services & Tracking,Location-Based Services,4.744494456481198,433,2.2610575475943815
+9,Elementary occupations,26,Voice Communication,Voice Communication,1.5253913591955597,141,1.2087657795153142
+9,Elementary occupations,27,Electronic Messaging,Electronic Messaging,5.026536414397854,471,2.3176293254435034
+9,Elementary occupations,28,Workflow Management,Workflow Management,4.265769681806628,339,2.1572337128767565
+9,Elementary occupations,29,Cloud Storage & Data Security,Cloud Storage,0.45736365375830973,61,0.44275546619696726
+9,Elementary occupations,30,Information Processing,Information Processing,1.689593174261366,164,1.2955319279781414
+9,Elementary occupations,31,Cloud Computing,Cloud Computing,0.7034720935807313,82,0.6555086960177198
+9,Elementary occupations,32,Recommender Systems,Recommender Systems,0.4602642263198256,48,0.4453917941950883
+9,Elementary occupations,33,Social Networking & Media Platforms,Social Networking,0.23620978658811137,30,0.23406661576437637
+9,Elementary occupations,34,Digital Media Content,Digital Media Content,1.285797654115443,128,1.0697619230067843
+9,Elementary occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.21646084924686632,26,0.21480513786695868
+9,Elementary occupations,36,Machine Learning & Neural Networks,Machine Learning,0.1912300695677866,35,0.1900833284385893
+9,Elementary occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.010718410831539021,3,0.01071820561257239
+9,Elementary occupations,38,Health Monitoring,Health Monitoring,1.0003686012358515,110,0.8816342034363467
+9,Elementary occupations,39,Medical Information,Medical Information,0.3160754834844947,28,0.311036052981976
+9,Elementary occupations,40,E-Healthcare,E-Healthcare,0.04550747581223455,4,0.045491783296483686

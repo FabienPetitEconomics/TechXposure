@@ -1,0 +1,616 @@
+nace1d,nace1d_label,nace2d,nace2d_label,nace3d,nace3d_label,nace4d,nace4d_label
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.11,"Growing of cereals (except rice), leguminous crops and oil seeds"
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.12,Growing of rice
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.13,"Growing of vegetables and melons, roots and tubers"
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.14,Growing of sugar cane
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.15,Growing of tobacco
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.16,Growing of fibre crops
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.1,Growing of non-perennial crops,01.19,Growing of other non-perennial crops
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.21,Growing of grapes
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.22,Growing of tropical and subtropical fruits
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.23,Growing of citrus fruits
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.24,Growing of pome fruits and stone fruits
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.25,Growing of other tree and bush fruits and nuts
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.26,Growing of oleaginous fruits
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.27,Growing of beverage crops
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.28,"Growing of spices, aromatic, drug and pharmaceutical crops"
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.2,Growing of perennial crops,01.29,Growing of other perennial crops
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.3,Plant propagation,01.30,Plant propagation
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.41,Raising of dairy cattle
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.42,Raising of other cattle and buffaloes
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.43,Raising of horses and other equines
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.44,Raising of camels and camelids
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.45,Raising of sheep and goats
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.46,Raising of swine/pigs
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.47,Raising of poultry
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.4,Animal production,01.49,Raising of other animals
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.5,Mixed farming,01.50,Mixed farming
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.6,Support activities to agriculture and post-harvest crop activities,01.61,Support activities for crop production
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.6,Support activities to agriculture and post-harvest crop activities,01.62,Support activities for animal production
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.6,Support activities to agriculture and post-harvest crop activities,01.63,Post-harvest crop activities
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.6,Support activities to agriculture and post-harvest crop activities,01.64,Seed processing for propagation
+A,"AGRICULTURE, FORESTRY AND FISHING",01,"Crop and animal production, hunting and related service activities",01.7,"Hunting, trapping and related service activities",01.70,"Hunting, trapping and related service activities"
+A,"AGRICULTURE, FORESTRY AND FISHING",02,Forestry and logging,02.1,Silviculture and other forestry activities,02.10,Silviculture and other forestry activities
+A,"AGRICULTURE, FORESTRY AND FISHING",02,Forestry and logging,02.2,Logging,02.20,Logging
+A,"AGRICULTURE, FORESTRY AND FISHING",02,Forestry and logging,02.3,Gathering of wild growing non-wood products,02.30,Gathering of wild growing non-wood products
+A,"AGRICULTURE, FORESTRY AND FISHING",02,Forestry and logging,02.4,Support services to forestry,02.40,Support services to forestry
+A,"AGRICULTURE, FORESTRY AND FISHING",03,Fishing and aquaculture,03.1,Fishing,03.11,Marine fishing
+A,"AGRICULTURE, FORESTRY AND FISHING",03,Fishing and aquaculture,03.1,Fishing,03.12,Freshwater fishing
+A,"AGRICULTURE, FORESTRY AND FISHING",03,Fishing and aquaculture,03.2,Aquaculture,03.21,Marine aquaculture
+A,"AGRICULTURE, FORESTRY AND FISHING",03,Fishing and aquaculture,03.2,Aquaculture,03.22,Freshwater aquaculture
+B,MINING AND QUARRYING,05,Mining of coal and lignite,05.1,Mining of hard coal,05.10,Mining of hard coal
+B,MINING AND QUARRYING,05,Mining of coal and lignite,05.2,Mining of lignite,05.20,Mining of lignite
+B,MINING AND QUARRYING,06,Extraction of crude petroleum and natural gas,06.1,Extraction of crude petroleum,06.10,Extraction of crude petroleum
+B,MINING AND QUARRYING,06,Extraction of crude petroleum and natural gas,06.2,Extraction of natural gas,06.20,Extraction of natural gas
+B,MINING AND QUARRYING,07,Mining of metal ores,07.1,Mining of iron ores,07.10,Mining of iron ores
+B,MINING AND QUARRYING,07,Mining of metal ores,07.2,Mining of non-ferrous metal ores,07.21,Mining of uranium and thorium ores
+B,MINING AND QUARRYING,07,Mining of metal ores,07.2,Mining of non-ferrous metal ores,07.29,Mining of other non-ferrous metal ores
+B,MINING AND QUARRYING,08,Other mining and quarrying,08.1,"Quarrying of stone, sand and clay",08.11,"Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate"
+B,MINING AND QUARRYING,08,Other mining and quarrying,08.1,"Quarrying of stone, sand and clay",08.12,Operation of gravel and sand pits; mining of clays and kaolin
+B,MINING AND QUARRYING,08,Other mining and quarrying,08.9,Mining and quarrying n.e.c.,08.91,Mining of chemical and fertiliser minerals
+B,MINING AND QUARRYING,08,Other mining and quarrying,08.9,Mining and quarrying n.e.c.,08.92,Extraction of peat
+B,MINING AND QUARRYING,08,Other mining and quarrying,08.9,Mining and quarrying n.e.c.,08.93,Extraction of salt
+B,MINING AND QUARRYING,08,Other mining and quarrying,08.9,Mining and quarrying n.e.c.,08.99,Other mining and quarrying n.e.c.
+B,MINING AND QUARRYING,09,Mining support service activities,09.1,Support activities for petroleum and natural gas extraction,09.10,Support activities for petroleum and natural gas extraction
+B,MINING AND QUARRYING,09,Mining support service activities,09.9,Support activities for other mining and quarrying,09.90,Support activities for other mining and quarrying
+C,MANUFACTURING,10,Manufacture of food products,10.1,Processing and preserving of meat and production of meat products,10.11,Processing and preserving of meat
+C,MANUFACTURING,10,Manufacture of food products,10.1,Processing and preserving of meat and production of meat products,10.12,Processing and preserving of poultry meat
+C,MANUFACTURING,10,Manufacture of food products,10.1,Processing and preserving of meat and production of meat products,10.13,Production of meat and poultry meat products
+C,MANUFACTURING,10,Manufacture of food products,10.2,"Processing and preserving of fish, crustaceans and molluscs",10.20,"Processing and preserving of fish, crustaceans and molluscs"
+C,MANUFACTURING,10,Manufacture of food products,10.3,Processing and preserving of fruit and vegetables,10.31,Processing and preserving of potatoes
+C,MANUFACTURING,10,Manufacture of food products,10.3,Processing and preserving of fruit and vegetables,10.32,Manufacture of fruit and vegetable juice
+C,MANUFACTURING,10,Manufacture of food products,10.3,Processing and preserving of fruit and vegetables,10.39,Other processing and preserving of fruit and vegetables
+C,MANUFACTURING,10,Manufacture of food products,10.4,Manufacture of vegetable and animal oils and fats,10.41,Manufacture of oils and fats
+C,MANUFACTURING,10,Manufacture of food products,10.4,Manufacture of vegetable and animal oils and fats,10.42,Manufacture of margarine and similar edible fats
+C,MANUFACTURING,10,Manufacture of food products,10.5,Manufacture of dairy products,10.51,Operation of dairies and cheese making
+C,MANUFACTURING,10,Manufacture of food products,10.5,Manufacture of dairy products,10.52,Manufacture of ice cream
+C,MANUFACTURING,10,Manufacture of food products,10.6,"Manufacture of grain mill products, starches and starch products",10.61,Manufacture of grain mill products
+C,MANUFACTURING,10,Manufacture of food products,10.6,"Manufacture of grain mill products, starches and starch products",10.62,Manufacture of starches and starch products
+C,MANUFACTURING,10,Manufacture of food products,10.7,Manufacture of bakery and farinaceous products,10.71,Manufacture of bread; manufacture of fresh pastry goods and cakes
+C,MANUFACTURING,10,Manufacture of food products,10.7,Manufacture of bakery and farinaceous products,10.72,Manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes
+C,MANUFACTURING,10,Manufacture of food products,10.7,Manufacture of bakery and farinaceous products,10.73,"Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.81,Manufacture of sugar
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.82,"Manufacture of cocoa, chocolate and sugar confectionery"
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.83,Processing of tea and coffee
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.84,Manufacture of condiments and seasonings
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.85,Manufacture of prepared meals and dishes
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.86,Manufacture of homogenised food preparations and dietetic food
+C,MANUFACTURING,10,Manufacture of food products,10.8,Manufacture of other food products,10.89,Manufacture of other food products n.e.c.
+C,MANUFACTURING,10,Manufacture of food products,10.9,Manufacture of prepared animal feeds,10.91,Manufacture of prepared feeds for farm animals
+C,MANUFACTURING,10,Manufacture of food products,10.9,Manufacture of prepared animal feeds,10.92,Manufacture of prepared pet foods
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.01,"Distilling, rectifying and blending of spirits"
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.02,Manufacture of wine from grape
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.03,Manufacture of cider and other fruit wines
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.04,Manufacture of other non-distilled fermented beverages
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.05,Manufacture of beer
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.06,Manufacture of malt
+C,MANUFACTURING,11,Manufacture of beverages,11.0,Manufacture of beverages,11.07,Manufacture of soft drinks; production of mineral waters and other bottled waters
+C,MANUFACTURING,12,Manufacture of tobacco products,12.0,Manufacture of tobacco products,12.00,Manufacture of tobacco products
+C,MANUFACTURING,13,Manufacture of textiles,13.1,Preparation and spinning of textile fibres,13.10,Preparation and spinning of textile fibres
+C,MANUFACTURING,13,Manufacture of textiles,13.2,Weaving of textiles,13.20,Weaving of textiles
+C,MANUFACTURING,13,Manufacture of textiles,13.3,Finishing of textiles,13.30,Finishing of textiles
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.91,Manufacture of knitted and crocheted fabrics
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.92,"Manufacture of made-up textile articles, except apparel"
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.93,Manufacture of carpets and rugs
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.94,"Manufacture of cordage, rope, twine and netting"
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.95,"Manufacture of non-wovens and articles made from non-wovens, except apparel"
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.96,Manufacture of other technical and industrial textiles
+C,MANUFACTURING,13,Manufacture of textiles,13.9,Manufacture of other textiles,13.99,Manufacture of other textiles n.e.c.
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.1,"Manufacture of wearing apparel, except fur apparel",14.11,Manufacture of leather clothes
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.1,"Manufacture of wearing apparel, except fur apparel",14.12,Manufacture of workwear
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.1,"Manufacture of wearing apparel, except fur apparel",14.13,Manufacture of other outerwear
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.1,"Manufacture of wearing apparel, except fur apparel",14.14,Manufacture of underwear
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.1,"Manufacture of wearing apparel, except fur apparel",14.19,Manufacture of other wearing apparel and accessories
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.2,Manufacture of articles of fur,14.20,Manufacture of articles of fur
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.3,Manufacture of knitted and crocheted apparel,14.31,Manufacture of knitted and crocheted hosiery
+C,MANUFACTURING,14,Manufacture of wearing apparel,14.3,Manufacture of knitted and crocheted apparel,14.39,Manufacture of other knitted and crocheted apparel
+C,MANUFACTURING,15,Manufacture of leather and related products,15.1,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",15.11,Tanning and dressing of leather; dressing and dyeing of fur
+C,MANUFACTURING,15,Manufacture of leather and related products,15.1,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",15.12,"Manufacture of luggage, handbags and the like, saddlery and harness"
+C,MANUFACTURING,15,Manufacture of leather and related products,15.2,Manufacture of footwear,15.20,Manufacture of footwear
+C,MANUFACTURING,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16.1,Sawmilling and planing of wood,16.10,Sawmilling and planing of wood
+C,MANUFACTURING,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16.2,"Manufacture of products of wood, cork, straw and plaiting materials",16.21,Manufacture of veneer sheets and wood-based panels
+C,MANUFACTURING,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16.2,"Manufacture of products of wood, cork, straw and plaiting materials",16.22,Manufacture of assembled parquet floors
+C,MANUFACTURING,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16.2,"Manufacture of products of wood, cork, straw and plaiting materials",16.23,Manufacture of other builders' carpentry and joinery
+C,MANUFACTURING,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16.2,"Manufacture of products of wood, cork, straw and plaiting materials",16.24,Manufacture of wooden containers
+C,MANUFACTURING,16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",16.2,"Manufacture of products of wood, cork, straw and plaiting materials",16.29,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials"
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.1,"Manufacture of pulp, paper and paperboard",17.11,Manufacture of pulp
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.1,"Manufacture of pulp, paper and paperboard",17.12,Manufacture of paper and paperboard
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.2,Manufacture of articles of paper and paperboard,17.21,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.2,Manufacture of articles of paper and paperboard,17.22,Manufacture of household and sanitary goods and of toilet requisites
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.2,Manufacture of articles of paper and paperboard,17.23,Manufacture of paper stationery
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.2,Manufacture of articles of paper and paperboard,17.24,Manufacture of wallpaper
+C,MANUFACTURING,17,Manufacture of paper and paper products,17.2,Manufacture of articles of paper and paperboard,17.29,Manufacture of other articles of paper and paperboard
+C,MANUFACTURING,18,Printing and reproduction of recorded media,18.1,Printing and service activities related to printing,18.11,Printing of newspapers
+C,MANUFACTURING,18,Printing and reproduction of recorded media,18.1,Printing and service activities related to printing,18.12,Other printing
+C,MANUFACTURING,18,Printing and reproduction of recorded media,18.1,Printing and service activities related to printing,18.13,Pre-press and pre-media services
+C,MANUFACTURING,18,Printing and reproduction of recorded media,18.1,Printing and service activities related to printing,18.14,Binding and related services
+C,MANUFACTURING,18,Printing and reproduction of recorded media,18.2,Reproduction of recorded media,18.20,Reproduction of recorded media
+C,MANUFACTURING,19,Manufacture of coke and refined petroleum products,19.1,Manufacture of coke oven products,19.10,Manufacture of coke oven products
+C,MANUFACTURING,19,Manufacture of coke and refined petroleum products,19.2,Manufacture of refined petroleum products,19.20,Manufacture of refined petroleum products
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.11,Manufacture of industrial gases
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.12,Manufacture of dyes and pigments
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.13,Manufacture of other inorganic basic chemicals
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.14,Manufacture of other organic basic chemicals
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.15,Manufacture of fertilisers and nitrogen compounds
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.16,Manufacture of plastics in primary forms
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.1,"Manufacture of basic chemicals, fertilisers and nitrogen compounds, plastics and synthetic rubber in primary forms",20.17,Manufacture of synthetic rubber in primary forms
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.2,Manufacture of pesticides and other agrochemical products,20.20,Manufacture of pesticides and other agrochemical products
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.3,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",20.30,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.4,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",20.41,"Manufacture of soap and detergents, cleaning and polishing preparations"
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.4,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",20.42,Manufacture of perfumes and toilet preparations
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.5,Manufacture of other chemical products,20.51,Manufacture of explosives
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.5,Manufacture of other chemical products,20.52,Manufacture of glues
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.5,Manufacture of other chemical products,20.53,Manufacture of essential oils
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.5,Manufacture of other chemical products,20.59,Manufacture of other chemical products n.e.c.
+C,MANUFACTURING,20,Manufacture of chemicals and chemical products,20.6,Manufacture of man-made fibres,20.60,Manufacture of man-made fibres
+C,MANUFACTURING,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,21.1,Manufacture of basic pharmaceutical products,21.10,Manufacture of basic pharmaceutical products
+C,MANUFACTURING,21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,21.2,Manufacture of pharmaceutical preparations,21.20,Manufacture of pharmaceutical preparations
+C,MANUFACTURING,22,Manufacture of rubber and plastic products,22.1,Manufacture of rubber products,22.11,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+C,MANUFACTURING,22,Manufacture of rubber and plastic products,22.1,Manufacture of rubber products,22.19,Manufacture of other rubber products
+C,MANUFACTURING,22,Manufacture of rubber and plastic products,22.2,Manufacture of plastic products,22.21,"Manufacture of plastic plates, sheets, tubes and profiles"
+C,MANUFACTURING,22,Manufacture of rubber and plastic products,22.2,Manufacture of plastic products,22.22,Manufacture of plastic packing goods
+C,MANUFACTURING,22,Manufacture of rubber and plastic products,22.2,Manufacture of plastic products,22.23,Manufacture of builders’ ware of plastic
+C,MANUFACTURING,22,Manufacture of rubber and plastic products,22.2,Manufacture of plastic products,22.29,Manufacture of other plastic products
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.1,Manufacture of glass and glass products,23.11,Manufacture of flat glass
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.1,Manufacture of glass and glass products,23.12,Shaping and processing of flat glass
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.1,Manufacture of glass and glass products,23.13,Manufacture of hollow glass
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.1,Manufacture of glass and glass products,23.14,Manufacture of glass fibres
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.1,Manufacture of glass and glass products,23.19,"Manufacture and processing of other glass, including technical glassware"
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.2,Manufacture of refractory products,23.20,Manufacture of refractory products
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.3,Manufacture of clay building materials,23.31,Manufacture of ceramic tiles and flags
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.3,Manufacture of clay building materials,23.32,"Manufacture of bricks, tiles and construction products, in baked clay"
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.4,Manufacture of other porcelain and ceramic products,23.41,Manufacture of ceramic household and ornamental articles
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.4,Manufacture of other porcelain and ceramic products,23.42,Manufacture of ceramic sanitary fixtures
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.4,Manufacture of other porcelain and ceramic products,23.43,Manufacture of ceramic insulators and insulating fittings
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.4,Manufacture of other porcelain and ceramic products,23.44,Manufacture of other technical ceramic products
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.4,Manufacture of other porcelain and ceramic products,23.49,Manufacture of other ceramic products
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.5,"Manufacture of cement, lime and plaster",23.51,Manufacture of cement
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.5,"Manufacture of cement, lime and plaster",23.52,Manufacture of lime and plaster
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.6,"Manufacture of articles of concrete, cement and plaster",23.61,Manufacture of concrete products for construction purposes
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.6,"Manufacture of articles of concrete, cement and plaster",23.62,Manufacture of plaster products for construction purposes
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.6,"Manufacture of articles of concrete, cement and plaster",23.63,Manufacture of ready-mixed concrete
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.6,"Manufacture of articles of concrete, cement and plaster",23.64,Manufacture of mortars
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.6,"Manufacture of articles of concrete, cement and plaster",23.65,Manufacture of fibre cement
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.6,"Manufacture of articles of concrete, cement and plaster",23.69,"Manufacture of other articles of concrete, plaster and cement"
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.7,"Cutting, shaping and finishing of stone",23.70,"Cutting, shaping and finishing of stone"
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.9,Manufacture of abrasive products and non-metallic mineral products n.e.c.,23.91,Production of abrasive products
+C,MANUFACTURING,23,Manufacture of other non-metallic mineral products,23.9,Manufacture of abrasive products and non-metallic mineral products n.e.c.,23.99,Manufacture of other non-metallic mineral products n.e.c.
+C,MANUFACTURING,24,Manufacture of basic metals,24.1,Manufacture of basic iron and steel and of ferro-alloys,24.10,Manufacture of basic iron and steel and of ferro-alloys
+C,MANUFACTURING,24,Manufacture of basic metals,24.2,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel",24.20,"Manufacture of tubes, pipes, hollow profiles and related fittings, of steel"
+C,MANUFACTURING,24,Manufacture of basic metals,24.3,Manufacture of other products of first processing of steel,24.31,Cold drawing of bars
+C,MANUFACTURING,24,Manufacture of basic metals,24.3,Manufacture of other products of first processing of steel,24.32,Cold rolling of narrow strip
+C,MANUFACTURING,24,Manufacture of basic metals,24.3,Manufacture of other products of first processing of steel,24.33,Cold forming or folding
+C,MANUFACTURING,24,Manufacture of basic metals,24.3,Manufacture of other products of first processing of steel,24.34,Cold drawing of wire
+C,MANUFACTURING,24,Manufacture of basic metals,24.4,Manufacture of basic precious and other non-ferrous metals,24.41,Precious metals production
+C,MANUFACTURING,24,Manufacture of basic metals,24.4,Manufacture of basic precious and other non-ferrous metals,24.42,Aluminium production
+C,MANUFACTURING,24,Manufacture of basic metals,24.4,Manufacture of basic precious and other non-ferrous metals,24.43,"Lead, zinc and tin production"
+C,MANUFACTURING,24,Manufacture of basic metals,24.4,Manufacture of basic precious and other non-ferrous metals,24.44,Copper production
+C,MANUFACTURING,24,Manufacture of basic metals,24.4,Manufacture of basic precious and other non-ferrous metals,24.45,Other non-ferrous metal production
+C,MANUFACTURING,24,Manufacture of basic metals,24.4,Manufacture of basic precious and other non-ferrous metals,24.46,Processing of nuclear fuel
+C,MANUFACTURING,24,Manufacture of basic metals,24.5,Casting of metals,24.51,Casting of iron
+C,MANUFACTURING,24,Manufacture of basic metals,24.5,Casting of metals,24.52,Casting of steel
+C,MANUFACTURING,24,Manufacture of basic metals,24.5,Casting of metals,24.53,Casting of light metals
+C,MANUFACTURING,24,Manufacture of basic metals,24.5,Casting of metals,24.54,Casting of other non-ferrous metals
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.1,Manufacture of structural metal products,25.11,Manufacture of metal structures and parts of structures
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.1,Manufacture of structural metal products,25.12,Manufacture of doors and windows of metal
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.2,"Manufacture of tanks, reservoirs and containers of metal",25.21,Manufacture of central heating radiators and boilers
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.2,"Manufacture of tanks, reservoirs and containers of metal",25.29,"Manufacture of other tanks, reservoirs and containers of metal"
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.3,"Manufacture of steam generators, except central heating hot water boilers",25.30,"Manufacture of steam generators, except central heating hot water boilers"
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.4,Manufacture of weapons and ammunition,25.40,Manufacture of weapons and ammunition
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.5,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",25.50,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.6,Treatment and coating of metals; machining,25.61,Treatment and coating of metals
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.6,Treatment and coating of metals; machining,25.62,Machining
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.7,"Manufacture of cutlery, tools and general hardware",25.71,Manufacture of cutlery
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.7,"Manufacture of cutlery, tools and general hardware",25.72,Manufacture of locks and hinges
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.7,"Manufacture of cutlery, tools and general hardware",25.73,Manufacture of tools
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.9,Manufacture of other fabricated metal products,25.91,Manufacture of steel drums and similar containers
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.9,Manufacture of other fabricated metal products,25.92,Manufacture of light metal packaging
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.9,Manufacture of other fabricated metal products,25.93,"Manufacture of wire products, chain and springs"
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.9,Manufacture of other fabricated metal products,25.94,Manufacture of fasteners and screw machine products
+C,MANUFACTURING,25,"Manufacture of fabricated metal products, except machinery and equipment",25.9,Manufacture of other fabricated metal products,25.99,Manufacture of other fabricated metal products n.e.c.
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.1,Manufacture of electronic components and boards,26.11,Manufacture of electronic components
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.1,Manufacture of electronic components and boards,26.12,Manufacture of loaded electronic boards
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.2,Manufacture of computers and peripheral equipment,26.20,Manufacture of computers and peripheral equipment
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.3,Manufacture of communication equipment,26.30,Manufacture of communication equipment
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.4,Manufacture of consumer electronics,26.40,Manufacture of consumer electronics
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.5,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",26.51,"Manufacture of instruments and appliances for measuring, testing and navigation"
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.5,"Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks",26.52,Manufacture of watches and clocks
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.6,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",26.60,"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.7,Manufacture of optical instruments and photographic equipment,26.70,Manufacture of optical instruments and photographic equipment
+C,MANUFACTURING,26,"Manufacture of computer, electronic and optical products",26.8,Manufacture of magnetic and optical media,26.80,Manufacture of magnetic and optical media
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.1,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",27.11,"Manufacture of electric motors, generators and transformers"
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.1,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",27.12,Manufacture of electricity distribution and control apparatus
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.2,Manufacture of batteries and accumulators,27.20,Manufacture of batteries and accumulators
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.3,Manufacture of wiring and wiring devices,27.31,Manufacture of fibre optic cables
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.3,Manufacture of wiring and wiring devices,27.32,Manufacture of other electronic and electric wires and cables
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.3,Manufacture of wiring and wiring devices,27.33,Manufacture of wiring devices
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.4,Manufacture of electric lighting equipment,27.40,Manufacture of electric lighting equipment
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.5,Manufacture of domestic appliances,27.51,Manufacture of electric domestic appliances
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.5,Manufacture of domestic appliances,27.52,Manufacture of non-electric domestic appliances
+C,MANUFACTURING,27,Manufacture of electrical equipment,27.9,Manufacture of other electrical equipment,27.90,Manufacture of other electrical equipment
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.1,Manufacture of general-purpose machinery,28.11,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.1,Manufacture of general-purpose machinery,28.12,Manufacture of fluid power equipment
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.1,Manufacture of general-purpose machinery,28.13,Manufacture of other pumps and compressors
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.1,Manufacture of general-purpose machinery,28.14,Manufacture of other taps and valves
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.1,Manufacture of general-purpose machinery,28.15,"Manufacture of bearings, gears, gearing and driving elements"
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.2,Manufacture of other general-purpose machinery,28.21,"Manufacture of ovens, furnaces and furnace burners"
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.2,Manufacture of other general-purpose machinery,28.22,Manufacture of lifting and handling equipment
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.2,Manufacture of other general-purpose machinery,28.23,Manufacture of office machinery and equipment (except computers and peripheral equipment)
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.2,Manufacture of other general-purpose machinery,28.24,Manufacture of power-driven hand tools
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.2,Manufacture of other general-purpose machinery,28.25,Manufacture of non-domestic cooling and ventilation equipment
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.2,Manufacture of other general-purpose machinery,28.29,Manufacture of other general-purpose machinery n.e.c.
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.3,Manufacture of agricultural and forestry machinery,28.30,Manufacture of agricultural and forestry machinery
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.4,Manufacture of metal forming machinery and machine tools,28.41,Manufacture of metal forming machinery
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.4,Manufacture of metal forming machinery and machine tools,28.49,Manufacture of other machine tools
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.91,Manufacture of machinery for metallurgy
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.92,"Manufacture of machinery for mining, quarrying and construction"
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.93,"Manufacture of machinery for food, beverage and tobacco processing"
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.94,"Manufacture of machinery for textile, apparel and leather production"
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.95,Manufacture of machinery for paper and paperboard production
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.96,Manufacture of plastics and rubber machinery
+C,MANUFACTURING,28,Manufacture of machinery and equipment n.e.c.,28.9,Manufacture of other special-purpose machinery,28.99,Manufacture of other special-purpose machinery n.e.c.
+C,MANUFACTURING,29,"Manufacture of motor vehicles, trailers and semi-trailers",29.1,Manufacture of motor vehicles,29.10,Manufacture of motor vehicles
+C,MANUFACTURING,29,"Manufacture of motor vehicles, trailers and semi-trailers",29.2,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,29.20,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+C,MANUFACTURING,29,"Manufacture of motor vehicles, trailers and semi-trailers",29.3,Manufacture of parts and accessories for motor vehicles,29.31,Manufacture of electrical and electronic equipment for motor vehicles
+C,MANUFACTURING,29,"Manufacture of motor vehicles, trailers and semi-trailers",29.3,Manufacture of parts and accessories for motor vehicles,29.32,Manufacture of other parts and accessories for motor vehicles
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.1,Building of ships and boats,30.11,Building of ships and floating structures
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.1,Building of ships and boats,30.12,Building of pleasure and sporting boats
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.2,Manufacture of railway locomotives and rolling stock,30.20,Manufacture of railway locomotives and rolling stock
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.3,Manufacture of air and spacecraft and related machinery,30.30,Manufacture of air and spacecraft and related machinery
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.4,Manufacture of military fighting vehicles,30.40,Manufacture of military fighting vehicles
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.9,Manufacture of transport equipment n.e.c.,30.91,Manufacture of motorcycles
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.9,Manufacture of transport equipment n.e.c.,30.92,Manufacture of bicycles and invalid carriages
+C,MANUFACTURING,30,Manufacture of other transport equipment,30.9,Manufacture of transport equipment n.e.c.,30.99,Manufacture of other transport equipment n.e.c.
+C,MANUFACTURING,31,Manufacture of furniture,31.0,Manufacture of furniture,31.01,Manufacture of office and shop furniture
+C,MANUFACTURING,31,Manufacture of furniture,31.0,Manufacture of furniture,31.02,Manufacture of kitchen furniture
+C,MANUFACTURING,31,Manufacture of furniture,31.0,Manufacture of furniture,31.03,Manufacture of mattresses
+C,MANUFACTURING,31,Manufacture of furniture,31.0,Manufacture of furniture,31.09,Manufacture of other furniture
+C,MANUFACTURING,32,Other manufacturing,32.1,"Manufacture of jewellery, bijouterie and related articles",32.11,Striking of coins
+C,MANUFACTURING,32,Other manufacturing,32.1,"Manufacture of jewellery, bijouterie and related articles",32.12,Manufacture of jewellery and related articles
+C,MANUFACTURING,32,Other manufacturing,32.1,"Manufacture of jewellery, bijouterie and related articles",32.13,Manufacture of imitation jewellery and related articles
+C,MANUFACTURING,32,Other manufacturing,32.2,Manufacture of musical instruments,32.20,Manufacture of musical instruments
+C,MANUFACTURING,32,Other manufacturing,32.3,Manufacture of sports goods,32.30,Manufacture of sports goods
+C,MANUFACTURING,32,Other manufacturing,32.4,Manufacture of games and toys,32.40,Manufacture of games and toys
+C,MANUFACTURING,32,Other manufacturing,32.5,Manufacture of medical and dental instruments and supplies,32.50,Manufacture of medical and dental instruments and supplies
+C,MANUFACTURING,32,Other manufacturing,32.9,Manufacturing n.e.c.,32.91,Manufacture of brooms and brushes
+C,MANUFACTURING,32,Other manufacturing,32.9,Manufacturing n.e.c.,32.99,Other manufacturing n.e.c.
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.11,Repair of fabricated metal products
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.12,Repair of machinery
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.13,Repair of electronic and optical equipment
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.14,Repair of electrical equipment
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.15,Repair and maintenance of ships and boats
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.16,Repair and maintenance of aircraft and spacecraft
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.17,Repair and maintenance of other transport equipment
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.1,"Repair of fabricated metal products, machinery and equipment",33.19,Repair of other equipment
+C,MANUFACTURING,33,Repair and installation of machinery and equipment,33.2,Installation of industrial machinery and equipment,33.20,Installation of industrial machinery and equipment
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.1,"Electric power generation, transmission and distribution",35.11,Production of electricity
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.1,"Electric power generation, transmission and distribution",35.12,Transmission of electricity
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.1,"Electric power generation, transmission and distribution",35.13,Distribution of electricity
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.1,"Electric power generation, transmission and distribution",35.14,Trade of electricity
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.2,Manufacture of gas; distribution of gaseous fuels through mains,35.21,Manufacture of gas
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.2,Manufacture of gas; distribution of gaseous fuels through mains,35.22,Distribution of gaseous fuels through mains
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.2,Manufacture of gas; distribution of gaseous fuels through mains,35.23,Trade of gas through mains
+D,"ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY",35,"Electricity, gas, steam and air conditioning supply",35.3,Steam and air conditioning supply,35.30,Steam and air conditioning supply
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",36,"Water collection, treatment and supply",36.0,"Water collection, treatment and supply",36.00,"Water collection, treatment and supply"
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",37,Sewerage,37.0,Sewerage,37.00,Sewerage
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",38,"Waste collection, treatment and disposal activities; materials recovery",38.1,Waste collection,38.11,Collection of non-hazardous waste
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",38,"Waste collection, treatment and disposal activities; materials recovery",38.1,Waste collection,38.12,Collection of hazardous waste
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",38,"Waste collection, treatment and disposal activities; materials recovery",38.2,Waste treatment and disposal,38.21,Treatment and disposal of non-hazardous waste
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",38,"Waste collection, treatment and disposal activities; materials recovery",38.2,Waste treatment and disposal,38.22,Treatment and disposal of hazardous waste
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",38,"Waste collection, treatment and disposal activities; materials recovery",38.3,Materials recovery,38.31,Dismantling of wrecks
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",38,"Waste collection, treatment and disposal activities; materials recovery",38.3,Materials recovery,38.32,Recovery of sorted materials
+E,"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES",39,Remediation activities and other waste management services,39.0,Remediation activities and other waste management services,39.00,Remediation activities and other waste management services
+F,CONSTRUCTION,41,Construction of buildings,41.1,Development of building projects,41.10,Development of building projects
+F,CONSTRUCTION,41,Construction of buildings,41.2,Construction of residential and non-residential buildings,41.20,Construction of residential and non-residential buildings
+F,CONSTRUCTION,42,Civil engineering,42.1,Construction of roads and railways,42.11,Construction of roads and motorways
+F,CONSTRUCTION,42,Civil engineering,42.1,Construction of roads and railways,42.12,Construction of railways and underground railways
+F,CONSTRUCTION,42,Civil engineering,42.1,Construction of roads and railways,42.13,Construction of bridges and tunnels
+F,CONSTRUCTION,42,Civil engineering,42.2,Construction of utility projects,42.21,Construction of utility projects for fluids
+F,CONSTRUCTION,42,Civil engineering,42.2,Construction of utility projects,42.22,Construction of utility projects for electricity and telecommunications
+F,CONSTRUCTION,42,Civil engineering,42.9,Construction of other civil engineering projects,42.91,Construction of water projects
+F,CONSTRUCTION,42,Civil engineering,42.9,Construction of other civil engineering projects,42.99,Construction of other civil engineering projects n.e.c.
+F,CONSTRUCTION,43,Specialised construction activities,43.1,Demolition and site preparation,43.11,Demolition
+F,CONSTRUCTION,43,Specialised construction activities,43.1,Demolition and site preparation,43.12,Site preparation
+F,CONSTRUCTION,43,Specialised construction activities,43.1,Demolition and site preparation,43.13,Test drilling and boring
+F,CONSTRUCTION,43,Specialised construction activities,43.2,"Electrical, plumbing and other construction installation activities",43.21,Electrical installation
+F,CONSTRUCTION,43,Specialised construction activities,43.2,"Electrical, plumbing and other construction installation activities",43.22,"Plumbing, heat and air-conditioning installation"
+F,CONSTRUCTION,43,Specialised construction activities,43.2,"Electrical, plumbing and other construction installation activities",43.29,Other construction installation
+F,CONSTRUCTION,43,Specialised construction activities,43.3,Building completion and finishing,43.31,Plastering
+F,CONSTRUCTION,43,Specialised construction activities,43.3,Building completion and finishing,43.32,Joinery installation
+F,CONSTRUCTION,43,Specialised construction activities,43.3,Building completion and finishing,43.33,Floor and wall covering
+F,CONSTRUCTION,43,Specialised construction activities,43.3,Building completion and finishing,43.34,Painting and glazing
+F,CONSTRUCTION,43,Specialised construction activities,43.3,Building completion and finishing,43.39,Other building completion and finishing
+F,CONSTRUCTION,43,Specialised construction activities,43.9,Other specialised construction activities,43.91,Roofing activities
+F,CONSTRUCTION,43,Specialised construction activities,43.9,Other specialised construction activities,43.99,Other specialised construction activities n.e.c.
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45.1,Sale of motor vehicles,45.11,Sale of cars and light motor vehicles
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45.1,Sale of motor vehicles,45.19,Sale of other motor vehicles
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45.2,Maintenance and repair of motor vehicles,45.20,Maintenance and repair of motor vehicles
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45.3,Sale of motor vehicle parts and accessories,45.31,Wholesale trade of motor vehicle parts and accessories
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45.3,Sale of motor vehicle parts and accessories,45.32,Retail trade of motor vehicle parts and accessories
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,45,Wholesale and retail trade and repair of motor vehicles and motorcycles,45.4,"Sale, maintenance and repair of motorcycles and related parts and accessories",45.40,"Sale, maintenance and repair of motorcycles and related parts and accessories"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.11,"Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.12,"Agents involved in the sale of fuels, ores, metals and industrial chemicals"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.13,Agents involved in the sale of timber and building materials
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.14,"Agents involved in the sale of machinery, industrial equipment, ships and aircraft"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.15,"Agents involved in the sale of furniture, household goods, hardware and ironmongery"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.16,"Agents involved in the sale of textiles, clothing, fur, footwear and leather goods"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.17,"Agents involved in the sale of food, beverages and tobacco"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.18,Agents specialised in the sale of other particular products
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.1,Wholesale on a fee or contract basis,46.19,Agents involved in the sale of a variety of goods
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.2,Wholesale of agricultural raw materials and live animals,46.21,"Wholesale of grain, unmanufactured tobacco, seeds and animal feeds"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.2,Wholesale of agricultural raw materials and live animals,46.22,Wholesale of flowers and plants
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.2,Wholesale of agricultural raw materials and live animals,46.23,Wholesale of live animals
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.2,Wholesale of agricultural raw materials and live animals,46.24,"Wholesale of hides, skins and leather"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.31,Wholesale of fruit and vegetables
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.32,Wholesale of meat and meat products
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.33,"Wholesale of dairy products, eggs and edible oils and fats"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.34,Wholesale of beverages
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.35,Wholesale of tobacco products
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.36,Wholesale of sugar and chocolate and sugar confectionery
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.37,"Wholesale of coffee, tea, cocoa and spices"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.38,"Wholesale of other food, including fish, crustaceans and molluscs"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.3,"Wholesale of food, beverages and tobacco",46.39,"Non-specialised wholesale of food, beverages and tobacco"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.41,Wholesale of textiles
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.42,Wholesale of clothing and footwear
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.43,Wholesale of electrical household appliances
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.44,Wholesale of china and glassware and cleaning materials
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.45,Wholesale of perfume and cosmetics
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.46,Wholesale of pharmaceutical goods
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.47,"Wholesale of furniture, carpets and lighting equipment"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.48,Wholesale of watches and jewellery
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.4,Wholesale of household goods,46.49,Wholesale of other household goods
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.5,Wholesale of information and communication equipment,46.51,"Wholesale of computers, computer peripheral equipment and software"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.5,Wholesale of information and communication equipment,46.52,Wholesale of electronic and telecommunications equipment and parts
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.61,"Wholesale of agricultural machinery, equipment and supplies"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.62,Wholesale of machine tools
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.63,"Wholesale of mining, construction and civil engineering machinery"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.64,Wholesale of machinery for the textile industry and of sewing and knitting machines
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.65,Wholesale of office furniture
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.66,Wholesale of other office machinery and equipment
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.6,"Wholesale of other machinery, equipment and supplies",46.69,Wholesale of other machinery and equipment
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.71,"Wholesale of solid, liquid and gaseous fuels and related products"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.72,Wholesale of metals and metal ores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.73,"Wholesale of wood, construction materials and sanitary equipment"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.74,"Wholesale of hardware, plumbing and heating equipment and supplies"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.75,Wholesale of chemical products
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.76,Wholesale of other intermediate products
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.7,Other specialised wholesale,46.77,Wholesale of waste and scrap
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,46,"Wholesale trade, except of motor vehicles and motorcycles",46.9,Non-specialised wholesale trade,46.90,Non-specialised wholesale trade
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.1,Retail sale in non-specialised stores,47.11,"Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.1,Retail sale in non-specialised stores,47.19,Other retail sale in non-specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.21,Retail sale of fruit and vegetables in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.22,Retail sale of meat and meat products in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.23,"Retail sale of fish, crustaceans and molluscs in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.24,"Retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.25,Retail sale of beverages in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.26,Retail sale of tobacco products in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.2,"Retail sale of food, beverages and tobacco in specialised stores",47.29,Other retail sale of food in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.3,Retail sale of automotive fuel in specialised stores,47.30,Retail sale of automotive fuel in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.4,Retail sale of information and communication equipment in specialised stores,47.41,"Retail sale of computers, peripheral units and software in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.4,Retail sale of information and communication equipment in specialised stores,47.42,Retail sale of telecommunications equipment in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.4,Retail sale of information and communication equipment in specialised stores,47.43,Retail sale of audio and video equipment in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.5,Retail sale of other household equipment in specialised stores,47.51,Retail sale of textiles in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.5,Retail sale of other household equipment in specialised stores,47.52,"Retail sale of hardware, paints and glass in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.5,Retail sale of other household equipment in specialised stores,47.53,"Retail sale of carpets, rugs, wall and floor coverings in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.5,Retail sale of other household equipment in specialised stores,47.54,Retail sale of electrical household appliances in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.5,Retail sale of other household equipment in specialised stores,47.59,"Retail sale of furniture, lighting equipment and other household articles in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.6,Retail sale of cultural and recreation goods in specialised stores,47.61,Retail sale of books in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.6,Retail sale of cultural and recreation goods in specialised stores,47.62,Retail sale of newspapers and stationery in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.6,Retail sale of cultural and recreation goods in specialised stores,47.63,Retail sale of music and video recordings in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.6,Retail sale of cultural and recreation goods in specialised stores,47.64,Retail sale of sporting equipment in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.6,Retail sale of cultural and recreation goods in specialised stores,47.65,Retail sale of games and toys in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.71,Retail sale of clothing in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.72,Retail sale of footwear and leather goods in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.73,Dispensing chemist in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.74,Retail sale of medical and orthopaedic goods in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.75,Retail sale of cosmetic and toilet articles in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.76,"Retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.77,Retail sale of watches and jewellery in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.78,Other retail sale of new goods in specialised stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.7,Retail sale of other goods in specialised stores,47.79,Retail sale of second-hand goods in stores
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.8,Retail sale via stalls and markets,47.81,"Retail sale via stalls and markets of food, beverages and tobacco products"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.8,Retail sale via stalls and markets,47.82,"Retail sale via stalls and markets of textiles, clothing and footwear"
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.8,Retail sale via stalls and markets,47.89,Retail sale via stalls and markets of other goods
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.9,"Retail trade not in stores, stalls or markets",47.91,Retail sale via mail order houses or via Internet
+G,WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLES,47,"Retail trade, except of motor vehicles and motorcycles",47.9,"Retail trade not in stores, stalls or markets",47.99,"Other retail sale not in stores, stalls or markets"
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.1,"Passenger rail transport, interurban",49.10,"Passenger rail transport, interurban"
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.2,Freight rail transport,49.20,Freight rail transport
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.3,Other passenger land transport,49.31,Urban and suburban passenger land transport
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.3,Other passenger land transport,49.32,Taxi operation
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.3,Other passenger land transport,49.39,Other passenger land transport n.e.c.
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.4,Freight transport by road and removal services,49.41,Freight transport by road
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.4,Freight transport by road and removal services,49.42,Removal services
+H,TRANSPORTATION AND STORAGE,49,Land transport and transport via pipelines,49.5,Transport via pipeline,49.50,Transport via pipeline
+H,TRANSPORTATION AND STORAGE,50,Water transport,50.1,Sea and coastal passenger water transport,50.10,Sea and coastal passenger water transport
+H,TRANSPORTATION AND STORAGE,50,Water transport,50.2,Sea and coastal freight water transport,50.20,Sea and coastal freight water transport
+H,TRANSPORTATION AND STORAGE,50,Water transport,50.3,Inland passenger water transport,50.30,Inland passenger water transport
+H,TRANSPORTATION AND STORAGE,50,Water transport,50.4,Inland freight water transport,50.40,Inland freight water transport
+H,TRANSPORTATION AND STORAGE,51,Air transport,51.1,Passenger air transport,51.10,Passenger air transport
+H,TRANSPORTATION AND STORAGE,51,Air transport,51.2,Freight air transport and space transport,51.21,Freight air transport
+H,TRANSPORTATION AND STORAGE,51,Air transport,51.2,Freight air transport and space transport,51.22,Space transport
+H,TRANSPORTATION AND STORAGE,52,Warehousing and support activities for transportation,52.1,Warehousing and storage,52.10,Warehousing and storage
+H,TRANSPORTATION AND STORAGE,52,Warehousing and support activities for transportation,52.2,Support activities for transportation,52.21,Service activities incidental to land transportation
+H,TRANSPORTATION AND STORAGE,52,Warehousing and support activities for transportation,52.2,Support activities for transportation,52.22,Service activities incidental to water transportation
+H,TRANSPORTATION AND STORAGE,52,Warehousing and support activities for transportation,52.2,Support activities for transportation,52.23,Service activities incidental to air transportation
+H,TRANSPORTATION AND STORAGE,52,Warehousing and support activities for transportation,52.2,Support activities for transportation,52.24,Cargo handling
+H,TRANSPORTATION AND STORAGE,52,Warehousing and support activities for transportation,52.2,Support activities for transportation,52.29,Other transportation support activities
+H,TRANSPORTATION AND STORAGE,53,Postal and courier activities,53.1,Postal activities under universal service obligation,53.10,Postal activities under universal service obligation
+H,TRANSPORTATION AND STORAGE,53,Postal and courier activities,53.2,Other postal and courier activities,53.20,Other postal and courier activities
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,55,Accommodation,55.1,Hotels and similar accommodation,55.10,Hotels and similar accommodation
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,55,Accommodation,55.2,Holiday and other short-stay accommodation,55.20,Holiday and other short-stay accommodation
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,55,Accommodation,55.3,"Camping grounds, recreational vehicle parks and trailer parks",55.30,"Camping grounds, recreational vehicle parks and trailer parks"
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,55,Accommodation,55.9,Other accommodation,55.90,Other accommodation
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,56,Food and beverage service activities,56.1,Restaurants and mobile food service activities,56.10,Restaurants and mobile food service activities
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,56,Food and beverage service activities,56.2,Event catering and other food service activities,56.21,Event catering activities
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,56,Food and beverage service activities,56.2,Event catering and other food service activities,56.29,Other food service activities
+I,ACCOMMODATION AND FOOD SERVICE ACTIVITIES,56,Food and beverage service activities,56.3,Beverage serving activities,56.30,Beverage serving activities
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.1,"Publishing of books, periodicals and other publishing activities",58.11,Book publishing
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.1,"Publishing of books, periodicals and other publishing activities",58.12,Publishing of directories and mailing lists
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.1,"Publishing of books, periodicals and other publishing activities",58.13,Publishing of newspapers
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.1,"Publishing of books, periodicals and other publishing activities",58.14,Publishing of journals and periodicals
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.1,"Publishing of books, periodicals and other publishing activities",58.19,Other publishing activities
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.2,Software publishing,58.21,Publishing of computer games
+J,INFORMATION AND COMMUNICATION,58,Publishing activities,58.2,Software publishing,58.29,Other software publishing
+J,INFORMATION AND COMMUNICATION,59,"Motion picture, video and television programme production, sound recording and music publishing activities",59.1,"Motion picture, video and television programme activities",59.11,"Motion picture, video and television programme production activities"
+J,INFORMATION AND COMMUNICATION,59,"Motion picture, video and television programme production, sound recording and music publishing activities",59.1,"Motion picture, video and television programme activities",59.12,"Motion picture, video and television programme post-production activities"
+J,INFORMATION AND COMMUNICATION,59,"Motion picture, video and television programme production, sound recording and music publishing activities",59.1,"Motion picture, video and television programme activities",59.13,"Motion picture, video and television programme distribution activities"
+J,INFORMATION AND COMMUNICATION,59,"Motion picture, video and television programme production, sound recording and music publishing activities",59.1,"Motion picture, video and television programme activities",59.14,Motion picture projection activities
+J,INFORMATION AND COMMUNICATION,59,"Motion picture, video and television programme production, sound recording and music publishing activities",59.2,Sound recording and music publishing activities,59.20,Sound recording and music publishing activities
+J,INFORMATION AND COMMUNICATION,60,Programming and broadcasting activities,60.1,Radio broadcasting,60.10,Radio broadcasting
+J,INFORMATION AND COMMUNICATION,60,Programming and broadcasting activities,60.2,Television programming and broadcasting activities,60.20,Television programming and broadcasting activities
+J,INFORMATION AND COMMUNICATION,61,Telecommunications,61.1,Wired telecommunications activities,61.10,Wired telecommunications activities
+J,INFORMATION AND COMMUNICATION,61,Telecommunications,61.2,Wireless telecommunications activities,61.20,Wireless telecommunications activities
+J,INFORMATION AND COMMUNICATION,61,Telecommunications,61.3,Satellite telecommunications activities,61.30,Satellite telecommunications activities
+J,INFORMATION AND COMMUNICATION,61,Telecommunications,61.9,Other telecommunications activities,61.90,Other telecommunications activities
+J,INFORMATION AND COMMUNICATION,62,"Computer programming, consultancy and related activities",62.0,"Computer programming, consultancy and related activities",62.01,Computer programming activities
+J,INFORMATION AND COMMUNICATION,62,"Computer programming, consultancy and related activities",62.0,"Computer programming, consultancy and related activities",62.02,Computer consultancy activities
+J,INFORMATION AND COMMUNICATION,62,"Computer programming, consultancy and related activities",62.0,"Computer programming, consultancy and related activities",62.03,Computer facilities management activities
+J,INFORMATION AND COMMUNICATION,62,"Computer programming, consultancy and related activities",62.0,"Computer programming, consultancy and related activities",62.09,Other information technology and computer service activities
+J,INFORMATION AND COMMUNICATION,63,Information service activities,63.1,"Data processing, hosting and related activities; web portals",63.11,"Data processing, hosting and related activities"
+J,INFORMATION AND COMMUNICATION,63,Information service activities,63.1,"Data processing, hosting and related activities; web portals",63.12,Web portals
+J,INFORMATION AND COMMUNICATION,63,Information service activities,63.9,Other information service activities,63.91,News agency activities
+J,INFORMATION AND COMMUNICATION,63,Information service activities,63.9,Other information service activities,63.99,Other information service activities n.e.c.
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.1,Monetary intermediation,64.11,Central banking
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.1,Monetary intermediation,64.19,Other monetary intermediation
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.2,Activities of holding companies,64.20,Activities of holding companies
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.3,"Trusts, funds and similar financial entities",64.30,"Trusts, funds and similar financial entities"
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.9,"Other financial service activities, except insurance and pension funding",64.91,Financial leasing
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.9,"Other financial service activities, except insurance and pension funding",64.92,Other credit granting
+K,FINANCIAL AND INSURANCE ACTIVITIES,64,"Financial service activities, except insurance and pension funding",64.9,"Other financial service activities, except insurance and pension funding",64.99,"Other financial service activities, except insurance and pension funding n.e.c."
+K,FINANCIAL AND INSURANCE ACTIVITIES,65,"Insurance, reinsurance and pension funding, except compulsory social security",65.1,Insurance,65.11,Life insurance
+K,FINANCIAL AND INSURANCE ACTIVITIES,65,"Insurance, reinsurance and pension funding, except compulsory social security",65.1,Insurance,65.12,Non-life insurance
+K,FINANCIAL AND INSURANCE ACTIVITIES,65,"Insurance, reinsurance and pension funding, except compulsory social security",65.2,Reinsurance,65.20,Reinsurance
+K,FINANCIAL AND INSURANCE ACTIVITIES,65,"Insurance, reinsurance and pension funding, except compulsory social security",65.3,Pension funding,65.30,Pension funding
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.1,"Activities auxiliary to financial services, except insurance and pension funding",66.11,Administration of financial markets
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.1,"Activities auxiliary to financial services, except insurance and pension funding",66.12,Security and commodity contracts brokerage
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.1,"Activities auxiliary to financial services, except insurance and pension funding",66.19,"Other activities auxiliary to financial services, except insurance and pension funding"
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.2,Activities auxiliary to insurance and pension funding,66.21,Risk and damage evaluation
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.2,Activities auxiliary to insurance and pension funding,66.22,Activities of insurance agents and brokers
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.2,Activities auxiliary to insurance and pension funding,66.29,Other activities auxiliary to insurance and pension funding
+K,FINANCIAL AND INSURANCE ACTIVITIES,66,Activities auxiliary to financial services and insurance activities,66.3,Fund management activities,66.30,Fund management activities
+L,REAL ESTATE ACTIVITIES,68,Real estate activities,68.1,Buying and selling of own real estate,68.10,Buying and selling of own real estate
+L,REAL ESTATE ACTIVITIES,68,Real estate activities,68.2,Rental and operating of own or leased real estate,68.20,Rental and operating of own or leased real estate
+L,REAL ESTATE ACTIVITIES,68,Real estate activities,68.3,Real estate activities on a fee or contract basis,68.31,Real estate agencies
+L,REAL ESTATE ACTIVITIES,68,Real estate activities,68.3,Real estate activities on a fee or contract basis,68.32,Management of real estate on a fee or contract basis
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",69,Legal and accounting activities,69.1,Legal activities,69.10,Legal activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",69,Legal and accounting activities,69.2,"Accounting, bookkeeping and auditing activities; tax consultancy",69.20,"Accounting, bookkeeping and auditing activities; tax consultancy"
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",70,Activities of head offices; management consultancy activities,70.1,Activities of head offices,70.10,Activities of head offices
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",70,Activities of head offices; management consultancy activities,70.2,Management consultancy activities,70.21,Public relations and communication activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",70,Activities of head offices; management consultancy activities,70.2,Management consultancy activities,70.22,Business and other management consultancy activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",71,Architectural and engineering activities; technical testing and analysis,71.1,Architectural and engineering activities and related technical consultancy,71.11,Architectural activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",71,Architectural and engineering activities; technical testing and analysis,71.1,Architectural and engineering activities and related technical consultancy,71.12,Engineering activities and related technical consultancy
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",71,Architectural and engineering activities; technical testing and analysis,71.2,Technical testing and analysis,71.20,Technical testing and analysis
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",72,Scientific research and development,72.1,Research and experimental development on natural sciences and engineering,72.11,Research and experimental development on biotechnology
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",72,Scientific research and development,72.1,Research and experimental development on natural sciences and engineering,72.19,Other research and experimental development on natural sciences and engineering
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",72,Scientific research and development,72.2,Research and experimental development on social sciences and humanities,72.20,Research and experimental development on social sciences and humanities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",73,Advertising and market research,73.1,Advertising,73.11,Advertising agencies
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",73,Advertising and market research,73.1,Advertising,73.12,Media representation
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",73,Advertising and market research,73.2,Market research and public opinion polling,73.20,Market research and public opinion polling
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",74,"Other professional, scientific and technical activities",74.1,Specialised design activities,74.10,Specialised design activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",74,"Other professional, scientific and technical activities",74.2,Photographic activities,74.20,Photographic activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",74,"Other professional, scientific and technical activities",74.3,Translation and interpretation activities,74.30,Translation and interpretation activities
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",74,"Other professional, scientific and technical activities",74.9,"Other professional, scientific and technical activities n.e.c.",74.90,"Other professional, scientific and technical activities n.e.c."
+M,"PROFESSIONAL, SCIENTIFIC AND TECHNICAL ACTIVITIES",75,Veterinary activities,75.0,Veterinary activities,75.00,Veterinary activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.1,Rental and leasing of motor vehicles,77.11,Rental and leasing of cars and light motor vehicles
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.1,Rental and leasing of motor vehicles,77.12,Rental and leasing of trucks
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.2,Rental and leasing of personal and household goods,77.21,Rental and leasing of recreational and sports goods
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.2,Rental and leasing of personal and household goods,77.22,Rental of video tapes and disks
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.2,Rental and leasing of personal and household goods,77.29,Rental and leasing of other personal and household goods
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.3,"Rental and leasing of other machinery, equipment and tangible goods",77.31,Rental and leasing of agricultural machinery and equipment
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.3,"Rental and leasing of other machinery, equipment and tangible goods",77.32,Rental and leasing of construction and civil engineering machinery and equipment
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.3,"Rental and leasing of other machinery, equipment and tangible goods",77.33,Rental and leasing of office machinery and equipment (including computers)
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.3,"Rental and leasing of other machinery, equipment and tangible goods",77.34,Rental and leasing of water transport equipment
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.3,"Rental and leasing of other machinery, equipment and tangible goods",77.35,Rental and leasing of air transport equipment
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.3,"Rental and leasing of other machinery, equipment and tangible goods",77.39,"Rental and leasing of other machinery, equipment and tangible goods n.e.c."
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,77,Rental and leasing activities,77.4,"Leasing of intellectual property and similar products, except copyrighted works",77.40,"Leasing of intellectual property and similar products, except copyrighted works"
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,78,Employment activities,78.1,Activities of employment placement agencies,78.10,Activities of employment placement agencies
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,78,Employment activities,78.2,Temporary employment agency activities,78.20,Temporary employment agency activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,78,Employment activities,78.3,Other human resources provision,78.30,Other human resources provision
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,79,"Travel agency, tour operator and other reservation service and related activities",79.1,Travel agency and tour operator activities,79.11,Travel agency activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,79,"Travel agency, tour operator and other reservation service and related activities",79.1,Travel agency and tour operator activities,79.12,Tour operator activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,79,"Travel agency, tour operator and other reservation service and related activities",79.9,Other reservation service and related activities,79.90,Other reservation service and related activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,80,Security and investigation activities,80.1,Private security activities,80.10,Private security activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,80,Security and investigation activities,80.2,Security systems service activities,80.20,Security systems service activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,80,Security and investigation activities,80.3,Investigation activities,80.30,Investigation activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,81,Services to buildings and landscape activities,81.1,Combined facilities support activities,81.10,Combined facilities support activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,81,Services to buildings and landscape activities,81.2,Cleaning activities,81.21,General cleaning of buildings
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,81,Services to buildings and landscape activities,81.2,Cleaning activities,81.22,Other building and industrial cleaning activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,81,Services to buildings and landscape activities,81.2,Cleaning activities,81.29,Other cleaning activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,81,Services to buildings and landscape activities,81.3,Landscape service activities,81.30,Landscape service activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.1,Office administrative and support activities,82.11,Combined office administrative service activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.1,Office administrative and support activities,82.19,"Photocopying, document preparation and other specialised office support activities"
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.2,Activities of call centres,82.20,Activities of call centres
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.3,Organisation of conventions and trade shows,82.30,Organisation of conventions and trade shows
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.9,Business support service activities n.e.c.,82.91,Activities of collection agencies and credit bureaus
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.9,Business support service activities n.e.c.,82.92,Packaging activities
+N,ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIES,82,"Office administrative, office support and other business support activities",82.9,Business support service activities n.e.c.,82.99,Other business support service activities n.e.c.
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.1,Administration of the State and the economic and social policy of the community,84.11,General public administration activities
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.1,Administration of the State and the economic and social policy of the community,84.12,"Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security"
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.1,Administration of the State and the economic and social policy of the community,84.13,Regulation of and contribution to more efficient operation of businesses
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.2,Provision of services to the community as a whole,84.21,Foreign affairs
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.2,Provision of services to the community as a whole,84.22,Defence activities
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.2,Provision of services to the community as a whole,84.23,Justice and judicial activities
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.2,Provision of services to the community as a whole,84.24,Public order and safety activities
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.2,Provision of services to the community as a whole,84.25,Fire service activities
+O,PUBLIC ADMINISTRATION AND DEFENCE; COMPULSORY SOCIAL SECURITY,84,Public administration and defence; compulsory social security,84.3,Compulsory social security activities,84.30,Compulsory social security activities
+P,EDUCATION,85,Education,85.1,Pre-primary education,85.10,Pre-primary education
+P,EDUCATION,85,Education,85.2,Primary education,85.20,Primary education
+P,EDUCATION,85,Education,85.3,Secondary education,85.31,General secondary education
+P,EDUCATION,85,Education,85.3,Secondary education,85.32,Technical and vocational secondary education
+P,EDUCATION,85,Education,85.4,Higher education,85.41,Post-secondary non-tertiary education
+P,EDUCATION,85,Education,85.4,Higher education,85.42,Tertiary education
+P,EDUCATION,85,Education,85.5,Other education,85.51,Sports and recreation education
+P,EDUCATION,85,Education,85.5,Other education,85.52,Cultural education
+P,EDUCATION,85,Education,85.5,Other education,85.53,Driving school activities
+P,EDUCATION,85,Education,85.5,Other education,85.59,Other education n.e.c.
+P,EDUCATION,85,Education,85.6,Educational support activities,85.60,Educational support activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,86,Human health activities,86.1,Hospital activities,86.10,Hospital activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,86,Human health activities,86.2,Medical and dental practice activities,86.21,General medical practice activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,86,Human health activities,86.2,Medical and dental practice activities,86.22,Specialist medical practice activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,86,Human health activities,86.2,Medical and dental practice activities,86.23,Dental practice activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,86,Human health activities,86.9,Other human health activities,86.90,Other human health activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,87,Residential care activities,87.1,Residential nursing care activities,87.10,Residential nursing care activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,87,Residential care activities,87.2,"Residential care activities for mental retardation, mental health and substance abuse",87.20,"Residential care activities for mental retardation, mental health and substance abuse"
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,87,Residential care activities,87.3,Residential care activities for the elderly and disabled,87.30,Residential care activities for the elderly and disabled
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,87,Residential care activities,87.9,Other residential care activities,87.90,Other residential care activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,88,Social work activities without accommodation,88.1,Social work activities without accommodation for the elderly and disabled,88.10,Social work activities without accommodation for the elderly and disabled
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,88,Social work activities without accommodation,88.9,Other social work activities without accommodation,88.91,Child day-care activities
+Q,HUMAN HEALTH AND SOCIAL WORK ACTIVITIES,88,Social work activities without accommodation,88.9,Other social work activities without accommodation,88.99,Other social work activities without accommodation n.e.c.
+R,"ARTS, ENTERTAINMENT AND RECREATION",90,"Creative, arts and entertainment activities",90.0,"Creative, arts and entertainment activities",90.01,Performing arts
+R,"ARTS, ENTERTAINMENT AND RECREATION",90,"Creative, arts and entertainment activities",90.0,"Creative, arts and entertainment activities",90.02,Support activities to performing arts
+R,"ARTS, ENTERTAINMENT AND RECREATION",90,"Creative, arts and entertainment activities",90.0,"Creative, arts and entertainment activities",90.03,Artistic creation
+R,"ARTS, ENTERTAINMENT AND RECREATION",90,"Creative, arts and entertainment activities",90.0,"Creative, arts and entertainment activities",90.04,Operation of arts facilities
+R,"ARTS, ENTERTAINMENT AND RECREATION",91,"Libraries, archives, museums and other cultural activities",91.0,"Libraries, archives, museums and other cultural activities",91.01,Library and archives activities
+R,"ARTS, ENTERTAINMENT AND RECREATION",91,"Libraries, archives, museums and other cultural activities",91.0,"Libraries, archives, museums and other cultural activities",91.02,Museums activities
+R,"ARTS, ENTERTAINMENT AND RECREATION",91,"Libraries, archives, museums and other cultural activities",91.0,"Libraries, archives, museums and other cultural activities",91.03,Operation of historical sites and buildings and similar visitor attractions
+R,"ARTS, ENTERTAINMENT AND RECREATION",91,"Libraries, archives, museums and other cultural activities",91.0,"Libraries, archives, museums and other cultural activities",91.04,Botanical and zoological gardens and nature reserves activities
+R,"ARTS, ENTERTAINMENT AND RECREATION",92,Gambling and betting activities,92.0,Gambling and betting activities,92.00,Gambling and betting activities
+R,"ARTS, ENTERTAINMENT AND RECREATION",93,Sports activities and amusement and recreation activities,93.1,Sports activities,93.11,Operation of sports facilities
+R,"ARTS, ENTERTAINMENT AND RECREATION",93,Sports activities and amusement and recreation activities,93.1,Sports activities,93.12,Activities of sports clubs
+R,"ARTS, ENTERTAINMENT AND RECREATION",93,Sports activities and amusement and recreation activities,93.1,Sports activities,93.13,Fitness facilities
+R,"ARTS, ENTERTAINMENT AND RECREATION",93,Sports activities and amusement and recreation activities,93.1,Sports activities,93.19,Other sports activities
+R,"ARTS, ENTERTAINMENT AND RECREATION",93,Sports activities and amusement and recreation activities,93.2,Amusement and recreation activities,93.21,Activities of amusement parks and theme parks
+R,"ARTS, ENTERTAINMENT AND RECREATION",93,Sports activities and amusement and recreation activities,93.2,Amusement and recreation activities,93.29,Other amusement and recreation activities
+S,OTHER SERVICE ACTIVITIES,94,Activities of membership organisations,94.1,"Activities of business, employers and professional membership organisations",94.11,Activities of business and employers membership organisations
+S,OTHER SERVICE ACTIVITIES,94,Activities of membership organisations,94.1,"Activities of business, employers and professional membership organisations",94.12,Activities of professional membership organisations
+S,OTHER SERVICE ACTIVITIES,94,Activities of membership organisations,94.2,Activities of trade unions,94.20,Activities of trade unions
+S,OTHER SERVICE ACTIVITIES,94,Activities of membership organisations,94.9,Activities of other membership organisations,94.91,Activities of religious organisations
+S,OTHER SERVICE ACTIVITIES,94,Activities of membership organisations,94.9,Activities of other membership organisations,94.92,Activities of political organisations
+S,OTHER SERVICE ACTIVITIES,94,Activities of membership organisations,94.9,Activities of other membership organisations,94.99,Activities of other membership organisations n.e.c.
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.1,Repair of computers and communication equipment,95.11,Repair of computers and peripheral equipment
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.1,Repair of computers and communication equipment,95.12,Repair of communication equipment
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.2,Repair of personal and household goods,95.21,Repair of consumer electronics
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.2,Repair of personal and household goods,95.22,Repair of household appliances and home and garden equipment
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.2,Repair of personal and household goods,95.23,Repair of footwear and leather goods
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.2,Repair of personal and household goods,95.24,Repair of furniture and home furnishings
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.2,Repair of personal and household goods,95.25,"Repair of watches, clocks and jewellery"
+S,OTHER SERVICE ACTIVITIES,95,Repair of computers and personal and household goods,95.2,Repair of personal and household goods,95.29,Repair of other personal and household goods
+S,OTHER SERVICE ACTIVITIES,96,Other personal service activities,96.0,Other personal service activities,96.01,Washing and (dry-)cleaning of textile and fur products
+S,OTHER SERVICE ACTIVITIES,96,Other personal service activities,96.0,Other personal service activities,96.02,Hairdressing and other beauty treatment
+S,OTHER SERVICE ACTIVITIES,96,Other personal service activities,96.0,Other personal service activities,96.03,Funeral and related activities
+S,OTHER SERVICE ACTIVITIES,96,Other personal service activities,96.0,Other personal service activities,96.04,Physical well-being activities
+S,OTHER SERVICE ACTIVITIES,96,Other personal service activities,96.0,Other personal service activities,96.09,Other personal service activities n.e.c.
+T,ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE,97,Activities of households as employers of domestic personnel,97.0,Activities of households as employers of domestic personnel,97.00,Activities of households as employers of domestic personnel
+T,ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE,98,Undifferentiated goods- and services-producing activities of private households for own use,98.1,Undifferentiated goods-producing activities of private households for own use,98.10,Undifferentiated goods-producing activities of private households for own use
+T,ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE,98,Undifferentiated goods- and services-producing activities of private households for own use,98.2,Undifferentiated service-producing activities of private households for own use,98.20,Undifferentiated service-producing activities of private households for own use
+U,ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES,99,Activities of extraterritorial organisations and bodies,99.0,Activities of extraterritorial organisations and bodies,99.00,Activities of extraterritorial organisations and bodies
