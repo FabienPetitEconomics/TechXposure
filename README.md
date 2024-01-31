@@ -13,6 +13,7 @@ Each directory contains a README file describing each file and subdirectory.
 | `_classification` | Classifications used in the database |
 | `_isco`           | ISCO-08 Occupation Exposure          |
 | `_nace`           | NACE Rev.2 Industry Exposure         |
+| `PPLCC_EmploymentImpactEmergingDigitalTechnologies_Feb2024.pdf` | Working Paper |
 
 ## Citation
 
