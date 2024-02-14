@@ -26,7 +26,7 @@ Citation in `bibtex` format:
 ```bibtex
 @techreport{prytkova2024employment,
   title={{The Employment Impact of Emerging Digital Technologies}},
-  author={{Prytkova, Ekaterina and Petit, Fabien and Li, Deyu and Chaturvedi, Sugat and Ciarli, Tommaso}},
+  author={Prytkova, Ekaterina and Petit, Fabien and Li, Deyu and Chaturvedi, Sugat and Ciarli, Tommaso},
   keywords= {{Occupation Exposure, Industry Exposure, Text as Data, Natural Language Processing, Sentence Transformers, Emerging Digital Technologies, Automation, Employment}},
   type={{Working Paper}},
   year={2024}
