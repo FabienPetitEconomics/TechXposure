@@ -1,5 +1,7 @@
 # TechXposure Database (v0.9.0)
 
+[![DOI](https://zenodo.org/badge/750952450.svg)](https://zenodo.org/doi/10.5281/zenodo.10696075)
+
 TechXposure is a database that provides information on the exposure of industries and occupations to 40 digital technologies that emerged over the last decade (2012–2021). The data are available at the 3-digit level for NACE Rev.2 industries and at the 4-digit level for ISCO-08 occupations.
 
 The current version is v0.9.0. For more details on the methodology, see the [Working Paper](https://www.fabienpetit.com/wp/PPLCC_EmploymentImpactEmergingDigitalTechnologies_Feb2024.pdf). 
