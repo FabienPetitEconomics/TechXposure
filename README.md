@@ -4,7 +4,7 @@
 
 TechXposure is a database that provides information on the exposure of industries and occupations to 40 digital technologies that emerged over the last decade (2012–2021). The data are available at the 3-digit level for NACE Rev.2 industries and at the 4-digit level for ISCO-08 occupations.
 
-The current version is v0.9.0. For more details on the methodology, see the [Working Paper](https://www.fabienpetit.com/wp/PPLCC_EmploymentImpactEmergingDigitalTechnologies_Feb2024.pdf). 
+The current version is v0.9.0. For more details on the methodology, see the [Working Paper](https://www.fabienpetit.com/wp/PPLCC_EmploymentImpactEmergingDigitalTechnologies_Oct2024.pdf). 
 
 ## List of directories and files
 
@@ -15,7 +15,7 @@ Each directory contains a README file describing each file and subdirectory.
 | `_classification` | Classifications used in the database |
 | `_isco`           | ISCO-08 Occupation Exposure          |
 | `_nace`           | NACE Rev.2 Industry Exposure         |
-| `PPLCC_EmploymentImpactEmergingDigitalTechnologies_Feb2024.pdf` | Working Paper |
+| `PPLCC_EmploymentImpactEmergingDigitalTechnologies_Oct2024.pdf` | Working Paper |
 
 ## Citation
 
@@ -41,7 +41,7 @@ We greatly appreciate feedback and insights from researchers and policymakers to
 
 ## Contacts
 
-Ekaterina Prytkova ([e.prytkova@sussex.ac.uk](mailto:e.prytkova@sussex.ac.uk)) & Fabien Petit ([f.petit@ucl.ac.uk](mailto:f.petit@ucl.ac.uk) / [fabienpetit.com](https://www.fabienpetit.com/))
+Ekaterina Prytkova ([ekaterina.prytkova@univ-cotedazur.fr](mailto:ekaterina.prytkova@univ-cotedazur.fr)) & Fabien Petit ([f.petit@ucl.ac.uk](mailto:f.petit@ucl.ac.uk) / [fabienpetit.com](https://www.fabienpetit.com/))
 
 ## Acknowledgements
 
