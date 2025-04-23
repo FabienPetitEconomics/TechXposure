@@ -1,0 +1,325 @@
+naics2d,naics2d_label,naics3d,naics3d_label,naics4d,naics4d_label
+11,"Agriculture, Forestry, Fishing and Hunting",111,Crop Production,1112,Vegetable and Melon Farming
+11,"Agriculture, Forestry, Fishing and Hunting",111,Crop Production,1111,Oilseed and Grain Farming
+11,"Agriculture, Forestry, Fishing and Hunting",111,Crop Production,1113,Fruit and Tree Nut Farming
+11,"Agriculture, Forestry, Fishing and Hunting",111,Crop Production,1114,"Greenhouse, Nursery and Floriculture Production"
+11,"Agriculture, Forestry, Fishing and Hunting",111,Crop Production,1119,Other Crop Farming
+11,"Agriculture, Forestry, Fishing and Hunting",112,Animal Production,1122,Hog and Pig Farming
+11,"Agriculture, Forestry, Fishing and Hunting",112,Animal Production,1129,Other Animal Production
+11,"Agriculture, Forestry, Fishing and Hunting",112,Animal Production,1123,Poultry and Egg Production
+11,"Agriculture, Forestry, Fishing and Hunting",112,Animal Production,1124,Sheep and Goat Farming
+11,"Agriculture, Forestry, Fishing and Hunting",112,Animal Production,1125,Aquaculture
+11,"Agriculture, Forestry, Fishing and Hunting",112,Animal Production,1121,Cattle Ranching and Farming
+11,"Agriculture, Forestry, Fishing and Hunting",113,Forestry and Logging,1133,Logging
+11,"Agriculture, Forestry, Fishing and Hunting",113,Forestry and Logging,1131,Timber Tract Operations
+11,"Agriculture, Forestry, Fishing and Hunting",113,Forestry and Logging,1132,Forest Nurseries and Gathering of Forest Products
+11,"Agriculture, Forestry, Fishing and Hunting",114,"Fishing, Hunting and Trapping",1141,Fishing
+11,"Agriculture, Forestry, Fishing and Hunting",114,"Fishing, Hunting and Trapping",1142,Hunting and Trapping
+11,"Agriculture, Forestry, Fishing and Hunting",115,Support Activities for Agriculture and Forestry,1153,Support Activities for Forestry
+11,"Agriculture, Forestry, Fishing and Hunting",115,Support Activities for Agriculture and Forestry,1151,Support Activities for Crop Production
+11,"Agriculture, Forestry, Fishing and Hunting",115,Support Activities for Agriculture and Forestry,1152,Support Activities for Animal Production
+21,"Mining, Quarrying, and Oil and Gas Extraction",211,Oil and Gas Extraction,2111,Oil and Gas Extraction
+21,"Mining, Quarrying, and Oil and Gas Extraction",212,Mining and Quarrying (except Oil and Gas),2121,Coal Mining
+21,"Mining, Quarrying, and Oil and Gas Extraction",212,Mining and Quarrying (except Oil and Gas),2122,Metal Ore Mining
+21,"Mining, Quarrying, and Oil and Gas Extraction",212,Mining and Quarrying (except Oil and Gas),2123,Non-Metallic Mineral Mining and Quarrying
+21,"Mining, Quarrying, and Oil and Gas Extraction",213,Support Activities for Mining and Oil and Gas Extraction,2131,Support Activities for Mining and Oil and Gas Extraction
+22,Utilities,221,Utilities,2211,"Electric Power Generation, Transmission and Distribution"
+22,Utilities,221,Utilities,2212,Natural Gas Distribution
+22,Utilities,221,Utilities,2213,"Water, Sewage and Other Systems"
+23,Construction,236,Construction of Buildings,2361,Residential Building Construction
+23,Construction,236,Construction of Buildings,2362,Non-residential Building Construction
+23,Construction,237,Heavy and Civil Engineering Construction,2371,Utility System Construction
+23,Construction,237,Heavy and Civil Engineering Construction,2372,Land Subdivision
+23,Construction,237,Heavy and Civil Engineering Construction,2373,"Highway, Street and Bridge Construction"
+23,Construction,237,Heavy and Civil Engineering Construction,2379,Other Heavy and Civil Engineering Construction
+23,Construction,238,Specialty Trade Contractors,2381,"Foundation, Structure, and Building Exterior Contractors"
+23,Construction,238,Specialty Trade Contractors,2382,Building Equipment Contractors
+23,Construction,238,Specialty Trade Contractors,2383,Building Finishing Contractors
+23,Construction,238,Specialty Trade Contractors,2389,Other Specialty Trade Contractors
+31-33,Manufacturing,311,Food Manufacturing,3111,Animal Food Manufacturing
+31-33,Manufacturing,311,Food Manufacturing,3113,Sugar and Confectionery Product Manufacturing
+31-33,Manufacturing,311,Food Manufacturing,3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing
+31-33,Manufacturing,311,Food Manufacturing,3115,Dairy Product Manufacturing
+31-33,Manufacturing,311,Food Manufacturing,3112,Grain and Oilseed Milling
+31-33,Manufacturing,311,Food Manufacturing,3117,Seafood Product Preparation and Packaging
+31-33,Manufacturing,311,Food Manufacturing,3118,Bakeries and Tortilla Manufacturing
+31-33,Manufacturing,311,Food Manufacturing,3119,Other Food Manufacturing
+31-33,Manufacturing,311,Food Manufacturing,3116,Meat Product Manufacturing
+31-33,Manufacturing,312,Beverage and Tobacco Product Manufacturing,3122,Tobacco Manufacturing
+31-33,Manufacturing,312,Beverage and Tobacco Product Manufacturing,3121,Beverage Manufacturing
+31-33,Manufacturing,313,Textile Mills,3131,"Fibre, Yarn and Thread Mills"
+31-33,Manufacturing,313,Textile Mills,3132,Fabric Mills
+31-33,Manufacturing,313,Textile Mills,3133,Textile and Fabric Finishing and Fabric Coating
+31-33,Manufacturing,314,Textile Product Mills,3149,Other Textile Product Mills
+31-33,Manufacturing,314,Textile Product Mills,3141,Textile Furnishings Mills
+31-33,Manufacturing,315,Clothing Manufacturing,3152,Cut and Sew Clothing Manufacturing
+31-33,Manufacturing,315,Clothing Manufacturing,3159,Clothing Accessories and Other Clothing Manufacturing
+31-33,Manufacturing,315,Clothing Manufacturing,3151,Clothing Knitting Mills
+31-33,Manufacturing,316,Leather and Allied Product Manufacturing,3169,Other Leather and Allied Product Manufacturing
+31-33,Manufacturing,316,Leather and Allied Product Manufacturing,3162,Footwear Manufacturing
+31-33,Manufacturing,316,Leather and Allied Product Manufacturing,3161,Leather and Hide Tanning and Finishing
+31-33,Manufacturing,321,Wood Product Manufacturing,3211,Sawmills and Wood Preservation
+31-33,Manufacturing,321,Wood Product Manufacturing,3212,"Veneer, Plywood and Engineered Wood Product Manufacturing"
+31-33,Manufacturing,321,Wood Product Manufacturing,3219,Other Wood Product Manufacturing
+31-33,Manufacturing,322,Paper Manufacturing,3221,"Pulp, Paper and Paperboard Mills"
+31-33,Manufacturing,322,Paper Manufacturing,3222,Converted Paper Product Manufacturing
+31-33,Manufacturing,323,Printing and Related Support Activities,3231,Printing and Related Support Activities
+31-33,Manufacturing,324,Petroleum and Coal Product Manufacturing,3241,Petroleum and Coal Product Manufacturing
+31-33,Manufacturing,325,Chemical Manufacturing,3251,Basic Chemical Manufacturing
+31-33,Manufacturing,325,Chemical Manufacturing,3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibres and Filaments Manufacturing"
+31-33,Manufacturing,325,Chemical Manufacturing,3253,"Pesticide, Fertilizer and Other Agricultural Chemical Manufacturing"
+31-33,Manufacturing,325,Chemical Manufacturing,3254,Pharmaceutical and Medicine Manufacturing
+31-33,Manufacturing,325,Chemical Manufacturing,3255,"Paint, Coating and Adhesive Manufacturing"
+31-33,Manufacturing,325,Chemical Manufacturing,3256,"Soap, Cleaning Compound and Toilet Preparation Manufacturing"
+31-33,Manufacturing,325,Chemical Manufacturing,3259,Other Chemical Product Manufacturing
+31-33,Manufacturing,326,Plastics and Rubber Products Manufacturing,3261,Plastic Product Manufacturing
+31-33,Manufacturing,326,Plastics and Rubber Products Manufacturing,3262,Rubber Product Manufacturing
+31-33,Manufacturing,327,Non-Metallic Mineral Product Manufacturing,3271,Clay Product and Refractory Manufacturing
+31-33,Manufacturing,327,Non-Metallic Mineral Product Manufacturing,3272,Glass and Glass Product Manufacturing
+31-33,Manufacturing,327,Non-Metallic Mineral Product Manufacturing,3273,Cement and Concrete Product Manufacturing
+31-33,Manufacturing,327,Non-Metallic Mineral Product Manufacturing,3274,Lime and Gypsum Product Manufacturing
+31-33,Manufacturing,327,Non-Metallic Mineral Product Manufacturing,3279,Other Non-Metallic Mineral Product Manufacturing
+31-33,Manufacturing,331,Primary Metal Manufacturing,3311,Iron and Steel Mills and Ferro-Alloy Manufacturing
+31-33,Manufacturing,331,Primary Metal Manufacturing,3315,Foundries
+31-33,Manufacturing,331,Primary Metal Manufacturing,3312,Steel Product Manufacturing from Purchased Steel
+31-33,Manufacturing,331,Primary Metal Manufacturing,3313,Alumina and Aluminum Production and Processing
+31-33,Manufacturing,331,Primary Metal Manufacturing,3314,Non-Ferrous Metal (except Aluminum) Production and Processing
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3329,Other Fabricated Metal Product Manufacturing
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3321,Forging and Stamping
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3322,Cutlery and Hand Tool Manufacturing
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3323,Architectural and Structural Metals Manufacturing
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3324,"Boiler, Tank and Shipping Container Manufacturing"
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3325,Hardware Manufacturing
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3326,Spring and Wire Product Manufacturing
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3327,"Machine Shops, Turned Product, and Screw, Nut and Bolt Manufacturing"
+31-33,Manufacturing,332,Fabricated Metal Product Manufacturing,3328,"Coating, Engraving, Heat Treating and Allied Activities"
+31-33,Manufacturing,333,Machinery Manufacturing,3331,"Agricultural, Construction and Mining Machinery Manufacturing"
+31-33,Manufacturing,333,Machinery Manufacturing,3332,Industrial Machinery Manufacturing
+31-33,Manufacturing,333,Machinery Manufacturing,3333,Commercial and Service Industry Machinery Manufacturing
+31-33,Manufacturing,333,Machinery Manufacturing,3334,"Ventilation, Heating, Air-Conditioning and Commercial Refrigeration Equipment Manufacturing"
+31-33,Manufacturing,333,Machinery Manufacturing,3335,Metalworking Machinery Manufacturing
+31-33,Manufacturing,333,Machinery Manufacturing,3336,"Engine, Turbine and Power Transmission Equipment Manufacturing"
+31-33,Manufacturing,333,Machinery Manufacturing,3339,Other General-Purpose Machinery Manufacturing
+31-33,Manufacturing,334,Computer and Electronic Product Manufacturing,3346,Manufacturing and Reproducing Magnetic and Optical Media
+31-33,Manufacturing,334,Computer and Electronic Product Manufacturing,3341,Computer and Peripheral Equipment Manufacturing
+31-33,Manufacturing,334,Computer and Electronic Product Manufacturing,3342,Communications Equipment Manufacturing
+31-33,Manufacturing,334,Computer and Electronic Product Manufacturing,3343,Audio and Video Equipment Manufacturing
+31-33,Manufacturing,334,Computer and Electronic Product Manufacturing,3344,Semiconductor and Other Electronic Component Manufacturing
+31-33,Manufacturing,334,Computer and Electronic Product Manufacturing,3345,"Navigational, Measuring, Medical and Control Instruments Manufacturing"
+31-33,Manufacturing,335,"Electrical Equipment, Appliance and Component Manufacturing",3351,Electric Lighting Equipment Manufacturing
+31-33,Manufacturing,335,"Electrical Equipment, Appliance and Component Manufacturing",3352,Household Appliance Manufacturing
+31-33,Manufacturing,335,"Electrical Equipment, Appliance and Component Manufacturing",3353,Electrical Equipment Manufacturing
+31-33,Manufacturing,335,"Electrical Equipment, Appliance and Component Manufacturing",3359,Other Electrical Equipment and Component Manufacturing
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3364,Aerospace Product and Parts Manufacturing
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3361,Motor Vehicle Manufacturing
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3362,Motor Vehicle Body and Trailer Manufacturing
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3363,Motor Vehicle Parts Manufacturing
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3365,Railroad Rolling Stock Manufacturing
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3366,Ship and Boat Building
+31-33,Manufacturing,336,Transportation Equipment Manufacturing,3369,Other Transportation Equipment Manufacturing
+31-33,Manufacturing,337,Furniture and Related Product Manufacturing,3372,Office Furniture (including Fixtures) Manufacturing
+31-33,Manufacturing,337,Furniture and Related Product Manufacturing,3379,Other Furniture-Related Product Manufacturing
+31-33,Manufacturing,337,Furniture and Related Product Manufacturing,3371,Household and Institutional Furniture and Kitchen Cabinet Manufacturing
+31-33,Manufacturing,339,Miscellaneous Manufacturing,3399,Other Miscellaneous Manufacturing
+31-33,Manufacturing,339,Miscellaneous Manufacturing,3391,Medical Equipment and Supplies Manufacturing
+41,Wholesale Trade,411,Farm Product Wholesaler-Distributors,4111,Farm Product Wholesaler-Distributors
+41,Wholesale Trade,412,Petroleum Product Wholesaler-Distributors,4121,Petroleum Product Wholesaler-Distributors
+41,Wholesale Trade,413,"Food, Beverage and Tobacco Wholesaler-Distributors",4131,Food Wholesaler-Distributors
+41,Wholesale Trade,413,"Food, Beverage and Tobacco Wholesaler-Distributors",4132,Beverage Wholesaler-Distributors
+41,Wholesale Trade,413,"Food, Beverage and Tobacco Wholesaler-Distributors",4133,Cigarette and Tobacco Product Wholesaler-Distributors
+41,Wholesale Trade,414,Personal and Household Goods Wholesaler-Distributors,4143,Home Furnishings Wholesaler-Distributors
+41,Wholesale Trade,414,Personal and Household Goods Wholesaler-Distributors,4141,"Textile, Clothing and Footwear Wholesaler-Distributors"
+41,Wholesale Trade,414,Personal and Household Goods Wholesaler-Distributors,4142,Home Entertainment Equipment and Household Appliance Wholesaler-Distributors
+41,Wholesale Trade,414,Personal and Household Goods Wholesaler-Distributors,4145,"Pharmaceuticals, Toiletries, Cosmetics and Sundries Wholesaler-Distributors"
+41,Wholesale Trade,414,Personal and Household Goods Wholesaler-Distributors,4144,Personal Goods Wholesaler-Distributors
+41,Wholesale Trade,415,Motor Vehicle and Parts Wholesaler-Distributors,4151,Motor Vehicle Wholesaler-Distributors
+41,Wholesale Trade,415,Motor Vehicle and Parts Wholesaler-Distributors,4152,New Motor Vehicle Parts and Accessories Wholesaler-Distributors
+41,Wholesale Trade,415,Motor Vehicle and Parts Wholesaler-Distributors,4153,Used Motor Vehicle Parts and Accessories Wholesaler-Distributors
+41,Wholesale Trade,416,Building Material and Supplies Wholesaler-Distributors,4162,Metal Service Centres
+41,Wholesale Trade,416,Building Material and Supplies Wholesaler-Distributors,4163,"Lumber, Millwork, Hardware and Other Building Supplies Wholesaler-Distributors"
+41,Wholesale Trade,416,Building Material and Supplies Wholesaler-Distributors,4161,"Electrical, Plumbing, Heating and Air-Conditioning Equipment and Supplies Wholesaler-Distributors"
+41,Wholesale Trade,417,"Machinery, Equipment and Supplies Wholesaler-Distributors",4173,Computer and Communications Equipment and Supplies Wholesaler-Distributors
+41,Wholesale Trade,417,"Machinery, Equipment and Supplies Wholesaler-Distributors",4179,"Other Machinery, Equipment and Supplies Wholesaler-Distributors"
+41,Wholesale Trade,417,"Machinery, Equipment and Supplies Wholesaler-Distributors",4172,"Construction, Forestry, Mining, and Industrial Machinery, Equipment and Supplies Wholesaler-Distributors"
+41,Wholesale Trade,417,"Machinery, Equipment and Supplies Wholesaler-Distributors",4171,"Farm, Lawn and Garden Machinery and Equipment Wholesaler-Distributors"
+41,Wholesale Trade,418,Miscellaneous Wholesaler-Distributors,4181,Recyclable Material Wholesaler-Distributors
+41,Wholesale Trade,418,Miscellaneous Wholesaler-Distributors,4183,Agricultural Supplies Wholesaler-Distributors
+41,Wholesale Trade,418,Miscellaneous Wholesaler-Distributors,4184,Chemical (except Agricultural) and Allied Product Wholesaler-Distributors
+41,Wholesale Trade,418,Miscellaneous Wholesaler-Distributors,4189,Other Miscellaneous Wholesaler-Distributors
+41,Wholesale Trade,418,Miscellaneous Wholesaler-Distributors,4182,"Paper, Paper Product and Disposable Plastic Product Wholesaler-Distributors"
+41,Wholesale Trade,419,"Wholesale Electronic Markets, and Agents and Brokers",4191,"Wholesale Electronic Markets, and Agents and Brokers"
+44-45,Retail Trade,441,Motor Vehicle and Parts Dealers,4411,Automobile Dealers
+44-45,Retail Trade,441,Motor Vehicle and Parts Dealers,4412,Other Motor Vehicle Dealers
+44-45,Retail Trade,441,Motor Vehicle and Parts Dealers,4413,"Automotive Parts, Accessories and Tire Stores"
+44-45,Retail Trade,442,Furniture and Home Furnishings Stores,4421,Furniture Stores
+44-45,Retail Trade,442,Furniture and Home Furnishings Stores,4422,Home Furnishings Stores
+44-45,Retail Trade,443,Electronics and Appliance Stores,4431,Electronics and Appliance Stores
+44-45,Retail Trade,444,Building Material and Garden Equipment and Supplies Dealers,4442,Lawn and Garden Equipment and Supplies Stores
+44-45,Retail Trade,444,Building Material and Garden Equipment and Supplies Dealers,4441,Building Material and Supplies Dealers
+44-45,Retail Trade,445,Food and Beverage Stores,4451,Grocery Stores
+44-45,Retail Trade,445,Food and Beverage Stores,4452,Specialty Food Stores
+44-45,Retail Trade,445,Food and Beverage Stores,4453,"Beer, Wine and Liquor Stores"
+44-45,Retail Trade,446,Health and Personal Care Stores,4461,Health and Personal Care Stores
+44-45,Retail Trade,447,Gasoline Stations,4471,Gasoline Stations
+44-45,Retail Trade,448,Clothing and Clothing Accessories Stores,4483,"Jewellery, Luggage and Leather Goods Stores"
+44-45,Retail Trade,448,Clothing and Clothing Accessories Stores,4481,Clothing Stores
+44-45,Retail Trade,448,Clothing and Clothing Accessories Stores,4482,Shoe Stores
+44-45,Retail Trade,451,"Sporting Goods, Hobby, Book and Music Stores",4511,"Sporting Goods, Hobby and Musical Instrument Stores"
+44-45,Retail Trade,451,"Sporting Goods, Hobby, Book and Music Stores",4512,"Book, Periodical and Music Stores"
+44-45,Retail Trade,452,General Merchandise Stores,4529,Other General Merchandise Stores
+44-45,Retail Trade,452,General Merchandise Stores,4521,Department Stores
+44-45,Retail Trade,453,Miscellaneous Store Retailers,4531,Florists
+44-45,Retail Trade,453,Miscellaneous Store Retailers,4532,"Office Supplies, Stationery and Gift Stores"
+44-45,Retail Trade,453,Miscellaneous Store Retailers,4533,Used Merchandise Stores
+44-45,Retail Trade,453,Miscellaneous Store Retailers,4539,Other Miscellaneous Store Retailers
+44-45,Retail Trade,454,Non-Store Retailers,4541,Electronic Shopping and Mail-Order Houses
+44-45,Retail Trade,454,Non-Store Retailers,4542,Vending Machine Operators
+44-45,Retail Trade,454,Non-Store Retailers,4543,Direct Selling Establishments
+48-49,Transportation and Warehousing,481,Air Transportation,4811,Scheduled Air Transportation
+48-49,Transportation and Warehousing,481,Air Transportation,4812,Non-Scheduled Air Transportation
+48-49,Transportation and Warehousing,482,Rail Transportation,4821,Rail Transportation
+48-49,Transportation and Warehousing,483,Water Transportation,4831,"Deep Sea, Coastal and Great Lakes Water Transportation"
+48-49,Transportation and Warehousing,483,Water Transportation,4832,Inland Water Transportation
+48-49,Transportation and Warehousing,484,Truck Transportation,4841,General Freight Trucking
+48-49,Transportation and Warehousing,484,Truck Transportation,4842,Specialized Freight Trucking
+48-49,Transportation and Warehousing,485,Transit and Ground Passenger Transportation,4859,Other Transit and Ground Passenger Transportation
+48-49,Transportation and Warehousing,485,Transit and Ground Passenger Transportation,4852,Interurban and Rural Bus Transportation
+48-49,Transportation and Warehousing,485,Transit and Ground Passenger Transportation,4853,Taxi and Limousine Service
+48-49,Transportation and Warehousing,485,Transit and Ground Passenger Transportation,4851,Urban Transit Systems
+48-49,Transportation and Warehousing,485,Transit and Ground Passenger Transportation,4854,School and Employee Bus Transportation
+48-49,Transportation and Warehousing,485,Transit and Ground Passenger Transportation,4855,Charter Bus Industry
+48-49,Transportation and Warehousing,486,Pipeline Transportation,4861,Pipeline Transportation of Crude Oil
+48-49,Transportation and Warehousing,486,Pipeline Transportation,4862,Pipeline Transportation of Natural Gas
+48-49,Transportation and Warehousing,486,Pipeline Transportation,4869,Other Pipeline Transportation
+48-49,Transportation and Warehousing,487,Scenic and Sightseeing Transportation,4872,"Scenic and Sightseeing Transportation, Water"
+48-49,Transportation and Warehousing,487,Scenic and Sightseeing Transportation,4879,"Scenic and Sightseeing Transportation, Other"
+48-49,Transportation and Warehousing,487,Scenic and Sightseeing Transportation,4871,"Scenic and Sightseeing Transportation, Land"
+48-49,Transportation and Warehousing,488,Support Activities for Transportation,4882,Support Activities for Rail Transportation
+48-49,Transportation and Warehousing,488,Support Activities for Transportation,4883,Support Activities for Water Transportation
+48-49,Transportation and Warehousing,488,Support Activities for Transportation,4884,Support Activities for Road Transportation
+48-49,Transportation and Warehousing,488,Support Activities for Transportation,4885,Freight Transportation Arrangement
+48-49,Transportation and Warehousing,488,Support Activities for Transportation,4889,Other Support Activities for Transportation
+48-49,Transportation and Warehousing,488,Support Activities for Transportation,4881,Support Activities for Air Transportation
+48-49,Transportation and Warehousing,491,Postal Service,4911,Postal Service
+48-49,Transportation and Warehousing,492,Couriers and Messengers,4921,Couriers
+48-49,Transportation and Warehousing,492,Couriers and Messengers,4922,Local Messengers and Local Delivery
+48-49,Transportation and Warehousing,493,Warehousing and Storage,4931,Warehousing and Storage
+51,Information and Cultural Industries,511,Publishing Industries (except Internet),5111,"Newspaper, Periodical, Book and Directory Publishers"
+51,Information and Cultural Industries,511,Publishing Industries (except Internet),5112,Software Publishers
+51,Information and Cultural Industries,512,Motion Picture and Sound Recording Industries,5121,Motion Picture and Video Industries
+51,Information and Cultural Industries,512,Motion Picture and Sound Recording Industries,5122,Sound Recording Industries
+51,Information and Cultural Industries,515,Broadcasting (except Internet),5151,Radio and Television Broadcasting
+51,Information and Cultural Industries,515,Broadcasting (except Internet),5152,Pay and Specialty Television
+51,Information and Cultural Industries,517,Telecommunications,5171,Wired Telecommunications Carriers
+51,Information and Cultural Industries,517,Telecommunications,5172,Wireless Telecommunications Carriers (except Satellite)
+51,Information and Cultural Industries,517,Telecommunications,5174,Satellite Telecommunications
+51,Information and Cultural Industries,517,Telecommunications,5179,Other Telecommunications
+51,Information and Cultural Industries,518,"Data Processing, Hosting, and Related Services",5182,"Data Processing, Hosting, and Related Services"
+51,Information and Cultural Industries,519,Other Information Services,5191,Other Information Services
+52,Finance and Insurance,521,Monetary Authorities - Central Bank,5211,Monetary Authorities - Central Bank
+52,Finance and Insurance,522,Credit Intermediation and Related Activities,5221,Depository Credit Intermediation
+52,Finance and Insurance,522,Credit Intermediation and Related Activities,5222,Non-Depository Credit Intermediation
+52,Finance and Insurance,522,Credit Intermediation and Related Activities,5223,Activities Related to Credit Intermediation
+52,Finance and Insurance,523,"Securities, Commodity Contracts, and Other Financial Investment and Related Activities",5231,Securities and Commodity Contracts Intermediation and Brokerage
+52,Finance and Insurance,523,"Securities, Commodity Contracts, and Other Financial Investment and Related Activities",5232,Securities and Commodity Exchanges
+52,Finance and Insurance,523,"Securities, Commodity Contracts, and Other Financial Investment and Related Activities",5239,Other Financial Investment Activities
+52,Finance and Insurance,524,Insurance Carriers and Related Activities,5241,Insurance Carriers
+52,Finance and Insurance,524,Insurance Carriers and Related Activities,5242,"Agencies, Brokerages and Other Insurance Related Activities"
+52,Finance and Insurance,526,Funds and Other Financial Vehicles,5261,Pension Funds
+52,Finance and Insurance,526,Funds and Other Financial Vehicles,5269,Other Funds and Financial Vehicles
+53,Real Estate and Rental and Leasing,531,Real Estate,5311,Lessors of Real Estate
+53,Real Estate and Rental and Leasing,531,Real Estate,5312,Offices of Real Estate Agents and Brokers
+53,Real Estate and Rental and Leasing,531,Real Estate,5313,Activities Related to Real Estate
+53,Real Estate and Rental and Leasing,532,Rental and Leasing Services,5321,Automotive Equipment Rental and Leasing
+53,Real Estate and Rental and Leasing,532,Rental and Leasing Services,5322,Consumer Goods Rental
+53,Real Estate and Rental and Leasing,532,Rental and Leasing Services,5323,General Rental Centres
+53,Real Estate and Rental and Leasing,532,Rental and Leasing Services,5324,Commercial and Industrial Machinery and Equipment Rental and Leasing
+53,Real Estate and Rental and Leasing,533,Lessors of Non-Financial Intangible Assets (Except Copyrighted Works),5331,Lessors of Non-Financial Intangible Assets (Except Copyrighted Works)
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5411,Legal Services
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5412,"Accounting, Tax Preparation, Bookkeeping and Payroll Services"
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5413,"Architectural, Engineering and Related Services"
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5414,Specialized Design Services
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5415,Computer Systems Design and Related Services
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5416,"Management, Scientific and Technical Consulting Services"
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5417,Scientific Research and Development Services
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5418,"Advertising, Public Relations, and Related Services"
+54,"Professional, Scientific and Technical Services",541,"Professional, Scientific and Technical Services",5419,"Other Professional, Scientific and Technical Services"
+55,Management of Companies and Enterprises,551,Management of Companies and Enterprises,5511,Management of Companies and Enterprises
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5611,Office Administrative Services
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5612,Facilities Support Services
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5613,Employment Services
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5614,Business Support Services
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5615,Travel Arrangement and Reservation Services
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5616,Investigation and Security Services
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5617,Services to Buildings and Dwellings
+56,"Administrative and Support, Waste Management and Remediation Services",561,Administrative and Support Services,5619,Other Support Services
+56,"Administrative and Support, Waste Management and Remediation Services",562,Waste Management and Remediation Services,5621,Waste Collection
+56,"Administrative and Support, Waste Management and Remediation Services",562,Waste Management and Remediation Services,5622,Waste Treatment and Disposal
+56,"Administrative and Support, Waste Management and Remediation Services",562,Waste Management and Remediation Services,5629,Remediation and Other Waste Management Services
+61,Educational Services,611,Educational Services,6111,Elementary and Secondary Schools
+61,Educational Services,611,Educational Services,6112,Community Colleges and C.E.G.E.P.s
+61,Educational Services,611,Educational Services,6113,Universities
+61,Educational Services,611,Educational Services,6114,Business Schools and Computer and Management Training
+61,Educational Services,611,Educational Services,6115,Technical and Trade Schools
+61,Educational Services,611,Educational Services,6116,Other Schools and Instruction
+61,Educational Services,611,Educational Services,6117,Educational Support Services
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6211,Offices of Physicians
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6212,Offices of Dentists
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6213,Offices of Other Health Practitioners
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6214,Out-Patient Care Centres
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6215,Medical and Diagnostic Laboratories
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6216,Home Health Care Services
+62,Health Care and Social Assistance,621,Ambulatory Health Care Services,6219,Other Ambulatory Health Care Services
+62,Health Care and Social Assistance,622,Hospitals,6221,General Medical and Surgical Hospitals
+62,Health Care and Social Assistance,622,Hospitals,6222,Psychiatric and Substance Abuse Hospitals
+62,Health Care and Social Assistance,622,Hospitals,6223,Specialty (except Psychiatric and Substance Abuse) Hospitals
+62,Health Care and Social Assistance,623,Nursing and Residential Care Facilities,6231,Nursing Care Facilities
+62,Health Care and Social Assistance,623,Nursing and Residential Care Facilities,6232,"Residential Developmental Handicap, Mental Health and Substance Abuse Facilities"
+62,Health Care and Social Assistance,623,Nursing and Residential Care Facilities,6233,Community Care Facilities for the Elderly
+62,Health Care and Social Assistance,623,Nursing and Residential Care Facilities,6239,Other Residential Care Facilities
+62,Health Care and Social Assistance,624,Social Assistance,6241,Individual and Family Services
+62,Health Care and Social Assistance,624,Social Assistance,6242,"Community Food and Housing, and Emergency and Other Relief Services"
+62,Health Care and Social Assistance,624,Social Assistance,6243,Vocational Rehabilitation Services
+62,Health Care and Social Assistance,624,Social Assistance,6244,Child Day-Care Services
+71,"Arts, Entertainment and Recreation",711,"Performing Arts, Spectator Sports and Related Industries",7111,Performing Arts Companies
+71,"Arts, Entertainment and Recreation",711,"Performing Arts, Spectator Sports and Related Industries",7112,Spectator Sports
+71,"Arts, Entertainment and Recreation",711,"Performing Arts, Spectator Sports and Related Industries",7113,"Promoters (Presenters) of Performing Arts, Sports and Similar Events"
+71,"Arts, Entertainment and Recreation",711,"Performing Arts, Spectator Sports and Related Industries",7114,"Agents and Managers for Artists, Athletes, Entertainers and Other Public Figures"
+71,"Arts, Entertainment and Recreation",711,"Performing Arts, Spectator Sports and Related Industries",7115,"Independent Artists, Writers and Performers"
+71,"Arts, Entertainment and Recreation",712,Heritage Institutions,7121,Heritage Institutions
+71,"Arts, Entertainment and Recreation",713,"Amusement, Gambling and Recreation Industries",7131,Amusement Parks and Arcades
+71,"Arts, Entertainment and Recreation",713,"Amusement, Gambling and Recreation Industries",7132,Gambling Industries
+71,"Arts, Entertainment and Recreation",713,"Amusement, Gambling and Recreation Industries",7139,Other Amusement and Recreation Industries
+72,Accommodation and Food Services,721,Accommodation Services,7211,Traveller Accommodation
+72,Accommodation and Food Services,721,Accommodation Services,7212,RV (Recreational Vehicle) Parks and Recreational Camps
+72,Accommodation and Food Services,721,Accommodation Services,7213,Rooming and Boarding Houses
+72,Accommodation and Food Services,722,Food Services and Drinking Places,7221,Full-Service Restaurants
+72,Accommodation and Food Services,722,Food Services and Drinking Places,7222,Limited-Service Eating Places
+72,Accommodation and Food Services,722,Food Services and Drinking Places,7223,Special Food Services
+72,Accommodation and Food Services,722,Food Services and Drinking Places,7224,Drinking Places (Alcoholic Beverages)
+81,Other Services (except Public Administration),811,Repair and Maintenance,8111,Automotive Repair and Maintenance
+81,Other Services (except Public Administration),811,Repair and Maintenance,8112,Electronic and Precision Equipment Repair and Maintenance
+81,Other Services (except Public Administration),811,Repair and Maintenance,8113,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+81,Other Services (except Public Administration),811,Repair and Maintenance,8114,Personal and Household Goods Repair and Maintenance
+81,Other Services (except Public Administration),812,Personal and Laundry Services,8121,Personal Care Services
+81,Other Services (except Public Administration),812,Personal and Laundry Services,8122,Funeral Services
+81,Other Services (except Public Administration),812,Personal and Laundry Services,8123,Dry Cleaning and Laundry Services
+81,Other Services (except Public Administration),812,Personal and Laundry Services,8129,Other Personal Services
+81,Other Services (except Public Administration),813,"Religious, Grant-Making, Civic, and Professional and Similar Organizations",8131,Religious Organizations
+81,Other Services (except Public Administration),813,"Religious, Grant-Making, Civic, and Professional and Similar Organizations",8132,Grant-Making and Giving Services
+81,Other Services (except Public Administration),813,"Religious, Grant-Making, Civic, and Professional and Similar Organizations",8133,Social Advocacy Organizations
+81,Other Services (except Public Administration),813,"Religious, Grant-Making, Civic, and Professional and Similar Organizations",8134,Civic and Social Organizations
+81,Other Services (except Public Administration),813,"Religious, Grant-Making, Civic, and Professional and Similar Organizations",8139,"Business, Professional, Labour and Other Membership Organizations"
+81,Other Services (except Public Administration),814,Private Households,8141,Private Households
+91,Public Administration,911,Federal Government Public Administration,9111,Defence Services
+91,Public Administration,911,Federal Government Public Administration,9112,Federal Protective Services
+91,Public Administration,911,Federal Government Public Administration,9113,"Federal Labour, Employment and Immigration Services"
+91,Public Administration,911,Federal Government Public Administration,9114,Foreign Affairs and International Assistance
+91,Public Administration,911,Federal Government Public Administration,9119,Other Federal Government Public Administration
+91,Public Administration,912,Provincial and Territorial Public Administration,9121,Provincial Protective Services
+91,Public Administration,912,Provincial and Territorial Public Administration,9122,Provincial Labour and Employment Services
+91,Public Administration,912,Provincial and Territorial Public Administration,9129,Other Provincial and Territorial Public Administration
+91,Public Administration,913,"Local, Municipal and Regional Public Administration",9131,Municipal Protective Services
+91,Public Administration,913,"Local, Municipal and Regional Public Administration",9139,"Other Local, Municipal and Regional Public Administration"
+91,Public Administration,914,Aboriginal Public Administration,9141,Aboriginal Public Administration
+91,Public Administration,919,International and Other Extra-Territorial Public Administration,9191,International and Other Extra-Territorial Public Administration

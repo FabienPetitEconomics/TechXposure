@@ -1,0 +1,881 @@
+soc2d,soc2d_label,tech40_id,tech40_label,tech40_labelshort,cosine2d,n_patent,xposure2d
+11-0000,Management Occupations,1,3D Printer Hardware,3D Printer Hardware,0.007655335073671647,4,0.007655260303236146
+11-0000,Management Occupations,2,3D Printing,3D Printing,0.03886858751734225,7,0.03885880726776116
+11-0000,Management Occupations,3,Additive Manufacturing,Additive Manufacturing,0.03107657405490932,8,0.031071574176036853
+11-0000,Management Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,36.19471844048737,4957,4.282251166009184
+11-0000,Management Occupations,5,Internet of Things (IoT),IoT,8.028410349730155,1329,2.77999000423968
+11-0000,Management Occupations,6,Predictive Energy Management and Distribution,Energy Management,9.488713709302814,1473,2.9460154249796746
+11-0000,Management Occupations,7,Industrial Automation & Robot Control,Industrial Automation,2.0697150335276544,292,1.4743852444743006
+11-0000,Management Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,8.944789580676067,1176,2.8873284676778113
+11-0000,Management Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.9123499204263225,155,0.8180184185001929
+11-0000,Management Occupations,10,Intelligent Logistics,Intelligent Logistics,11.45808675631316,1320,3.1337417262376808
+11-0000,Management Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.3385309777301455,51,0.33237721036290097
+11-0000,Management Occupations,12,Parking & Vehicle Space Management,Parking Management,0.9853776344387436,174,0.8709961243176191
+11-0000,Management Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.9750261509687501,152,0.8636037001322682
+11-0000,Management Occupations,14,Passenger Transportation,Passenger Transportation,2.4274695464760305,315,1.6199519080801799
+11-0000,Management Occupations,15,Food Ordering & Vending Systems,Food Ordering,8.40608287458524,985,2.825622104621974
+11-0000,Management Occupations,16,Digital Advertising,Digital Advertising,45.61724842322668,5622,4.513553197209445
+11-0000,Management Occupations,17,Electronic Trading and Auctions,E-Trading,1.8227887022187785,276,1.3614546686721511
+11-0000,Management Occupations,18,Online Shopping Platforms,Online Shopping,16.16470107859502,2079,3.476932493112089
+11-0000,Management Occupations,19,E-Coupons & Promotion Management,E-Coupons,6.368181336335698,923,2.5505695293424995
+11-0000,Management Occupations,20,Electronic Payments & Financial Transactions,E-Payment,2.272338125898426,348,1.5591929085019585
+11-0000,Management Occupations,21,Mobile Payments,Mobile Payment,0.8661980976367426,144,0.7835301571898259
+11-0000,Management Occupations,22,Gaming & Wagering Systems,Gaming,9.602080808101569,1374,2.9578275420853153
+11-0000,Management Occupations,23,Digital Authentication,Digital Authentification,3.316007770516164,533,1.9139061021920378
+11-0000,Management Occupations,24,E-Learning,E-Learning,20.558484090496126,2703,3.717011867494086
+11-0000,Management Occupations,25,Location-Based Services & Tracking,Location-Based Services,0.4368966450602448,71,0.42407128387668297
+11-0000,Management Occupations,26,Voice Communication,Voice Communication,1.49795785301026,229,1.1936299038513012
+11-0000,Management Occupations,27,Electronic Messaging,Electronic Messaging,1.118404337670228,182,0.9626705266829285
+11-0000,Management Occupations,28,Workflow Management,Workflow Management,10.204669749991975,1312,3.0183847385928897
+11-0000,Management Occupations,29,Cloud Storage & Data Security,Cloud Storage,1.2590587413307917,188,1.0532394853733473
+11-0000,Management Occupations,30,Information Processing,Information Processing,1.6209028856089511,276,1.2600100576079916
+11-0000,Management Occupations,31,Cloud Computing,Cloud Computing,4.42369529400322,728,2.192659736846614
+11-0000,Management Occupations,32,Recommender Systems,Recommender Systems,1.1509768341518247,180,0.9842069766030971
+11-0000,Management Occupations,33,Social Networking & Media Platforms,Social Networking,3.419280984891448,574,1.9433055715323564
+11-0000,Management Occupations,34,Digital Media Content,Digital Media Content,1.0409313600135437,185,0.9100223115957121
+11-0000,Management Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.29580650964041616,51,0.2916541024760484
+11-0000,Management Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.220267077498665,48,0.21852373988927054
+11-0000,Management Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.02469576410373875,5,0.024693254547167115
+11-0000,Management Occupations,38,Health Monitoring,Health Monitoring,1.1729922293662363,177,0.998567690539991
+11-0000,Management Occupations,39,Medical Information,Medical Information,1.3764136056212972,191,1.1241958396215845
+11-0000,Management Occupations,40,E-Healthcare,E-Healthcare,2.5641004678549395,343,1.6707778783262675
+13-0000,Business and Financial Operations Occupations,1,3D Printer Hardware,3D Printer Hardware,0,2,-0
+13-0000,Business and Financial Operations Occupations,2,3D Printing,3D Printing,0.09235126538509018,11,0.09222049309077394
+13-0000,Business and Financial Operations Occupations,3,Additive Manufacturing,Additive Manufacturing,0,1,-0
+13-0000,Business and Financial Operations Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0.5187470519665751,74,0.4979165229379517
+13-0000,Business and Financial Operations Occupations,5,Internet of Things (IoT),IoT,3.759356935885233,522,2.034632750467028
+13-0000,Business and Financial Operations Occupations,6,Predictive Energy Management and Distribution,Energy Management,23.94439239686155,2769,3.869317100215928
+13-0000,Business and Financial Operations Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.1467800816903463,21,0.14625807888076334
+13-0000,Business and Financial Operations Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,4.1886441201720315,500,2.139478282721787
+13-0000,Business and Financial Operations Occupations,9,Smart Home & Intelligent Household Control,Smart Home,2.797218965798352,371,1.7522931258934544
+13-0000,Business and Financial Operations Occupations,10,Intelligent Logistics,Intelligent Logistics,33.0744268626341,3421,4.192136020076566
+13-0000,Business and Financial Operations Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.22642037085917494,31,0.2245290678444206
+13-0000,Business and Financial Operations Occupations,12,Parking & Vehicle Space Management,Parking Management,0.3773513812612605,67,0.3689254189874393
+13-0000,Business and Financial Operations Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,4.111155337210762,505,2.1213249769651004
+13-0000,Business and Financial Operations Occupations,14,Passenger Transportation,Passenger Transportation,1.8752776603555987,223,1.3864250172849328
+13-0000,Business and Financial Operations Occupations,15,Food Ordering & Vending Systems,Food Ordering,3.71710107430351,418,2.0237128981176054
+13-0000,Business and Financial Operations Occupations,16,Digital Advertising,Digital Advertising,30.807366665933575,4003,4.12116432453879
+13-0000,Business and Financial Operations Occupations,17,Electronic Trading and Auctions,E-Trading,20.60976397427828,2376,3.7195001688394624
+13-0000,Business and Financial Operations Occupations,18,Online Shopping Platforms,Online Shopping,61.625859651774554,6374,4.814294584561276
+13-0000,Business and Financial Operations Occupations,19,E-Coupons & Promotion Management,E-Coupons,8.578714923885792,1096,2.845811127089021
+13-0000,Business and Financial Operations Occupations,20,Electronic Payments & Financial Transactions,E-Payment,71.81108511274608,8165,4.967234509306322
+13-0000,Business and Financial Operations Occupations,21,Mobile Payments,Mobile Payment,45.7270495016814,5706,4.515956736871026
+13-0000,Business and Financial Operations Occupations,22,Gaming & Wagering Systems,Gaming,2.7710092030713267,384,1.743433214576854
+13-0000,Business and Financial Operations Occupations,23,Digital Authentication,Digital Authentification,17.73620628922585,2426,3.5695490662465352
+13-0000,Business and Financial Operations Occupations,24,E-Learning,E-Learning,0.9424133420474341,133,0.8400619440779804
+13-0000,Business and Financial Operations Occupations,25,Location-Based Services & Tracking,Location-Based Services,2.068918619606131,260,1.4740387177905332
+13-0000,Business and Financial Operations Occupations,26,Voice Communication,Voice Communication,1.8768465016862272,261,1.3871629701211061
+13-0000,Business and Financial Operations Occupations,27,Electronic Messaging,Electronic Messaging,1.730597839654601,221,1.3162311843527914
+13-0000,Business and Financial Operations Occupations,28,Workflow Management,Workflow Management,11.472548666750848,1312,3.1349983173624465
+13-0000,Business and Financial Operations Occupations,29,Cloud Storage & Data Security,Cloud Storage,1.3237536612165657,192,1.0928512413628346
+13-0000,Business and Financial Operations Occupations,30,Information Processing,Information Processing,2.7126158980679427,383,1.7234245546413496
+13-0000,Business and Financial Operations Occupations,31,Cloud Computing,Cloud Computing,2.598297264389604,388,1.683131723115249
+13-0000,Business and Financial Operations Occupations,32,Recommender Systems,Recommender Systems,5.738272282064863,719,2.4478126895247527
+13-0000,Business and Financial Operations Occupations,33,Social Networking & Media Platforms,Social Networking,2.935980069329318,410,1.7980047870032059
+13-0000,Business and Financial Operations Occupations,34,Digital Media Content,Digital Media Content,3.9770470709579966,540,2.0891305590809073
+13-0000,Business and Financial Operations Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.6016724115706041,93,0.570258450669128
+13-0000,Business and Financial Operations Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.11903595422859428,25,0.11875661724118403
+13-0000,Business and Financial Operations Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.010017505092241107,6,0.010017337556352215
+13-0000,Business and Financial Operations Occupations,38,Health Monitoring,Health Monitoring,0.05088813156919839,13,0.050866193790154085
+13-0000,Business and Financial Operations Occupations,39,Medical Information,Medical Information,0.30695933132070813,46,0.30233245717054963
+13-0000,Business and Financial Operations Occupations,40,E-Healthcare,E-Healthcare,0.13959372803524284,27,0.13914429460646108
+15-0000,Computer and Mathematical Occupations,1,3D Printer Hardware,3D Printer Hardware,0.06569884144925658,6,0.06565166995048742
+15-0000,Computer and Mathematical Occupations,2,3D Printing,3D Printing,0.39156503948052884,51,0.3821923132578987
+15-0000,Computer and Mathematical Occupations,3,Additive Manufacturing,Additive Manufacturing,0.012875068238528823,2,0.012874712554001109
+15-0000,Computer and Mathematical Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,2.326988655659025,225,1.580986840928568
+15-0000,Computer and Mathematical Occupations,5,Internet of Things (IoT),IoT,6.517938488440923,735,2.573538683805398
+15-0000,Computer and Mathematical Occupations,6,Predictive Energy Management and Distribution,Energy Management,2.0439980522989316,221,1.4631406174643262
+15-0000,Computer and Mathematical Occupations,7,Industrial Automation & Robot Control,Industrial Automation,7.693896981066161,709,2.7377713445061955
+15-0000,Computer and Mathematical Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,25.1430576559182,2128,3.918124228235018
+15-0000,Computer and Mathematical Occupations,9,Smart Home & Intelligent Household Control,Smart Home,13.00364598566643,1326,3.2598521516232255
+15-0000,Computer and Mathematical Occupations,10,Intelligent Logistics,Intelligent Logistics,3.589026466738879,291,1.9898946029116564
+15-0000,Computer and Mathematical Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.38965734096518084,48,0.3804153652796227
+15-0000,Computer and Mathematical Occupations,12,Parking & Vehicle Space Management,Parking Management,1.3526365880573332,156,1.1101408227025416
+15-0000,Computer and Mathematical Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,3.9124790077781704,358,2.073264073981319
+15-0000,Computer and Mathematical Occupations,14,Passenger Transportation,Passenger Transportation,2.1476042967509983,209,1.507762469162251
+15-0000,Computer and Mathematical Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.958454667802886,109,0.8516894037549785
+15-0000,Computer and Mathematical Occupations,16,Digital Advertising,Digital Advertising,61.22238430923721,5265,4.807726752252158
+15-0000,Computer and Mathematical Occupations,17,Electronic Trading and Auctions,E-Trading,5.39099776444186,510,2.386370789430407
+15-0000,Computer and Mathematical Occupations,18,Online Shopping Platforms,Online Shopping,10.910342300993262,971,3.0849519818421873
+15-0000,Computer and Mathematical Occupations,19,E-Coupons & Promotion Management,E-Coupons,2.6384279104338626,286,1.697449853704206
+15-0000,Computer and Mathematical Occupations,20,Electronic Payments & Financial Transactions,E-Payment,8.082428452691886,753,2.7866447560053995
+15-0000,Computer and Mathematical Occupations,21,Mobile Payments,Mobile Payment,8.707861223149655,814,2.8606541856650467
+15-0000,Computer and Mathematical Occupations,22,Gaming & Wagering Systems,Gaming,10.628723876800667,1056,3.058912987852687
+15-0000,Computer and Mathematical Occupations,23,Digital Authentication,Digital Authentification,25.40066662166807,2434,3.9283098546056254
+15-0000,Computer and Mathematical Occupations,24,E-Learning,E-Learning,32.390349456127545,2805,4.171245909173088
+15-0000,Computer and Mathematical Occupations,25,Location-Based Services & Tracking,Location-Based Services,20.25394549673926,1753,3.7021056637905128
+15-0000,Computer and Mathematical Occupations,26,Voice Communication,Voice Communication,68.74009944450891,5959,4.923532802257425
+15-0000,Computer and Mathematical Occupations,27,Electronic Messaging,Electronic Messaging,31.46595389365235,2790,4.142305715675085
+15-0000,Computer and Mathematical Occupations,28,Workflow Management,Workflow Management,55.54995724515317,4408,4.710510933464524
+15-0000,Computer and Mathematical Occupations,29,Cloud Storage & Data Security,Cloud Storage,49.21480326176686,4866,4.589444838481691
+15-0000,Computer and Mathematical Occupations,30,Information Processing,Information Processing,29.70209921602794,2533,4.08464816189833
+15-0000,Computer and Mathematical Occupations,31,Cloud Computing,Cloud Computing,94.53516180721459,9413,5.242147001212263
+15-0000,Computer and Mathematical Occupations,32,Recommender Systems,Recommender Systems,15.28185300214343,1468,3.420882015039381
+15-0000,Computer and Mathematical Occupations,33,Social Networking & Media Platforms,Social Networking,38.35717837727029,3914,4.340258749059336
+15-0000,Computer and Mathematical Occupations,34,Digital Media Content,Digital Media Content,28.014791858342658,2581,4.026198220708459
+15-0000,Computer and Mathematical Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,3.97708462789049,423,2.0891397173873254
+15-0000,Computer and Mathematical Occupations,36,Machine Learning & Neural Networks,Machine Learning,6.099808947617365,718,2.508056951361956
+15-0000,Computer and Mathematical Occupations,37,Medical Imaging & Image Processing,Medical Imaging,4.803650374120094,390,2.2731855655248405
+15-0000,Computer and Mathematical Occupations,38,Health Monitoring,Health Monitoring,19.643083530367708,1651,3.6715197638833086
+15-0000,Computer and Mathematical Occupations,39,Medical Information,Medical Information,57.40450053717335,4109,4.743345744914382
+15-0000,Computer and Mathematical Occupations,40,E-Healthcare,E-Healthcare,70.02258070857692,5202,4.9420159357506135
+17-0000,Architecture and Engineering Occupations,1,3D Printer Hardware,3D Printer Hardware,0.8817353415494976,192,0.7952291334738079
+17-0000,Architecture and Engineering Occupations,2,3D Printing,3D Printing,1.8041121742683288,358,1.3524360471964127
+17-0000,Architecture and Engineering Occupations,3,Additive Manufacturing,Additive Manufacturing,3.0787099714403077,475,1.8430471725003945
+17-0000,Architecture and Engineering Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,12.353825073198228,2144,3.208746995363875
+17-0000,Architecture and Engineering Occupations,5,Internet of Things (IoT),IoT,11.164217434610675,2207,3.1078607451203157
+17-0000,Architecture and Engineering Occupations,6,Predictive Energy Management and Distribution,Energy Management,8.94189961769157,1620,2.8870073277932318
+17-0000,Architecture and Engineering Occupations,7,Industrial Automation & Robot Control,Industrial Automation,16.69099434951113,2534,3.5089126668441297
+17-0000,Architecture and Engineering Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,6.591887411940739,1073,2.5846912128071597
+17-0000,Architecture and Engineering Occupations,9,Smart Home & Intelligent Household Control,Smart Home,4.96586761462915,948,2.305722365959906
+17-0000,Architecture and Engineering Occupations,10,Intelligent Logistics,Intelligent Logistics,3.1241258067439444,433,1.8569843800431154
+17-0000,Architecture and Engineering Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,11.86112408814163,2197,3.168185635027968
+17-0000,Architecture and Engineering Occupations,12,Parking & Vehicle Space Management,Parking Management,2.37238249650965,482,1.5987634079049857
+17-0000,Architecture and Engineering Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,8.881511671890413,1521,2.88027331573392
+17-0000,Architecture and Engineering Occupations,14,Passenger Transportation,Passenger Transportation,1.6246606332793143,274,1.2619814353891292
+17-0000,Architecture and Engineering Occupations,15,Food Ordering & Vending Systems,Food Ordering,1.163501843645824,177,0.9923962428084242
+17-0000,Architecture and Engineering Occupations,16,Digital Advertising,Digital Advertising,0.4208639572668552,83,0.4093366380746531
+17-0000,Architecture and Engineering Occupations,17,Electronic Trading and Auctions,E-Trading,0.07919584319180531,13,0.07911329016559077
+17-0000,Architecture and Engineering Occupations,18,Online Shopping Platforms,Online Shopping,1.565768159133405,246,1.2306997651530998
+17-0000,Architecture and Engineering Occupations,19,E-Coupons & Promotion Management,E-Coupons,1.42641359672403,275,1.1532393313841296
+17-0000,Architecture and Engineering Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.984106285081556,173,0.870090260259905
+17-0000,Architecture and Engineering Occupations,21,Mobile Payments,Mobile Payment,11.963685024989475,2052,3.1767651023055157
+17-0000,Architecture and Engineering Occupations,22,Gaming & Wagering Systems,Gaming,0.36446146960452114,68,0.3568400784967919
+17-0000,Architecture and Engineering Occupations,23,Digital Authentication,Digital Authentification,9.675903889184703,1722,2.96544548847869
+17-0000,Architecture and Engineering Occupations,24,E-Learning,E-Learning,0.9550274522842439,188,0.8492130254022229
+17-0000,Architecture and Engineering Occupations,25,Location-Based Services & Tracking,Location-Based Services,10.796154556124543,1724,3.0744751978323253
+17-0000,Architecture and Engineering Occupations,26,Voice Communication,Voice Communication,4.259452445216414,719,2.1557908740540053
+17-0000,Architecture and Engineering Occupations,27,Electronic Messaging,Electronic Messaging,0.22650594965691723,49,0.22461253311981513
+17-0000,Architecture and Engineering Occupations,28,Workflow Management,Workflow Management,3.741897022444168,607,2.030134678189
+17-0000,Architecture and Engineering Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.9608723363663074,187,0.8534337725171045
+17-0000,Architecture and Engineering Occupations,30,Information Processing,Information Processing,2.8917891097029713,485,1.7836601340946852
+17-0000,Architecture and Engineering Occupations,31,Cloud Computing,Cloud Computing,1.172005705871263,245,0.9979275163804243
+17-0000,Architecture and Engineering Occupations,32,Recommender Systems,Recommender Systems,0.17750184058334548,43,0.17658272430141034
+17-0000,Architecture and Engineering Occupations,33,Social Networking & Media Platforms,Social Networking,0.32998900560777994,72,0.3242758545305517
+17-0000,Architecture and Engineering Occupations,34,Digital Media Content,Digital Media Content,0.5692691154117071,103,0.5422954297200288
+17-0000,Architecture and Engineering Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.9680401861042223,364,1.4292505664643198
+17-0000,Architecture and Engineering Occupations,36,Machine Learning & Neural Networks,Machine Learning,2.7112463602280763,631,1.7229507361778487
+17-0000,Architecture and Engineering Occupations,37,Medical Imaging & Image Processing,Medical Imaging,1.2838611375272149,243,1.0685725067710057
+17-0000,Architecture and Engineering Occupations,38,Health Monitoring,Health Monitoring,3.854825196622133,681,2.0588875266384075
+17-0000,Architecture and Engineering Occupations,39,Medical Information,Medical Information,0.6730067005105534,104,0.6304126243683481
+17-0000,Architecture and Engineering Occupations,40,E-Healthcare,E-Healthcare,0.9922090275619585,164,0.8758537934714627
+19-0000,"Life, Physical, and Social Science Occupations",1,3D Printer Hardware,3D Printer Hardware,0.00828879470626633,3,0.008288699796812779
+19-0000,"Life, Physical, and Social Science Occupations",2,3D Printing,3D Printing,0.32009318470369813,43,0.3148647301803285
+19-0000,"Life, Physical, and Social Science Occupations",3,Additive Manufacturing,Additive Manufacturing,1.3595551905765357,157,1.114246986536068
+19-0000,"Life, Physical, and Social Science Occupations",4,Smart Agriculture & Water Management,Smart Agriculture,19.988391315607217,2206,3.688923991067536
+19-0000,"Life, Physical, and Social Science Occupations",5,Internet of Things (IoT),IoT,6.883691510705808,850,2.627536883385616
+19-0000,"Life, Physical, and Social Science Occupations",6,Predictive Energy Management and Distribution,Energy Management,0.032069593395617484,10,0.03206409889542816
+19-0000,"Life, Physical, and Social Science Occupations",7,Industrial Automation & Robot Control,Industrial Automation,0.6311230781790527,94,0.595328897554445
+19-0000,"Life, Physical, and Social Science Occupations",8,Remote Monitoring & Control Systems,Remote Monitoring,1.6858901439857654,239,1.2936443140156162
+19-0000,"Life, Physical, and Social Science Occupations",9,Smart Home & Intelligent Household Control,Smart Home,0.06975438769670292,12,0.06969794417025822
+19-0000,"Life, Physical, and Social Science Occupations",10,Intelligent Logistics,Intelligent Logistics,0.19044394608980836,27,0.18931114030439147
+19-0000,"Life, Physical, and Social Science Occupations",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,5.22747704565624,701,2.356101511672047
+19-0000,"Life, Physical, and Social Science Occupations",12,Parking & Vehicle Space Management,Parking Management,0.7689629578575901,107,0.7082485560943665
+19-0000,"Life, Physical, and Social Science Occupations",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,5.32529044960866,633,2.3743157254391187
+19-0000,"Life, Physical, and Social Science Occupations",14,Passenger Transportation,Passenger Transportation,5.059503567325378,523,2.324041678375252
+19-0000,"Life, Physical, and Social Science Occupations",15,Food Ordering & Vending Systems,Food Ordering,0.7325217026705245,84,0.6791058554812848
+19-0000,"Life, Physical, and Social Science Occupations",16,Digital Advertising,Digital Advertising,0.05498163802436956,6,0.05495397423661347
+19-0000,"Life, Physical, and Social Science Occupations",17,Electronic Trading and Auctions,E-Trading,0,0,-0
+19-0000,"Life, Physical, and Social Science Occupations",18,Online Shopping Platforms,Online Shopping,0.03617944991763812,8,0.03617156169899163
+19-0000,"Life, Physical, and Social Science Occupations",19,E-Coupons & Promotion Management,E-Coupons,0.014975016502998737,4,0.014974456865436303
+19-0000,"Life, Physical, and Social Science Occupations",20,Electronic Payments & Financial Transactions,E-Payment,0.0076916260037807474,1,0.007691550164943655
+19-0000,"Life, Physical, and Social Science Occupations",21,Mobile Payments,Mobile Payment,0,0,-0
+19-0000,"Life, Physical, and Social Science Occupations",22,Gaming & Wagering Systems,Gaming,0,0,-0
+19-0000,"Life, Physical, and Social Science Occupations",23,Digital Authentication,Digital Authentification,0.1494127182839705,26,0.14886231095871896
+19-0000,"Life, Physical, and Social Science Occupations",24,E-Learning,E-Learning,0.23860940785559512,38,0.23640134200101376
+19-0000,"Life, Physical, and Social Science Occupations",25,Location-Based Services & Tracking,Location-Based Services,3.211834198498812,403,1.883387496228962
+19-0000,"Life, Physical, and Social Science Occupations",26,Voice Communication,Voice Communication,0.08171208697680697,12,0.08162142900574654
+19-0000,"Life, Physical, and Social Science Occupations",27,Electronic Messaging,Electronic Messaging,0.02477099281084002,5,0.0247684602545975
+19-0000,"Life, Physical, and Social Science Occupations",28,Workflow Management,Workflow Management,0.6861317541040785,99,0.6412682502015974
+19-0000,"Life, Physical, and Social Science Occupations",29,Cloud Storage & Data Security,Cloud Storage,0.00988593513566808,7,0.0098857741145195
+19-0000,"Life, Physical, and Social Science Occupations",30,Information Processing,Information Processing,0.3737901068479104,68,0.36559152081269064
+19-0000,"Life, Physical, and Social Science Occupations",31,Cloud Computing,Cloud Computing,0.2089768518604819,43,0.2074849396885318
+19-0000,"Life, Physical, and Social Science Occupations",32,Recommender Systems,Recommender Systems,0.2723662605322573,42,0.26910644189109567
+19-0000,"Life, Physical, and Social Science Occupations",33,Social Networking & Media Platforms,Social Networking,1.77179402394534,274,1.3366601388367971
+19-0000,"Life, Physical, and Social Science Occupations",34,Digital Media Content,Digital Media Content,0.050502643072339405,9,0.050481199699901676
+19-0000,"Life, Physical, and Social Science Occupations",35,Augmented and Virtual Reality (AR/VR),AR/VR,0.3071693415697986,51,0.3025332159610596
+19-0000,"Life, Physical, and Social Science Occupations",36,Machine Learning & Neural Networks,Machine Learning,3.1565833260027176,547,1.8668328079971528
+19-0000,"Life, Physical, and Social Science Occupations",37,Medical Imaging & Image Processing,Medical Imaging,2.1827814597458244,281,1.5225122142988847
+19-0000,"Life, Physical, and Social Science Occupations",38,Health Monitoring,Health Monitoring,0.0805219139444986,20,0.08043515247343737
+19-0000,"Life, Physical, and Social Science Occupations",39,Medical Information,Medical Information,0.08253877079457674,14,0.08244533900382418
+19-0000,"Life, Physical, and Social Science Occupations",40,E-Healthcare,E-Healthcare,0.04039462743595728,12,0.040383650001048585
+21-0000,Community and Social Service Occupations,1,3D Printer Hardware,3D Printer Hardware,0,0,-0
+21-0000,Community and Social Service Occupations,2,3D Printing,3D Printing,0,0,-0
+21-0000,Community and Social Service Occupations,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+21-0000,Community and Social Service Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0,0,-0
+21-0000,Community and Social Service Occupations,5,Internet of Things (IoT),IoT,0.0328585107195061,3,0.03285260080149804
+21-0000,Community and Social Service Occupations,6,Predictive Energy Management and Distribution,Energy Management,0,0,-0
+21-0000,Community and Social Service Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0,0,-0
+21-0000,Community and Social Service Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0,0,-0
+21-0000,Community and Social Service Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0,2,-0
+21-0000,Community and Social Service Occupations,10,Intelligent Logistics,Intelligent Logistics,0,1,-0
+21-0000,Community and Social Service Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0,0,-0
+21-0000,Community and Social Service Occupations,12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+21-0000,Community and Social Service Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0,0,-0
+21-0000,Community and Social Service Occupations,14,Passenger Transportation,Passenger Transportation,0,0,-0
+21-0000,Community and Social Service Occupations,15,Food Ordering & Vending Systems,Food Ordering,0,0,-0
+21-0000,Community and Social Service Occupations,16,Digital Advertising,Digital Advertising,0,0,-0
+21-0000,Community and Social Service Occupations,17,Electronic Trading and Auctions,E-Trading,0,0,-0
+21-0000,Community and Social Service Occupations,18,Online Shopping Platforms,Online Shopping,0,0,-0
+21-0000,Community and Social Service Occupations,19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+21-0000,Community and Social Service Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0,0,-0
+21-0000,Community and Social Service Occupations,21,Mobile Payments,Mobile Payment,0,0,-0
+21-0000,Community and Social Service Occupations,22,Gaming & Wagering Systems,Gaming,0,0,-0
+21-0000,Community and Social Service Occupations,23,Digital Authentication,Digital Authentification,0,0,-0
+21-0000,Community and Social Service Occupations,24,E-Learning,E-Learning,0.1475693720097605,5,0.14703895741710815
+21-0000,Community and Social Service Occupations,25,Location-Based Services & Tracking,Location-Based Services,0,0,-0
+21-0000,Community and Social Service Occupations,26,Voice Communication,Voice Communication,0.13619633855238306,4,0.13577875390183244
+21-0000,Community and Social Service Occupations,27,Electronic Messaging,Electronic Messaging,0.04293002383838209,1,0.0429168481836853
+21-0000,Community and Social Service Occupations,28,Workflow Management,Workflow Management,0.24868553534173055,7,0.24619104659876886
+21-0000,Community and Social Service Occupations,29,Cloud Storage & Data Security,Cloud Storage,0,0,-0
+21-0000,Community and Social Service Occupations,30,Information Processing,Information Processing,0,0,-0
+21-0000,Community and Social Service Occupations,31,Cloud Computing,Cloud Computing,0,0,-0
+21-0000,Community and Social Service Occupations,32,Recommender Systems,Recommender Systems,0.19280936694420545,5,0.19163429127381915
+21-0000,Community and Social Service Occupations,33,Social Networking & Media Platforms,Social Networking,0.210618749001727,10,0.20909185323637614
+21-0000,Community and Social Service Occupations,34,Digital Media Content,Digital Media Content,0.03702143899705254,1,0.037012987358518094
+21-0000,Community and Social Service Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0,1,-0
+21-0000,Community and Social Service Occupations,36,Machine Learning & Neural Networks,Machine Learning,0,0,-0
+21-0000,Community and Social Service Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0,0,-0
+21-0000,Community and Social Service Occupations,38,Health Monitoring,Health Monitoring,0.5167005444323449,14,0.49609913683202334
+21-0000,Community and Social Service Occupations,39,Medical Information,Medical Information,1.5696559351810806,38,1.2327905355947877
+21-0000,Community and Social Service Occupations,40,E-Healthcare,E-Healthcare,1.6663706258627884,40,1.2836433410590222
+23-0000,Legal Occupations,1,3D Printer Hardware,3D Printer Hardware,0,0,-0
+23-0000,Legal Occupations,2,3D Printing,3D Printing,0,0,-0
+23-0000,Legal Occupations,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+23-0000,Legal Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0,0,-0
+23-0000,Legal Occupations,5,Internet of Things (IoT),IoT,0,0,-0
+23-0000,Legal Occupations,6,Predictive Energy Management and Distribution,Energy Management,0,0,-0
+23-0000,Legal Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0,0,-0
+23-0000,Legal Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0,0,-0
+23-0000,Legal Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0,0,-0
+23-0000,Legal Occupations,10,Intelligent Logistics,Intelligent Logistics,0,0,-0
+23-0000,Legal Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0,0,-0
+23-0000,Legal Occupations,12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+23-0000,Legal Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.11655661342496745,3,0.1162943016849022
+23-0000,Legal Occupations,14,Passenger Transportation,Passenger Transportation,0,0,-0
+23-0000,Legal Occupations,15,Food Ordering & Vending Systems,Food Ordering,0,0,-0
+23-0000,Legal Occupations,16,Digital Advertising,Digital Advertising,0,1,-0
+23-0000,Legal Occupations,17,Electronic Trading and Auctions,E-Trading,0.38959008104662085,10,0.3803526942905363
+23-0000,Legal Occupations,18,Online Shopping Platforms,Online Shopping,0.0673327436546366,1,0.06728196944929557
+23-0000,Legal Occupations,19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+23-0000,Legal Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.9552121492672283,25,0.849346588668551
+23-0000,Legal Occupations,21,Mobile Payments,Mobile Payment,0.1207673299638175,3,0.12047567989863384
+23-0000,Legal Occupations,22,Gaming & Wagering Systems,Gaming,0,0,-0
+23-0000,Legal Occupations,23,Digital Authentication,Digital Authentification,0.3162101597725816,7,0.3111644649196715
+23-0000,Legal Occupations,24,E-Learning,E-Learning,0,0,-0
+23-0000,Legal Occupations,25,Location-Based Services & Tracking,Location-Based Services,0,0,-0
+23-0000,Legal Occupations,26,Voice Communication,Voice Communication,0,0,-0
+23-0000,Legal Occupations,27,Electronic Messaging,Electronic Messaging,0.12303217558798264,5,0.12272388301909803
+23-0000,Legal Occupations,28,Workflow Management,Workflow Management,2.1975363113269495,37,1.5286405401096186
+23-0000,Legal Occupations,29,Cloud Storage & Data Security,Cloud Storage,0,4,-0
+23-0000,Legal Occupations,30,Information Processing,Information Processing,0.7014879752037377,14,0.6538851367932695
+23-0000,Legal Occupations,31,Cloud Computing,Cloud Computing,0,1,-0
+23-0000,Legal Occupations,32,Recommender Systems,Recommender Systems,1.116270308941283,22,0.9612473481819268
+23-0000,Legal Occupations,33,Social Networking & Media Platforms,Social Networking,0.28680530827507655,7,0.28301213219638816
+23-0000,Legal Occupations,34,Digital Media Content,Digital Media Content,0.18935911861206817,6,0.18824536006957976
+23-0000,Legal Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.2439841063746776,4,0.24162608420984835
+23-0000,Legal Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.08449977505531688,2,0.08439953907251739
+23-0000,Legal Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0,0,-0
+23-0000,Legal Occupations,38,Health Monitoring,Health Monitoring,0,0,-0
+23-0000,Legal Occupations,39,Medical Information,Medical Information,0,0,-0
+23-0000,Legal Occupations,40,E-Healthcare,E-Healthcare,0,0,-0
+25-0000,"Education, Training, and Library Occupations",1,3D Printer Hardware,3D Printer Hardware,0,5,-0
+25-0000,"Education, Training, and Library Occupations",2,3D Printing,3D Printing,0.036477153966705006,6,0.03646906949440407
+25-0000,"Education, Training, and Library Occupations",3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+25-0000,"Education, Training, and Library Occupations",4,Smart Agriculture & Water Management,Smart Agriculture,0.5288839099864813,47,0.5068960387712513
+25-0000,"Education, Training, and Library Occupations",5,Internet of Things (IoT),IoT,0.6481352679914852,83,0.6096601750866428
+25-0000,"Education, Training, and Library Occupations",6,Predictive Energy Management and Distribution,Energy Management,0.04457006862262074,8,0.04455532545788818
+25-0000,"Education, Training, and Library Occupations",7,Industrial Automation & Robot Control,Industrial Automation,0.023957494958878896,4,0.023955203770388435
+25-0000,"Education, Training, and Library Occupations",8,Remote Monitoring & Control Systems,Remote Monitoring,0.05872221321356275,8,0.058688516856969686
+25-0000,"Education, Training, and Library Occupations",9,Smart Home & Intelligent Household Control,Smart Home,1.4030116871961231,155,1.139731308048558
+25-0000,"Education, Training, and Library Occupations",10,Intelligent Logistics,Intelligent Logistics,0.06129307315131135,9,0.06125475983453743
+25-0000,"Education, Training, and Library Occupations",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.011366548527534224,1,0.011366303785067724
+25-0000,"Education, Training, and Library Occupations",12,Parking & Vehicle Space Management,Parking Management,0.03511564846384692,7,0.03510843556323133
+25-0000,"Education, Training, and Library Occupations",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0,0,-0
+25-0000,"Education, Training, and Library Occupations",14,Passenger Transportation,Passenger Transportation,0.054100813054253724,7,0.05407445649383935
+25-0000,"Education, Training, and Library Occupations",15,Food Ordering & Vending Systems,Food Ordering,0.04467580900706922,9,0.04466096072376702
+25-0000,"Education, Training, and Library Occupations",16,Digital Advertising,Digital Advertising,0.10580546482214032,14,0.10560904096587226
+25-0000,"Education, Training, and Library Occupations",17,Electronic Trading and Auctions,E-Trading,0,0,-0
+25-0000,"Education, Training, and Library Occupations",18,Online Shopping Platforms,Online Shopping,0.13858417938238493,23,0.1381443717837655
+25-0000,"Education, Training, and Library Occupations",19,E-Coupons & Promotion Management,E-Coupons,0.009797916490553922,1,0.00979775973202126
+25-0000,"Education, Training, and Library Occupations",20,Electronic Payments & Financial Transactions,E-Payment,0,0,-0
+25-0000,"Education, Training, and Library Occupations",21,Mobile Payments,Mobile Payment,0.01083112463853421,1,0.010830912877287942
+25-0000,"Education, Training, and Library Occupations",22,Gaming & Wagering Systems,Gaming,0.025507973424328492,7,0.02550520807826268
+25-0000,"Education, Training, and Library Occupations",23,Digital Authentication,Digital Authentification,0.043034675694039896,8,0.043021403501808365
+25-0000,"Education, Training, and Library Occupations",24,E-Learning,E-Learning,46.20984271809741,4441,4.52645705809744
+25-0000,"Education, Training, and Library Occupations",25,Location-Based Services & Tracking,Location-Based Services,0.2903436863361402,29,0.2864117857681174
+25-0000,"Education, Training, and Library Occupations",26,Voice Communication,Voice Communication,0.07218367711391169,15,0.0721211383323475
+25-0000,"Education, Training, and Library Occupations",27,Electronic Messaging,Electronic Messaging,0.1508951422697321,18,0.15032830068521025
+25-0000,"Education, Training, and Library Occupations",28,Workflow Management,Workflow Management,0.2739432268848133,51,0.2706276766667908
+25-0000,"Education, Training, and Library Occupations",29,Cloud Storage & Data Security,Cloud Storage,0.898108027614971,115,0.8074599820041476
+25-0000,"Education, Training, and Library Occupations",30,Information Processing,Information Processing,0.5000561163731497,66,0.48126201650628175
+25-0000,"Education, Training, and Library Occupations",31,Cloud Computing,Cloud Computing,0.0716520849530296,20,0.07159091561323676
+25-0000,"Education, Training, and Library Occupations",32,Recommender Systems,Recommender Systems,1.0031911238640046,110,0.8836282531368671
+25-0000,"Education, Training, and Library Occupations",33,Social Networking & Media Platforms,Social Networking,0.2089590372872528,31,0.2074675017829552
+25-0000,"Education, Training, and Library Occupations",34,Digital Media Content,Digital Media Content,7.609449468125367,805,2.726827822316791
+25-0000,"Education, Training, and Library Occupations",35,Augmented and Virtual Reality (AR/VR),AR/VR,1.6686095920516983,208,1.284794861381026
+25-0000,"Education, Training, and Library Occupations",36,Machine Learning & Neural Networks,Machine Learning,0.1267939740072462,21,0.1264566702214504
+25-0000,"Education, Training, and Library Occupations",37,Medical Imaging & Image Processing,Medical Imaging,0.03189716086126561,4,0.03189175448744314
+25-0000,"Education, Training, and Library Occupations",38,Health Monitoring,Health Monitoring,1.262647469395786,121,1.0554695202717528
+25-0000,"Education, Training, and Library Occupations",39,Medical Information,Medical Information,0.039503204472518295,7,0.03949293753467529
+25-0000,"Education, Training, and Library Occupations",40,E-Healthcare,E-Healthcare,0.15766226114759668,19,0.1570162824988874
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",1,3D Printer Hardware,3D Printer Hardware,0.016859752005945174,5,0.016858953373867253
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",2,3D Printing,3D Printing,0.3557712709491867,68,0.34866389817899635
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",3,Additive Manufacturing,Additive Manufacturing,0.047138662816618916,6,0.047121222810976936
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",4,Smart Agriculture & Water Management,Smart Agriculture,0.1835437505659504,27,0.18252852070017714
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",5,Internet of Things (IoT),IoT,0.14920584344611101,27,0.1486577042256989
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",6,Predictive Energy Management and Distribution,Energy Management,0.027071070426911023,4,0.027067765043423033
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",7,Industrial Automation & Robot Control,Industrial Automation,0.8092491102849229,103,0.7398743159829362
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",8,Remote Monitoring & Control Systems,Remote Monitoring,0.769905334924378,93,0.7089954333523488
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",9,Smart Home & Intelligent Household Control,Smart Home,0.7022212561838612,98,0.6544853405591455
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",10,Intelligent Logistics,Intelligent Logistics,0.1477962381930454,15,0.14726338934737696
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,1.4825021381609007,168,1.1850177925562222
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",12,Parking & Vehicle Space Management,Parking Management,0.12446091428710729,18,0.12414180637342366
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,1.5830798816405875,172,1.2399814461601013
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",14,Passenger Transportation,Passenger Transportation,0.18534473990426534,26,0.18429963540359948
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",15,Food Ordering & Vending Systems,Food Ordering,0.07224700017933794,11,0.07218429692415002
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",16,Digital Advertising,Digital Advertising,22.541656090276735,2451,3.8090038008612024
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",17,Electronic Trading and Auctions,E-Trading,0.13106791304689644,27,0.130695519831845
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",18,Online Shopping Platforms,Online Shopping,0.7899815874227495,84,0.7248260610483308
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",19,E-Coupons & Promotion Management,E-Coupons,0.574495217145504,82,0.5468320689957332
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",20,Electronic Payments & Financial Transactions,E-Payment,0.13073504903388772,21,0.13036547153101258
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",21,Mobile Payments,Mobile Payment,1.5132675566149032,175,1.2021002719952745
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",22,Gaming & Wagering Systems,Gaming,1.7628186450800458,218,1.3322400907124705
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",23,Digital Authentication,Digital Authentification,0.31854008226499547,49,0.31338522481472164
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",24,E-Learning,E-Learning,2.7879000713237803,285,1.7491514374189607
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",25,Location-Based Services & Tracking,Location-Based Services,3.4410403792390643,370,1.9493956169058049
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",26,Voice Communication,Voice Communication,8.590720698525788,922,2.847200240074285
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",27,Electronic Messaging,Electronic Messaging,4.90631249477373,548,2.2938972186582913
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",28,Workflow Management,Workflow Management,0.34763815886069716,51,0.3409914919919877
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",29,Cloud Storage & Data Security,Cloud Storage,0.6619870538407966,99,0.621247239982231
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",30,Information Processing,Information Processing,0.9840363400324866,153,0.870040406180178
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",31,Cloud Computing,Cloud Computing,0.24335387750134596,46,0.24101377115762293
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",32,Recommender Systems,Recommender Systems,1.033842313333125,136,0.9051024093698975
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",33,Social Networking & Media Platforms,Social Networking,5.626820153525379,699,2.4284958674318036
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",34,Digital Media Content,Digital Media Content,27.468021256110063,2956,4.00650082929211
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",35,Augmented and Virtual Reality (AR/VR),AR/VR,8.309991692421532,916,2.8142065392784907
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",36,Machine Learning & Neural Networks,Machine Learning,1.4663467596087993,188,1.1759496109231058
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",37,Medical Imaging & Image Processing,Medical Imaging,1.3587893255801513,153,1.113793116140696
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",38,Health Monitoring,Health Monitoring,0.7714144057672518,87,0.7101907331044234
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",39,Medical Information,Medical Information,0.12280156971769562,15,0.12249499971559578
+27-0000,"Arts, Design, Entertainment, Sports, and Media Occupations",40,E-Healthcare,E-Healthcare,0.24182064273608847,33,0.23952375253764932
+29-0000,Healthcare Practitioners and Technical Occupations,1,3D Printer Hardware,3D Printer Hardware,0.01918449822454031,24,0.01918332162637931
+29-0000,Healthcare Practitioners and Technical Occupations,2,3D Printing,3D Printing,0.12289849880419557,43,0.12259120554522465
+29-0000,Healthcare Practitioners and Technical Occupations,3,Additive Manufacturing,Additive Manufacturing,0.590216501765363,121,0.5604175338913175
+29-0000,Healthcare Practitioners and Technical Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0,1,-0
+29-0000,Healthcare Practitioners and Technical Occupations,5,Internet of Things (IoT),IoT,0.3455467361527987,105,0.339015394944739
+29-0000,Healthcare Practitioners and Technical Occupations,6,Predictive Energy Management and Distribution,Energy Management,0,3,-0
+29-0000,Healthcare Practitioners and Technical Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.022262066838420476,21,0.022260228403087882
+29-0000,Healthcare Practitioners and Technical Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0.04787535473649865,24,0.047857084793051806
+29-0000,Healthcare Practitioners and Technical Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.07148016714426655,24,0.07141943637733057
+29-0000,Healthcare Practitioners and Technical Occupations,10,Intelligent Logistics,Intelligent Logistics,0.05985913298502016,13,0.059823443466767934
+29-0000,Healthcare Practitioners and Technical Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.06037460619598056,16,0.060337987719420644
+29-0000,Healthcare Practitioners and Technical Occupations,12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+29-0000,Healthcare Practitioners and Technical Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.18624113188302496,42,0.18518094542836863
+29-0000,Healthcare Practitioners and Technical Occupations,14,Passenger Transportation,Passenger Transportation,0.004870195261499667,1,0.004870176009172398
+29-0000,Healthcare Practitioners and Technical Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.36025236861876775,77,0.3528827711588238
+29-0000,Healthcare Practitioners and Technical Occupations,16,Digital Advertising,Digital Advertising,0.008598360471012437,3,0.008598254525822012
+29-0000,Healthcare Practitioners and Technical Occupations,17,Electronic Trading and Auctions,E-Trading,0,0,-0
+29-0000,Healthcare Practitioners and Technical Occupations,18,Online Shopping Platforms,Online Shopping,0.128771891313888,28,0.1284186341426096
+29-0000,Healthcare Practitioners and Technical Occupations,19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+29-0000,Healthcare Practitioners and Technical Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.0183433786034399,6,0.018342350063907976
+29-0000,Healthcare Practitioners and Technical Occupations,21,Mobile Payments,Mobile Payment,0.012819868561278168,7,0.012819517431752414
+29-0000,Healthcare Practitioners and Technical Occupations,22,Gaming & Wagering Systems,Gaming,0.044780547711622695,11,0.044765594814568634
+29-0000,Healthcare Practitioners and Technical Occupations,23,Digital Authentication,Digital Authentification,0.17958042965401885,38,0.1786289551030631
+29-0000,Healthcare Practitioners and Technical Occupations,24,E-Learning,E-Learning,0.30107510576626056,66,0.29670265963491776
+29-0000,Healthcare Practitioners and Technical Occupations,25,Location-Based Services & Tracking,Location-Based Services,0.10025874149981878,20,0.10009153301365017
+29-0000,Healthcare Practitioners and Technical Occupations,26,Voice Communication,Voice Communication,0.2860246986736443,76,0.28226169644400295
+29-0000,Healthcare Practitioners and Technical Occupations,27,Electronic Messaging,Electronic Messaging,0.12140109113626013,26,0.12110484562287518
+29-0000,Healthcare Practitioners and Technical Occupations,28,Workflow Management,Workflow Management,0.20818463806683027,77,0.20670941624595895
+29-0000,Healthcare Practitioners and Technical Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.2767646834884526,66,0.2733478933674289
+29-0000,Healthcare Practitioners and Technical Occupations,30,Information Processing,Information Processing,0.5415487572263218,137,0.5180621422934634
+29-0000,Healthcare Practitioners and Technical Occupations,31,Cloud Computing,Cloud Computing,0.046564180350423756,16,0.04654736982700203
+29-0000,Healthcare Practitioners and Technical Occupations,32,Recommender Systems,Recommender Systems,0.2608134561654253,56,0.25794355164955457
+29-0000,Healthcare Practitioners and Technical Occupations,33,Social Networking & Media Platforms,Social Networking,0.051886314947405116,13,0.051863061806981574
+29-0000,Healthcare Practitioners and Technical Occupations,34,Digital Media Content,Digital Media Content,0.012528136757453777,10,0.012527809056629357
+29-0000,Healthcare Practitioners and Technical Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.8399384727219712,455,1.3696737080246368
+29-0000,Healthcare Practitioners and Technical Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.6534597138997541,197,0.6141227954591676
+29-0000,Healthcare Practitioners and Technical Occupations,37,Medical Imaging & Image Processing,Medical Imaging,40.74240049165567,7896,4.400567085403474
+29-0000,Healthcare Practitioners and Technical Occupations,38,Health Monitoring,Health Monitoring,17.098589756956663,3474,3.532997180543396
+29-0000,Healthcare Practitioners and Technical Occupations,39,Medical Information,Medical Information,28.39462067865162,4951,4.039656826736589
+29-0000,Healthcare Practitioners and Technical Occupations,40,E-Healthcare,E-Healthcare,26.209459708634093,4748,3.959631320270411
+31-0000,Healthcare Support Occupations,1,3D Printer Hardware,3D Printer Hardware,0.07758532405166729,13,0.07750769689210696
+31-0000,Healthcare Support Occupations,2,3D Printing,3D Printing,0.02697776441656694,4,0.026974493086044164
+31-0000,Healthcare Support Occupations,3,Additive Manufacturing,Additive Manufacturing,0.7473306957752228,29,0.6910103690166319
+31-0000,Healthcare Support Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0.026754414843987783,4,0.02675122407570256
+31-0000,Healthcare Support Occupations,5,Internet of Things (IoT),IoT,0.6655942855566558,38,0.6242526214277752
+31-0000,Healthcare Support Occupations,6,Predictive Energy Management and Distribution,Energy Management,0.02200009412171824,1,0.021998319818693365
+31-0000,Healthcare Support Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.027049688286921402,6,0.02704639072782402
+31-0000,Healthcare Support Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0.15502686278848093,9,0.15441251545492615
+31-0000,Healthcare Support Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.1835038008082207,10,0.18248922718447658
+31-0000,Healthcare Support Occupations,10,Intelligent Logistics,Intelligent Logistics,0.2889636296450479,13,0.28508621644026655
+31-0000,Healthcare Support Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.038916032626055974,2,0.03890621653411179
+31-0000,Healthcare Support Occupations,12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+31-0000,Healthcare Support Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0,1,-0
+31-0000,Healthcare Support Occupations,14,Passenger Transportation,Passenger Transportation,0,1,-0
+31-0000,Healthcare Support Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.10872685036698965,8,0.10851376240924662
+31-0000,Healthcare Support Occupations,16,Digital Advertising,Digital Advertising,0,0,-0
+31-0000,Healthcare Support Occupations,17,Electronic Trading and Auctions,E-Trading,0,0,-0
+31-0000,Healthcare Support Occupations,18,Online Shopping Platforms,Online Shopping,0.548264828459434,23,0.5239595062540869
+31-0000,Healthcare Support Occupations,19,E-Coupons & Promotion Management,E-Coupons,0.018490147208743025,1,0.01848909378513038
+31-0000,Healthcare Support Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.02135474939509621,2,0.021353126676997184
+31-0000,Healthcare Support Occupations,21,Mobile Payments,Mobile Payment,0,1,-0
+31-0000,Healthcare Support Occupations,22,Gaming & Wagering Systems,Gaming,0,0,-0
+31-0000,Healthcare Support Occupations,23,Digital Authentication,Digital Authentification,0.15415841982841874,10,0.15355426755070675
+31-0000,Healthcare Support Occupations,24,E-Learning,E-Learning,0.9222959303075199,43,0.8253477705827811
+31-0000,Healthcare Support Occupations,25,Location-Based Services & Tracking,Location-Based Services,0.21986545191575832,11,0.21813149994317088
+31-0000,Healthcare Support Occupations,26,Voice Communication,Voice Communication,0.35246140472900794,20,0.34554387959846716
+31-0000,Healthcare Support Occupations,27,Electronic Messaging,Electronic Messaging,0.04607464107782643,4,0.046058354865996985
+31-0000,Healthcare Support Occupations,28,Workflow Management,Workflow Management,0.14782173500204446,13,0.1472886121178571
+31-0000,Healthcare Support Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.03543784951512327,3,0.03543043631865345
+31-0000,Healthcare Support Occupations,30,Information Processing,Information Processing,0.4061905636008806,24,0.3957769604998969
+31-0000,Healthcare Support Occupations,31,Cloud Computing,Cloud Computing,0.12941036605951445,6,0.12905185452130444
+31-0000,Healthcare Support Occupations,32,Recommender Systems,Recommender Systems,0.068401690205013,4,0.06834846265933171
+31-0000,Healthcare Support Occupations,33,Social Networking & Media Platforms,Social Networking,0,0,-0
+31-0000,Healthcare Support Occupations,34,Digital Media Content,Digital Media Content,0,0,-0
+31-0000,Healthcare Support Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.2927087334188748,16,0.2886823162988149
+31-0000,Healthcare Support Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.515803332524027,39,0.49530189574316275
+31-0000,Healthcare Support Occupations,37,Medical Imaging & Image Processing,Medical Imaging,1.9018130102228652,78,1.3988424528101147
+31-0000,Healthcare Support Occupations,38,Health Monitoring,Health Monitoring,8.312965111425616,403,2.8145617262152345
+31-0000,Healthcare Support Occupations,39,Medical Information,Medical Information,41.19709258960674,1593,4.4116621350757015
+31-0000,Healthcare Support Occupations,40,E-Healthcare,E-Healthcare,19.321385136045052,812,3.6550287035771594
+33-0000,Protective Service Occupations,1,3D Printer Hardware,3D Printer Hardware,0,0,-0
+33-0000,Protective Service Occupations,2,3D Printing,3D Printing,0,0,-0
+33-0000,Protective Service Occupations,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+33-0000,Protective Service Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0.23019375852264218,20,0.22820779627869853
+33-0000,Protective Service Occupations,5,Internet of Things (IoT),IoT,2.3554034444341103,198,1.592148280718481
+33-0000,Protective Service Occupations,6,Predictive Energy Management and Distribution,Energy Management,0.1295108326813882,9,0.12915148966769632
+33-0000,Protective Service Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.22832352757466812,18,0.22638485845867104
+33-0000,Protective Service Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,15.780963416298551,1024,3.4529538984873795
+33-0000,Protective Service Occupations,9,Smart Home & Intelligent Household Control,Smart Home,1.800974331264657,141,1.3509138195286925
+33-0000,Protective Service Occupations,10,Intelligent Logistics,Intelligent Logistics,0.8081187341276903,55,0.7389953760053832
+33-0000,Protective Service Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,1.7791184727711793,140,1.340254599772304
+33-0000,Protective Service Occupations,12,Parking & Vehicle Space Management,Parking Management,59.739153642312225,3737,4.783204870750354
+33-0000,Protective Service Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,6.657582271390961,483,2.594496807105606
+33-0000,Protective Service Occupations,14,Passenger Transportation,Passenger Transportation,5.554346857295195,389,2.4157347812273966
+33-0000,Protective Service Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.10220673022276455,9,0.10202961595261821
+33-0000,Protective Service Occupations,16,Digital Advertising,Digital Advertising,0.04889259440064409,5,0.048873135816676884
+33-0000,Protective Service Occupations,17,Electronic Trading and Auctions,E-Trading,0.013453929789353315,1,0.013453523943747681
+33-0000,Protective Service Occupations,18,Online Shopping Platforms,Online Shopping,0.40438508933757794,31,0.3941036882218237
+33-0000,Protective Service Occupations,19,E-Coupons & Promotion Management,E-Coupons,0.32263198484925415,28,0.31728178646798033
+33-0000,Protective Service Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.6597563063192574,56,0.61938618329197
+33-0000,Protective Service Occupations,21,Mobile Payments,Mobile Payment,0.4008266448103045,52,0.3908027307737618
+33-0000,Protective Service Occupations,22,Gaming & Wagering Systems,Gaming,3.7850253542447856,260,2.041210218599074
+33-0000,Protective Service Occupations,23,Digital Authentication,Digital Authentification,17.64295181992668,1342,3.5642857395840513
+33-0000,Protective Service Occupations,24,E-Learning,E-Learning,0.08015054025990807,12,0.08006497142719396
+33-0000,Protective Service Occupations,25,Location-Based Services & Tracking,Location-Based Services,0.8501767039321103,81,0.7713720651633308
+33-0000,Protective Service Occupations,26,Voice Communication,Voice Communication,0.20573691855567436,27,0.20431249246176147
+33-0000,Protective Service Occupations,27,Electronic Messaging,Electronic Messaging,0.12239381805153299,11,0.122090278229851
+33-0000,Protective Service Occupations,28,Workflow Management,Workflow Management,0.5263238589824321,54,0.5046318063539458
+33-0000,Protective Service Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.39459584963207356,39,0.385013029355464
+33-0000,Protective Service Occupations,30,Information Processing,Information Processing,1.4923182696054114,125,1.1904945924215584
+33-0000,Protective Service Occupations,31,Cloud Computing,Cloud Computing,0.14731525391584652,24,0.1467875572554788
+33-0000,Protective Service Occupations,32,Recommender Systems,Recommender Systems,0.050658372513103664,5,0.0506367303137878
+33-0000,Protective Service Occupations,33,Social Networking & Media Platforms,Social Networking,2.27041466930849,203,1.5584178722995947
+33-0000,Protective Service Occupations,34,Digital Media Content,Digital Media Content,0.04798720338209696,8,0.04796880517858995
+33-0000,Protective Service Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.19653109712837025,18,0.19528744246158725
+33-0000,Protective Service Occupations,36,Machine Learning & Neural Networks,Machine Learning,1.338833823712243,136,1.101908231628084
+33-0000,Protective Service Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.15291030531818958,23,0.15232060881564424
+33-0000,Protective Service Occupations,38,Health Monitoring,Health Monitoring,0.31165382066248204,31,0.30681730893266856
+33-0000,Protective Service Occupations,39,Medical Information,Medical Information,0.10751223046519141,13,0.10730618028891176
+33-0000,Protective Service Occupations,40,E-Healthcare,E-Healthcare,0.06133480362299701,4,0.06129641208594946
+35-0000,Food Preparation and Serving Related Occupations,1,3D Printer Hardware,3D Printer Hardware,0,1,-0
+35-0000,Food Preparation and Serving Related Occupations,2,3D Printing,3D Printing,0.021909717065794147,2,0.02190796453660719
+35-0000,Food Preparation and Serving Related Occupations,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,5,Internet of Things (IoT),IoT,0.3096303905087671,25,0.3048849662652929
+35-0000,Food Preparation and Serving Related Occupations,6,Predictive Energy Management and Distribution,Energy Management,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.02317641131425377,2,0.02317433696268613
+35-0000,Food Preparation and Serving Related Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0.17733099609162145,10,0.17641450675519832
+35-0000,Food Preparation and Serving Related Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.9531664190609623,51,0.8478665350590116
+35-0000,Food Preparation and Serving Related Occupations,10,Intelligent Logistics,Intelligent Logistics,0.6608947022981639,24,0.6203361570962869
+35-0000,Food Preparation and Serving Related Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,14,Passenger Transportation,Passenger Transportation,1.7068649916913115,72,1.3042959031709214
+35-0000,Food Preparation and Serving Related Occupations,15,Food Ordering & Vending Systems,Food Ordering,63.51760116691314,2280,4.844526191789786
+35-0000,Food Preparation and Serving Related Occupations,16,Digital Advertising,Digital Advertising,0.05468947913261077,6,0.05466225360966052
+35-0000,Food Preparation and Serving Related Occupations,17,Electronic Trading and Auctions,E-Trading,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,18,Online Shopping Platforms,Online Shopping,0.12594151449325192,7,0.1256109366646123
+35-0000,Food Preparation and Serving Related Occupations,19,E-Coupons & Promotion Management,E-Coupons,0.12688923705442356,24,0.12655117605965674
+35-0000,Food Preparation and Serving Related Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.2655832102222248,13,0.2625562101417401
+35-0000,Food Preparation and Serving Related Occupations,21,Mobile Payments,Mobile Payment,0.3461958552387862,21,0.3396288569950581
+35-0000,Food Preparation and Serving Related Occupations,22,Gaming & Wagering Systems,Gaming,0.3871982155909351,21,0.3781230923778808
+35-0000,Food Preparation and Serving Related Occupations,23,Digital Authentication,Digital Authentification,0,1,-0
+35-0000,Food Preparation and Serving Related Occupations,24,E-Learning,E-Learning,0.02627442417527796,1,0.0262714020428645
+35-0000,Food Preparation and Serving Related Occupations,25,Location-Based Services & Tracking,Location-Based Services,1.0246620981494021,48,0.8987052507978159
+35-0000,Food Preparation and Serving Related Occupations,26,Voice Communication,Voice Communication,0.702186237190951,29,0.6544566815847727
+35-0000,Food Preparation and Serving Related Occupations,27,Electronic Messaging,Electronic Messaging,0.3791567042822087,21,0.37061398215489155
+35-0000,Food Preparation and Serving Related Occupations,28,Workflow Management,Workflow Management,0.7614355407192118,37,0.7022705158238407
+35-0000,Food Preparation and Serving Related Occupations,29,Cloud Storage & Data Security,Cloud Storage,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,30,Information Processing,Information Processing,0.8397526096960892,53,0.7634097822212818
+35-0000,Food Preparation and Serving Related Occupations,31,Cloud Computing,Cloud Computing,0.019313439347368143,2,0.019312238867941263
+35-0000,Food Preparation and Serving Related Occupations,32,Recommender Systems,Recommender Systems,0.5603423416458665,32,0.5345227473016307
+35-0000,Food Preparation and Serving Related Occupations,33,Social Networking & Media Platforms,Social Networking,0.5125074654614831,24,0.49237076642010064
+35-0000,Food Preparation and Serving Related Occupations,34,Digital Media Content,Digital Media Content,0.01851494247521224,4,0.018513884808430994
+35-0000,Food Preparation and Serving Related Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0,2,-0
+35-0000,Food Preparation and Serving Related Occupations,36,Machine Learning & Neural Networks,Machine Learning,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,38,Health Monitoring,Health Monitoring,0,0,-0
+35-0000,Food Preparation and Serving Related Occupations,39,Medical Information,Medical Information,0.1527774722838886,6,0.1521893006881945
+35-0000,Food Preparation and Serving Related Occupations,40,E-Healthcare,E-Healthcare,0.1054563068305662,5,0.10526181475718087
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,1,3D Printer Hardware,3D Printer Hardware,0.18946793374623638,7,0.18835227419928033
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,2,3D Printing,3D Printing,0.13350117098573602,8,0.13310776258794008
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,2.3733805223994975,42,1.599150992483743
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,5,Internet of Things (IoT),IoT,0.31626752626883503,10,0.3112191615535407
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,6,Predictive Energy Management and Distribution,Energy Management,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.06295395435920091,1,0.06291244515665571
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0.06281953473427969,1,0.0627782905435637
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.1165055767680407,2,0.11624360806425524
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,10,Intelligent Logistics,Intelligent Logistics,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.06344838225426157,3,0.06340588852686066
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0,1,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,14,Passenger Transportation,Passenger Transportation,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,15,Food Ordering & Vending Systems,Food Ordering,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,16,Digital Advertising,Digital Advertising,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,17,Electronic Trading and Auctions,E-Trading,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,18,Online Shopping Platforms,Online Shopping,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,21,Mobile Payments,Mobile Payment,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,22,Gaming & Wagering Systems,Gaming,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,23,Digital Authentication,Digital Authentification,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,24,E-Learning,E-Learning,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,25,Location-Based Services & Tracking,Location-Based Services,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,26,Voice Communication,Voice Communication,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,27,Electronic Messaging,Electronic Messaging,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,28,Workflow Management,Workflow Management,0.05181203998026202,2,0.051788886477085176
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,29,Cloud Storage & Data Security,Cloud Storage,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,30,Information Processing,Information Processing,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,31,Cloud Computing,Cloud Computing,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,32,Recommender Systems,Recommender Systems,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,33,Social Networking & Media Platforms,Social Networking,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,34,Digital Media Content,Digital Media Content,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,36,Machine Learning & Neural Networks,Machine Learning,0,1,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.08316071122555442,1,0.08306515582695333
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,38,Health Monitoring,Health Monitoring,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,39,Medical Information,Medical Information,0,0,-0
+37-0000,Building and Grounds Cleaning and Maintenance Occupations,40,E-Healthcare,E-Healthcare,0,0,-0
+39-0000,Personal Care and Service Occupations,1,3D Printer Hardware,3D Printer Hardware,0.013128152274930903,2,0.013127775201540558
+39-0000,Personal Care and Service Occupations,2,3D Printing,3D Printing,0.3178509341930846,18,0.3127285204569242
+39-0000,Personal Care and Service Occupations,3,Additive Manufacturing,Additive Manufacturing,0.03963064077008328,2,0.039620274195730436
+39-0000,Personal Care and Service Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0.44570834847357516,27,0.4321328817952044
+39-0000,Personal Care and Service Occupations,5,Internet of Things (IoT),IoT,0.4813579418337971,43,0.46447601167954294
+39-0000,Personal Care and Service Occupations,6,Predictive Energy Management and Distribution,Energy Management,0.01686324418021667,4,0.01686244505181434
+39-0000,Personal Care and Service Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.07596102185291918,6,0.07588816072576027
+39-0000,Personal Care and Service Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0.1761939056908799,16,0.1752947748519084
+39-0000,Personal Care and Service Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.13665566024032674,12,0.13623385988292833
+39-0000,Personal Care and Service Occupations,10,Intelligent Logistics,Intelligent Logistics,1.580135103475211,80,1.238407729036831
+39-0000,Personal Care and Service Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.22634396265403584,26,0.22445454537735413
+39-0000,Personal Care and Service Occupations,12,Parking & Vehicle Space Management,Parking Management,0.8910812041527927,62,0.8022229307460257
+39-0000,Personal Care and Service Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.07906277270064244,8,0.07898063433519313
+39-0000,Personal Care and Service Occupations,14,Passenger Transportation,Passenger Transportation,21.83362506589902,1164,3.777122415126705
+39-0000,Personal Care and Service Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.5526042073881964,41,0.5277610406895128
+39-0000,Personal Care and Service Occupations,16,Digital Advertising,Digital Advertising,1.3229767637437166,93,1.092382864865403
+39-0000,Personal Care and Service Occupations,17,Electronic Trading and Auctions,E-Trading,0.6544044283763939,57,0.6149134616515546
+39-0000,Personal Care and Service Occupations,18,Online Shopping Platforms,Online Shopping,0.5456479836448931,45,0.5216636409763561
+39-0000,Personal Care and Service Occupations,19,E-Coupons & Promotion Management,E-Coupons,0.5204849522997053,45,0.49945865957647995
+39-0000,Personal Care and Service Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.3372844073674115,30,0.3311962405759385
+39-0000,Personal Care and Service Occupations,21,Mobile Payments,Mobile Payment,0.18969982136684288,14,0.188580103634322
+39-0000,Personal Care and Service Occupations,22,Gaming & Wagering Systems,Gaming,50.528177351505335,2965,4.615776234514237
+39-0000,Personal Care and Service Occupations,23,Digital Authentication,Digital Authentification,0.30962243354781466,32,0.30487736531308135
+39-0000,Personal Care and Service Occupations,24,E-Learning,E-Learning,0.5434281010821893,34,0.5197140653500539
+39-0000,Personal Care and Service Occupations,25,Location-Based Services & Tracking,Location-Based Services,8.030069695500453,443,2.780195082701291
+39-0000,Personal Care and Service Occupations,26,Voice Communication,Voice Communication,0.32617922185082937,31,0.3206559176162307
+39-0000,Personal Care and Service Occupations,27,Electronic Messaging,Electronic Messaging,0.04155767916326487,4,0.0415457264829802
+39-0000,Personal Care and Service Occupations,28,Workflow Management,Workflow Management,0.42911195552851683,42,0.416927548939099
+39-0000,Personal Care and Service Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.01280720907551342,2,0.012806858985119877
+39-0000,Personal Care and Service Occupations,30,Information Processing,Information Processing,0.8889240687574685,60,0.8006115590469004
+39-0000,Personal Care and Service Occupations,31,Cloud Computing,Cloud Computing,0.16654538443877212,21,0.1657849170404744
+39-0000,Personal Care and Service Occupations,32,Recommender Systems,Recommender Systems,2.7304423380804366,154,1.7295728176242389
+39-0000,Personal Care and Service Occupations,33,Social Networking & Media Platforms,Social Networking,1.398010711853563,100,1.1368252518440414
+39-0000,Personal Care and Service Occupations,34,Digital Media Content,Digital Media Content,3.829946852805822,252,2.0526215250976696
+39-0000,Personal Care and Service Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,13.282392543277776,772,3.2810005243635323
+39-0000,Personal Care and Service Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.6292176194844338,50,0.5937168290031896
+39-0000,Personal Care and Service Occupations,37,Medical Imaging & Image Processing,Medical Imaging,1.0004892283319256,54,0.8817194813835415
+39-0000,Personal Care and Service Occupations,38,Health Monitoring,Health Monitoring,2.8249878416518395,153,1.7616001263568382
+39-0000,Personal Care and Service Occupations,39,Medical Information,Medical Information,0.04871616763924802,4,0.04869691879349933
+39-0000,Personal Care and Service Occupations,40,E-Healthcare,E-Healthcare,0.2765223995084572,18,0.2731143802416366
+41-0000,Sales and Related Occupations,1,3D Printer Hardware,3D Printer Hardware,0,1,-0
+41-0000,Sales and Related Occupations,2,3D Printing,3D Printing,0.09111833719780806,8,0.09099272017870008
+41-0000,Sales and Related Occupations,3,Additive Manufacturing,Additive Manufacturing,0.015058097254977842,1,0.015057528251746099
+41-0000,Sales and Related Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0.36508229181749374,27,0.35742331013145234
+41-0000,Sales and Related Occupations,5,Internet of Things (IoT),IoT,0.6220873568544537,55,0.5876721531074467
+41-0000,Sales and Related Occupations,6,Predictive Energy Management and Distribution,Energy Management,29.975096289046625,1906,4.093792217258572
+41-0000,Sales and Related Occupations,7,Industrial Automation & Robot Control,Industrial Automation,0.015143371654300875,2,0.01514279293005218
+41-0000,Sales and Related Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,0.2763280655509236,26,0.2729270708086456
+41-0000,Sales and Related Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.5745953602349944,49,0.5469189007280026
+41-0000,Sales and Related Occupations,10,Intelligent Logistics,Intelligent Logistics,1.853765338790488,114,1.3762573022857776
+41-0000,Sales and Related Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.07977676561903173,9,0.07969238608029511
+41-0000,Sales and Related Occupations,12,Parking & Vehicle Space Management,Parking Management,3.7849755806928065,268,2.041197504634831
+41-0000,Sales and Related Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,4.664094205289405,285,2.2443398897654134
+41-0000,Sales and Related Occupations,14,Passenger Transportation,Passenger Transportation,25.69308325303001,1479,3.9397474978495017
+41-0000,Sales and Related Occupations,15,Food Ordering & Vending Systems,Food Ordering,5.169310198645434,316,2.34511347627542
+41-0000,Sales and Related Occupations,16,Digital Advertising,Digital Advertising,131.02289773317193,7161,5.568533842849202
+41-0000,Sales and Related Occupations,17,Electronic Trading and Auctions,E-Trading,47.10931117806466,2692,4.545730481351988
+41-0000,Sales and Related Occupations,18,Online Shopping Platforms,Online Shopping,26.60785416871927,1570,3.9747065537380135
+41-0000,Sales and Related Occupations,19,E-Coupons & Promotion Management,E-Coupons,9.488569049240414,684,2.9460002633430693
+41-0000,Sales and Related Occupations,20,Electronic Payments & Financial Transactions,E-Payment,23.135458238202627,1484,3.8349803549296357
+41-0000,Sales and Related Occupations,21,Mobile Payments,Mobile Payment,10.82264560075749,768,3.0769155199855227
+41-0000,Sales and Related Occupations,22,Gaming & Wagering Systems,Gaming,18.191033343613753,1135,3.5948306091079587
+41-0000,Sales and Related Occupations,23,Digital Authentication,Digital Authentification,1.8213210681379648,147,1.3607485433965678
+41-0000,Sales and Related Occupations,24,E-Learning,E-Learning,0.013840823748877025,4,0.013840381876219844
+41-0000,Sales and Related Occupations,25,Location-Based Services & Tracking,Location-Based Services,6.395709246823182,398,2.554830943239553
+41-0000,Sales and Related Occupations,26,Voice Communication,Voice Communication,2.7851444695617364,198,1.7482206558084368
+41-0000,Sales and Related Occupations,27,Electronic Messaging,Electronic Messaging,1.2986945937686423,95,1.0776548875947103
+41-0000,Sales and Related Occupations,28,Workflow Management,Workflow Management,15.782738377673923,894,3.453066141902897
+41-0000,Sales and Related Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.1099001650721518,13,0.10968012902916033
+41-0000,Sales and Related Occupations,30,Information Processing,Information Processing,4.087853322166976,274,2.1158027775198285
+41-0000,Sales and Related Occupations,31,Cloud Computing,Cloud Computing,0.8791078421220745,76,0.7932570464287566
+41-0000,Sales and Related Occupations,32,Recommender Systems,Recommender Systems,9.297299650797521,612,2.925750898224747
+41-0000,Sales and Related Occupations,33,Social Networking & Media Platforms,Social Networking,4.113152914576069,294,2.1217969944729718
+41-0000,Sales and Related Occupations,34,Digital Media Content,Digital Media Content,2.2673843416480777,162,1.5571957179489777
+41-0000,Sales and Related Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.7835830726514967,125,1.3424400831333105
+41-0000,Sales and Related Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.2327458157301354,22,0.23069411562806744
+41-0000,Sales and Related Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0,1,-0
+41-0000,Sales and Related Occupations,38,Health Monitoring,Health Monitoring,0,1,-0
+41-0000,Sales and Related Occupations,39,Medical Information,Medical Information,0.3051092357189588,16,0.300563352359576
+41-0000,Sales and Related Occupations,40,E-Healthcare,E-Healthcare,0.1257520513041036,10,0.12542295619038155
+43-0000,Office and Administrative Support Occupations,1,3D Printer Hardware,3D Printer Hardware,0.7732436886244802,157,0.7116384961079851
+43-0000,Office and Administrative Support Occupations,2,3D Printing,3D Printing,1.3694653407373123,257,1.1201050556220533
+43-0000,Office and Administrative Support Occupations,3,Additive Manufacturing,Additive Manufacturing,0.07291134574712965,11,0.07284689956426409
+43-0000,Office and Administrative Support Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,0.5454385170525086,84,0.5214797580397253
+43-0000,Office and Administrative Support Occupations,5,Internet of Things (IoT),IoT,1.9345128351038843,372,1.4139591992075902
+43-0000,Office and Administrative Support Occupations,6,Predictive Energy Management and Distribution,Energy Management,10.985831696616172,1612,3.0918186371086698
+43-0000,Office and Administrative Support Occupations,7,Industrial Automation & Robot Control,Industrial Automation,1.57583072080153,266,1.2361036551619282
+43-0000,Office and Administrative Support Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,2.864113077685988,458,1.7745762527771627
+43-0000,Office and Administrative Support Occupations,9,Smart Home & Intelligent Household Control,Smart Home,4.560692133394338,793,2.2224297740198007
+43-0000,Office and Administrative Support Occupations,10,Intelligent Logistics,Intelligent Logistics,50.47483332872594,6273,4.614720155641238
+43-0000,Office and Administrative Support Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.23687837067872272,43,0.23471724521347875
+43-0000,Office and Administrative Support Occupations,12,Parking & Vehicle Space Management,Parking Management,5.799944410316372,972,2.4583457803547173
+43-0000,Office and Administrative Support Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,4.950845209149296,753,2.302752447415191
+43-0000,Office and Administrative Support Occupations,14,Passenger Transportation,Passenger Transportation,23.60698890997619,3263,3.855138286974628
+43-0000,Office and Administrative Support Occupations,15,Food Ordering & Vending Systems,Food Ordering,8.171533458514137,1139,2.797526887356948
+43-0000,Office and Administrative Support Occupations,16,Digital Advertising,Digital Advertising,7.93905370343233,1303,2.7688843294895427
+43-0000,Office and Administrative Support Occupations,17,Electronic Trading and Auctions,E-Trading,4.828190303017737,798,2.2781747376374
+43-0000,Office and Administrative Support Occupations,18,Online Shopping Platforms,Online Shopping,15.89413431091483,2251,3.4600854596328277
+43-0000,Office and Administrative Support Occupations,19,E-Coupons & Promotion Management,E-Coupons,5.216347690803174,993,2.3540082681019503
+43-0000,Office and Administrative Support Occupations,20,Electronic Payments & Financial Transactions,E-Payment,86.2594487758127,12751,5.150540378825035
+43-0000,Office and Administrative Support Occupations,21,Mobile Payments,Mobile Payment,33.25358543570344,5513,4.19753577834346
+43-0000,Office and Administrative Support Occupations,22,Gaming & Wagering Systems,Gaming,8.767259446081825,1433,2.8674081546132784
+43-0000,Office and Administrative Support Occupations,23,Digital Authentication,Digital Authentification,19.503353452264264,3273,3.664390192385059
+43-0000,Office and Administrative Support Occupations,24,E-Learning,E-Learning,1.0858761489551958,197,0.9408127129138262
+43-0000,Office and Administrative Support Occupations,25,Location-Based Services & Tracking,Location-Based Services,8.188622628868101,1240,2.7996005710357452
+43-0000,Office and Administrative Support Occupations,26,Voice Communication,Voice Communication,38.5981597548114,5567,4.346519544665162
+43-0000,Office and Administrative Support Occupations,27,Electronic Messaging,Electronic Messaging,36.35761122571335,5483,4.286739821385995
+43-0000,Office and Administrative Support Occupations,28,Workflow Management,Workflow Management,10.67282808900598,1514,3.0630358004463236
+43-0000,Office and Administrative Support Occupations,29,Cloud Storage & Data Security,Cloud Storage,5.193021310193605,938,2.349606958833395
+43-0000,Office and Administrative Support Occupations,30,Information Processing,Information Processing,14.313061651707534,2175,3.3555377987596664
+43-0000,Office and Administrative Support Occupations,31,Cloud Computing,Cloud Computing,2.436118684027684,470,1.623241335253266
+43-0000,Office and Administrative Support Occupations,32,Recommender Systems,Recommender Systems,1.4971208632507949,261,1.1931650977249448
+43-0000,Office and Administrative Support Occupations,33,Social Networking & Media Platforms,Social Networking,6.294352364436509,1121,2.539051183379525
+43-0000,Office and Administrative Support Occupations,34,Digital Media Content,Digital Media Content,6.308741102255762,1048,2.5413063313290607
+43-0000,Office and Administrative Support Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.4366630349905662,261,1.1591088229343438
+43-0000,Office and Administrative Support Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.9820305886939047,196,0.8686100435083494
+43-0000,Office and Administrative Support Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.19112007803347367,46,0.1899752934152408
+43-0000,Office and Administrative Support Occupations,38,Health Monitoring,Health Monitoring,0.8796227817488292,163,0.7936437402620543
+43-0000,Office and Administrative Support Occupations,39,Medical Information,Medical Information,5.954497533129707,822,2.484271559874551
+43-0000,Office and Administrative Support Occupations,40,E-Healthcare,E-Healthcare,5.4518621118274515,794,2.397411276137247
+45-0000,"Farming, Fishing, and Forestry Occupations",1,3D Printer Hardware,3D Printer Hardware,0,2,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",2,3D Printing,3D Printing,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",3,Additive Manufacturing,Additive Manufacturing,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",4,Smart Agriculture & Water Management,Smart Agriculture,33.40439798767059,1292,4.2020587165821635
+45-0000,"Farming, Fishing, and Forestry Occupations",5,Internet of Things (IoT),IoT,14.86586992553538,690,3.3933444942222057
+45-0000,"Farming, Fishing, and Forestry Occupations",6,Predictive Energy Management and Distribution,Energy Management,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",7,Industrial Automation & Robot Control,Industrial Automation,2.519832727896194,105,1.6545717552922972
+45-0000,"Farming, Fishing, and Forestry Occupations",8,Remote Monitoring & Control Systems,Remote Monitoring,2.478113042573166,103,1.6390717175538039
+45-0000,"Farming, Fishing, and Forestry Occupations",9,Smart Home & Intelligent Household Control,Smart Home,0.06208782061752614,5,0.06204799929336976
+45-0000,"Farming, Fishing, and Forestry Occupations",10,Intelligent Logistics,Intelligent Logistics,0.16961997134600593,9,0.16881697071049118
+45-0000,"Farming, Fishing, and Forestry Occupations",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,1.0861384974007102,44,0.9409904216736359
+45-0000,"Farming, Fishing, and Forestry Occupations",12,Parking & Vehicle Space Management,Parking Management,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.20484331743689294,8,0.20343714632649304
+45-0000,"Farming, Fishing, and Forestry Occupations",14,Passenger Transportation,Passenger Transportation,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",15,Food Ordering & Vending Systems,Food Ordering,0.38896704599604126,18,0.3797720991763664
+45-0000,"Farming, Fishing, and Forestry Occupations",16,Digital Advertising,Digital Advertising,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",17,Electronic Trading and Auctions,E-Trading,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",18,Online Shopping Platforms,Online Shopping,0.16777726757275138,10,0.1669999414061274
+45-0000,"Farming, Fishing, and Forestry Occupations",19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",20,Electronic Payments & Financial Transactions,E-Payment,0.02449539066762384,1,0.024492941691098825
+45-0000,"Farming, Fishing, and Forestry Occupations",21,Mobile Payments,Mobile Payment,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",22,Gaming & Wagering Systems,Gaming,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",23,Digital Authentication,Digital Authentification,0.02089287535602651,1,0.020891355655217336
+45-0000,"Farming, Fishing, and Forestry Occupations",24,E-Learning,E-Learning,0.0425344189930164,2,0.04252160404263999
+45-0000,"Farming, Fishing, and Forestry Occupations",25,Location-Based Services & Tracking,Location-Based Services,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",26,Voice Communication,Voice Communication,0.06986986370753624,3,0.06981313980585255
+45-0000,"Farming, Fishing, and Forestry Occupations",27,Electronic Messaging,Electronic Messaging,0.027466066301064827,1,0.02746261414237171
+45-0000,"Farming, Fishing, and Forestry Occupations",28,Workflow Management,Workflow Management,1.634962899776163,76,1.2673692580965072
+45-0000,"Farming, Fishing, and Forestry Occupations",29,Cloud Storage & Data Security,Cloud Storage,0.027758294087029366,2,0.027754730588981934
+45-0000,"Farming, Fishing, and Forestry Occupations",30,Information Processing,Information Processing,0.16591412969217767,12,0.16516220714043708
+45-0000,"Farming, Fishing, and Forestry Occupations",31,Cloud Computing,Cloud Computing,0.22442342687984268,13,0.22258100624967014
+45-0000,"Farming, Fishing, and Forestry Occupations",32,Recommender Systems,Recommender Systems,0.09701726227076676,9,0.09686570991451157
+45-0000,"Farming, Fishing, and Forestry Occupations",33,Social Networking & Media Platforms,Social Networking,0.02034597805819546,1,0.020344574586765016
+45-0000,"Farming, Fishing, and Forestry Occupations",34,Digital Media Content,Digital Media Content,0.019613230590934255,1,0.019611973342844178
+45-0000,"Farming, Fishing, and Forestry Occupations",35,Augmented and Virtual Reality (AR/VR),AR/VR,0.05744161158246398,7,0.05741006992241345
+45-0000,"Farming, Fishing, and Forestry Occupations",36,Machine Learning & Neural Networks,Machine Learning,0,1,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",37,Medical Imaging & Image Processing,Medical Imaging,0.05577913195814464,2,0.05575024800367694
+45-0000,"Farming, Fishing, and Forestry Occupations",38,Health Monitoring,Health Monitoring,0.0219196939845523,1,0.021917939060498718
+45-0000,"Farming, Fishing, and Forestry Occupations",39,Medical Information,Medical Information,0,0,-0
+45-0000,"Farming, Fishing, and Forestry Occupations",40,E-Healthcare,E-Healthcare,0,0,-0
+47-0000,Construction and Extraction Occupations,1,3D Printer Hardware,3D Printer Hardware,1.6631492782660748,301,1.2819845760271409
+47-0000,Construction and Extraction Occupations,2,3D Printing,3D Printing,0.9167950520213405,125,0.8212985857415361
+47-0000,Construction and Extraction Occupations,3,Additive Manufacturing,Additive Manufacturing,0.2734053561356662,44,0.2701088833500041
+47-0000,Construction and Extraction Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,3.790593043418407,469,2.0426314220317168
+47-0000,Construction and Extraction Occupations,5,Internet of Things (IoT),IoT,1.4802121581117194,234,1.1837365369165855
+47-0000,Construction and Extraction Occupations,6,Predictive Energy Management and Distribution,Energy Management,5.630077682848813,695,2.429065704977166
+47-0000,Construction and Extraction Occupations,7,Industrial Automation & Robot Control,Industrial Automation,1.983534069643899,272,1.436247343436736
+47-0000,Construction and Extraction Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,4.91580307583428,610,2.2957908532272495
+47-0000,Construction and Extraction Occupations,9,Smart Home & Intelligent Household Control,Smart Home,1.3163021729869093,180,1.088351659931599
+47-0000,Construction and Extraction Occupations,10,Intelligent Logistics,Intelligent Logistics,0.036181372414558176,9,0.036173482938850164
+47-0000,Construction and Extraction Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.2979134963336997,42,0.29367396667124956
+47-0000,Construction and Extraction Occupations,12,Parking & Vehicle Space Management,Parking Management,0.16876804347780716,32,0.16797698105955244
+47-0000,Construction and Extraction Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.5827640007380117,78,0.5539890738011167
+47-0000,Construction and Extraction Occupations,14,Passenger Transportation,Passenger Transportation,0.046302705653141873,10,0.04628617655363766
+47-0000,Construction and Extraction Occupations,15,Food Ordering & Vending Systems,Food Ordering,0,1,-0
+47-0000,Construction and Extraction Occupations,16,Digital Advertising,Digital Advertising,0.02146614726702424,7,0.02146449902484398
+47-0000,Construction and Extraction Occupations,17,Electronic Trading and Auctions,E-Trading,0.019273392516750105,2,0.0192721994886797
+47-0000,Construction and Extraction Occupations,18,Online Shopping Platforms,Online Shopping,0,0,-0
+47-0000,Construction and Extraction Occupations,19,E-Coupons & Promotion Management,E-Coupons,0,0,-0
+47-0000,Construction and Extraction Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0,0,-0
+47-0000,Construction and Extraction Occupations,21,Mobile Payments,Mobile Payment,0,0,-0
+47-0000,Construction and Extraction Occupations,22,Gaming & Wagering Systems,Gaming,0.0072592287874199395,1,0.007259165033057982
+47-0000,Construction and Extraction Occupations,23,Digital Authentication,Digital Authentification,0,0,-0
+47-0000,Construction and Extraction Occupations,24,E-Learning,E-Learning,0.039810888475715664,5,0.03980037987722572
+47-0000,Construction and Extraction Occupations,25,Location-Based Services & Tracking,Location-Based Services,0.07614580435908185,10,0.07607241113658764
+47-0000,Construction and Extraction Occupations,26,Voice Communication,Voice Communication,0.01489857693789385,2,0.014898025826058701
+47-0000,Construction and Extraction Occupations,27,Electronic Messaging,Electronic Messaging,0.02519180901789252,3,0.02518914521051392
+47-0000,Construction and Extraction Occupations,28,Workflow Management,Workflow Management,1.6946403890302586,206,1.2980998096485008
+47-0000,Construction and Extraction Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.015184743175536808,4,0.015184159695442883
+47-0000,Construction and Extraction Occupations,30,Information Processing,Information Processing,0.04311290156828024,10,0.043099556908615284
+47-0000,Construction and Extraction Occupations,31,Cloud Computing,Cloud Computing,1.454002153954706,228,1.168974362588806
+47-0000,Construction and Extraction Occupations,32,Recommender Systems,Recommender Systems,0,1,-0
+47-0000,Construction and Extraction Occupations,33,Social Networking & Media Platforms,Social Networking,0,0,-0
+47-0000,Construction and Extraction Occupations,34,Digital Media Content,Digital Media Content,0.007185365003628753,4,0.007185303175633777
+47-0000,Construction and Extraction Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.025343035288571788,5,0.025340323229504247
+47-0000,Construction and Extraction Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.1502732740218478,31,0.14971336537933352
+47-0000,Construction and Extraction Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0,1,-0
+47-0000,Construction and Extraction Occupations,38,Health Monitoring,Health Monitoring,0.04675641414570514,9,0.0467393946989681
+47-0000,Construction and Extraction Occupations,39,Medical Information,Medical Information,0,0,-0
+47-0000,Construction and Extraction Occupations,40,E-Healthcare,E-Healthcare,0,0,-0
+49-0000,"Installation, Maintenance, and Repair Occupations",1,3D Printer Hardware,3D Printer Hardware,2.2773596774889744,354,1.5612137011668334
+49-0000,"Installation, Maintenance, and Repair Occupations",2,3D Printing,3D Printing,0.2520197635021272,49,0.2494254533245101
+49-0000,"Installation, Maintenance, and Repair Occupations",3,Additive Manufacturing,Additive Manufacturing,0.06828470100030773,16,0.0682317457174433
+49-0000,"Installation, Maintenance, and Repair Occupations",4,Smart Agriculture & Water Management,Smart Agriculture,1.019511610576274,166,0.8951033001754274
+49-0000,"Installation, Maintenance, and Repair Occupations",5,Internet of Things (IoT),IoT,3.2675799645877404,496,1.8998294206318147
+49-0000,"Installation, Maintenance, and Repair Occupations",6,Predictive Energy Management and Distribution,Energy Management,9.047789291555022,1214,2.898707637658414
+49-0000,"Installation, Maintenance, and Repair Occupations",7,Industrial Automation & Robot Control,Industrial Automation,6.499861617383468,803,2.570793635805864
+49-0000,"Installation, Maintenance, and Repair Occupations",8,Remote Monitoring & Control Systems,Remote Monitoring,13.839998310953337,1610,3.3220126334407434
+49-0000,"Installation, Maintenance, and Repair Occupations",9,Smart Home & Intelligent Household Control,Smart Home,21.324381740221618,2756,3.7535476061244513
+49-0000,"Installation, Maintenance, and Repair Occupations",10,Intelligent Logistics,Intelligent Logistics,0.30281302150390943,50,0.29836638802116205
+49-0000,"Installation, Maintenance, and Repair Occupations",11,Autonomous Vehicles & UAVs,Autonomous Vehicles,3.800028935600633,532,2.045035568757882
+49-0000,"Installation, Maintenance, and Repair Occupations",12,Parking & Vehicle Space Management,Parking Management,0.8368419326814454,134,0.7611791931331077
+49-0000,"Installation, Maintenance, and Repair Occupations",13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,17.60744924586342,2209,3.562274665687233
+49-0000,"Installation, Maintenance, and Repair Occupations",14,Passenger Transportation,Passenger Transportation,0.19024434125124845,34,0.18911505601610457
+49-0000,"Installation, Maintenance, and Repair Occupations",15,Food Ordering & Vending Systems,Food Ordering,1.1311746967002854,178,0.971155595411044
+49-0000,"Installation, Maintenance, and Repair Occupations",16,Digital Advertising,Digital Advertising,0.28099687860853717,53,0.27742452524784184
+49-0000,"Installation, Maintenance, and Repair Occupations",17,Electronic Trading and Auctions,E-Trading,0.00813154901569844,1,0.008131459405862927
+49-0000,"Installation, Maintenance, and Repair Occupations",18,Online Shopping Platforms,Online Shopping,0.2898385623949442,40,0.2859266618470617
+49-0000,"Installation, Maintenance, and Repair Occupations",19,E-Coupons & Promotion Management,E-Coupons,0.028429347658447148,6,0.028425519485708334
+49-0000,"Installation, Maintenance, and Repair Occupations",20,Electronic Payments & Financial Transactions,E-Payment,1.2271886225600406,159,1.0332631737196134
+49-0000,"Installation, Maintenance, and Repair Occupations",21,Mobile Payments,Mobile Payment,0.9602502982531413,150,0.8529851679264756
+49-0000,"Installation, Maintenance, and Repair Occupations",22,Gaming & Wagering Systems,Gaming,0.10831632016005123,23,0.10810562845401427
+49-0000,"Installation, Maintenance, and Repair Occupations",23,Digital Authentication,Digital Authentification,0.43006860779858097,82,0.4178065265274985
+49-0000,"Installation, Maintenance, and Repair Occupations",24,E-Learning,E-Learning,0.03819114003806762,10,0.03818186209462807
+49-0000,"Installation, Maintenance, and Repair Occupations",25,Location-Based Services & Tracking,Location-Based Services,1.2616101095617385,181,1.0548253053714463
+49-0000,"Installation, Maintenance, and Repair Occupations",26,Voice Communication,Voice Communication,2.3794643172015317,334,1.6015106520216857
+49-0000,"Installation, Maintenance, and Repair Occupations",27,Electronic Messaging,Electronic Messaging,0.14339393825562965,25,0.14290702350950296
+49-0000,"Installation, Maintenance, and Repair Occupations",28,Workflow Management,Workflow Management,2.5280537576233355,317,1.6575999528835523
+49-0000,"Installation, Maintenance, and Repair Occupations",29,Cloud Storage & Data Security,Cloud Storage,0.04541004653500606,8,0.045394454532288075
+49-0000,"Installation, Maintenance, and Repair Occupations",30,Information Processing,Information Processing,0.41289492455373056,84,0.4019811728562083
+49-0000,"Installation, Maintenance, and Repair Occupations",31,Cloud Computing,Cloud Computing,0.27186711462906865,46,0.2686248094131859
+49-0000,"Installation, Maintenance, and Repair Occupations",32,Recommender Systems,Recommender Systems,0.009856975208840699,2,0.009856815598599135
+49-0000,"Installation, Maintenance, and Repair Occupations",33,Social Networking & Media Platforms,Social Networking,0.05018454518989274,8,0.05016350416010664
+49-0000,"Installation, Maintenance, and Repair Occupations",34,Digital Media Content,Digital Media Content,0.12744496404371314,28,0.1271024633559357
+49-0000,"Installation, Maintenance, and Repair Occupations",35,Augmented and Virtual Reality (AR/VR),AR/VR,0.359191095267372,63,0.3518841439180551
+49-0000,"Installation, Maintenance, and Repair Occupations",36,Machine Learning & Neural Networks,Machine Learning,0.5660365676480932,100,0.5394842316227382
+49-0000,"Installation, Maintenance, and Repair Occupations",37,Medical Imaging & Image Processing,Medical Imaging,0.36599327432312057,54,0.3582789217759801
+49-0000,"Installation, Maintenance, and Repair Occupations",38,Health Monitoring,Health Monitoring,2.227075141703325,299,1.5408074781141101
+49-0000,"Installation, Maintenance, and Repair Occupations",39,Medical Information,Medical Information,1.1878196223143789,131,1.008152030098822
+49-0000,"Installation, Maintenance, and Repair Occupations",40,E-Healthcare,E-Healthcare,1.03385640960957,125,0.9051122096950175
+51-0000,Production Occupations,1,3D Printer Hardware,3D Printer Hardware,47.81451742020995,12785,4.560585818154098
+51-0000,Production Occupations,2,3D Printing,3D Printing,27.92705790683375,7395,4.02306360831846
+51-0000,Production Occupations,3,Additive Manufacturing,Additive Manufacturing,26.915851943738883,6330,3.986207489850585
+51-0000,Production Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,7.564780316207395,1933,2.720990786149019
+51-0000,Production Occupations,5,Internet of Things (IoT),IoT,1.3250165200394182,471,1.0936122212353958
+51-0000,Production Occupations,6,Predictive Energy Management and Distribution,Energy Management,18.27256510910948,4879,3.5992958587288757
+51-0000,Production Occupations,7,Industrial Automation & Robot Control,Industrial Automation,9.789172924825156,2476,2.9770228449742353
+51-0000,Production Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,6.915219534202996,1753,2.632059275536488
+51-0000,Production Occupations,9,Smart Home & Intelligent Household Control,Smart Home,1.867467801402244,565,1.3827442442326596
+51-0000,Production Occupations,10,Intelligent Logistics,Intelligent Logistics,0.364719148312462,94,0.3570821689947412
+51-0000,Production Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,0.5696434328542169,174,0.5426207042671318
+51-0000,Production Occupations,12,Parking & Vehicle Space Management,Parking Management,0.11674591415627482,38,0.11648232745657006
+51-0000,Production Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,0.42539798698024905,152,0.41351224831297806
+51-0000,Production Occupations,14,Passenger Transportation,Passenger Transportation,0.10570541064216052,35,0.10550954164957194
+51-0000,Production Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.7995173453034996,216,0.7322913216779224
+51-0000,Production Occupations,16,Digital Advertising,Digital Advertising,0.09302670397823595,35,0.09289304880370887
+51-0000,Production Occupations,17,Electronic Trading and Auctions,E-Trading,0.02692034003358405,12,0.026917089543987735
+51-0000,Production Occupations,18,Online Shopping Platforms,Online Shopping,0.453616677489146,140,0.43934555998730584
+51-0000,Production Occupations,19,E-Coupons & Promotion Management,E-Coupons,0.0703878290310087,25,0.07032983611155304
+51-0000,Production Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.17135951685174092,65,0.17053177267302333
+51-0000,Production Occupations,21,Mobile Payments,Mobile Payment,0.0758371753276302,35,0.07576466938637838
+51-0000,Production Occupations,22,Gaming & Wagering Systems,Gaming,0.0885839848890352,39,0.08846853720063415
+51-0000,Production Occupations,23,Digital Authentication,Digital Authentification,0.12703696007910473,50,0.1266977226676765
+51-0000,Production Occupations,24,E-Learning,E-Learning,0.14021433780068263,43,0.13975891845270252
+51-0000,Production Occupations,25,Location-Based Services & Tracking,Location-Based Services,0.027911370852418328,14,0.02790774808841081
+51-0000,Production Occupations,26,Voice Communication,Voice Communication,0.36242328138673974,132,0.3549244834855042
+51-0000,Production Occupations,27,Electronic Messaging,Electronic Messaging,0.15439173520070953,53,0.1537848549763444
+51-0000,Production Occupations,28,Workflow Management,Workflow Management,1.112650132119953,332,0.9588296061598863
+51-0000,Production Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.09942170602544226,38,0.09925863844498693
+51-0000,Production Occupations,30,Information Processing,Information Processing,1.68409456856351,514,1.2927279176773423
+51-0000,Production Occupations,31,Cloud Computing,Cloud Computing,0.3886102457638936,144,0.3794395484344709
+51-0000,Production Occupations,32,Recommender Systems,Recommender Systems,0.198980943275177,64,0.1976907452501956
+51-0000,Production Occupations,33,Social Networking & Media Platforms,Social Networking,0.14535815313646808,50,0.14485108119864976
+51-0000,Production Occupations,34,Digital Media Content,Digital Media Content,0.38387585864227847,124,0.3750231441434662
+51-0000,Production Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,1.2429180734580323,392,1.043161314593927
+51-0000,Production Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.8621168787832055,337,0.7804421926898312
+51-0000,Production Occupations,37,Medical Imaging & Image Processing,Medical Imaging,1.4267612387134108,383,1.1534388769257131
+51-0000,Production Occupations,38,Health Monitoring,Health Monitoring,0.7367095113802462,217,0.682480860478363
+51-0000,Production Occupations,39,Medical Information,Medical Information,0.4005965260631146,103,0.39058912333505197
+51-0000,Production Occupations,40,E-Healthcare,E-Healthcare,0.20374148513453658,60,0.20235761121123702
+53-0000,Transportation and Material Moving Occupations,1,3D Printer Hardware,3D Printer Hardware,1.4606789525149233,173,1.172752032855582
+53-0000,Transportation and Material Moving Occupations,2,3D Printing,3D Printing,0.4393150565340112,55,0.4262864359477154
+53-0000,Transportation and Material Moving Occupations,3,Additive Manufacturing,Additive Manufacturing,0.06234032549549696,10,0.06230001691316716
+53-0000,Transportation and Material Moving Occupations,4,Smart Agriculture & Water Management,Smart Agriculture,1.6717016366292945,230,1.2863832597885707
+53-0000,Transportation and Material Moving Occupations,5,Internet of Things (IoT),IoT,0.756587105344386,139,0.6984085359839758
+53-0000,Transportation and Material Moving Occupations,6,Predictive Energy Management and Distribution,Energy Management,0.12234647908071863,26,0.12204328976504265
+53-0000,Transportation and Material Moving Occupations,7,Industrial Automation & Robot Control,Industrial Automation,2.8600728412639334,396,1.773243615862102
+53-0000,Transportation and Material Moving Occupations,8,Remote Monitoring & Control Systems,Remote Monitoring,2.946557953978478,401,1.8014097437298413
+53-0000,Transportation and Material Moving Occupations,9,Smart Home & Intelligent Household Control,Smart Home,0.246656780889362,51,0.24422179159951904
+53-0000,Transportation and Material Moving Occupations,10,Intelligent Logistics,Intelligent Logistics,3.3953847876917136,403,1.9365762060424587
+53-0000,Transportation and Material Moving Occupations,11,Autonomous Vehicles & UAVs,Autonomous Vehicles,31.35892332839592,4323,4.138900170609254
+53-0000,Transportation and Material Moving Occupations,12,Parking & Vehicle Space Management,Parking Management,51.55073351604409,6592,4.635807681016307
+53-0000,Transportation and Material Moving Occupations,13,Vehicle Telematics & Electric Vehicle Management,Vehicle Telematics,31.260050805539173,3933,4.135743868094284
+53-0000,Transportation and Material Moving Occupations,14,Passenger Transportation,Passenger Transportation,41.98251395703347,4785,4.430542189065126
+53-0000,Transportation and Material Moving Occupations,15,Food Ordering & Vending Systems,Food Ordering,0.09430348209180821,13,0.09416426273553934
+53-0000,Transportation and Material Moving Occupations,16,Digital Advertising,Digital Advertising,0.3739187912478021,62,0.3657120571064659
+53-0000,Transportation and Material Moving Occupations,17,Electronic Trading and Auctions,E-Trading,0.0074756850694614576,3,0.007475615440355279
+53-0000,Transportation and Material Moving Occupations,18,Online Shopping Platforms,Online Shopping,0.017085936799240305,6,0.017085105594349295
+53-0000,Transportation and Material Moving Occupations,19,E-Coupons & Promotion Management,E-Coupons,0.21646794456852697,40,0.21481207257916132
+53-0000,Transportation and Material Moving Occupations,20,Electronic Payments & Financial Transactions,E-Payment,0.09572503427326692,23,0.09557944124383423
+53-0000,Transportation and Material Moving Occupations,21,Mobile Payments,Mobile Payment,0.4174411713855415,59,0.4061799372145806
+53-0000,Transportation and Material Moving Occupations,22,Gaming & Wagering Systems,Gaming,0.01670713887433259,2,0.01670636173220449
+53-0000,Transportation and Material Moving Occupations,23,Digital Authentication,Digital Authentification,0.13136229319259962,25,0.1309873980078141
+53-0000,Transportation and Material Moving Occupations,24,E-Learning,E-Learning,0.0626147495936668,11,0.06257390697404779
+53-0000,Transportation and Material Moving Occupations,25,Location-Based Services & Tracking,Location-Based Services,1.9830772763883764,280,1.4360416871185375
+53-0000,Transportation and Material Moving Occupations,26,Voice Communication,Voice Communication,0.37071703180880666,72,0.3627115195190378
+53-0000,Transportation and Material Moving Occupations,27,Electronic Messaging,Electronic Messaging,0.06500511697424935,11,0.06495942216816981
+53-0000,Transportation and Material Moving Occupations,28,Workflow Management,Workflow Management,0.7816670568203854,93,0.7182885409512124
+53-0000,Transportation and Material Moving Occupations,29,Cloud Storage & Data Security,Cloud Storage,0.07008064783207135,13,0.07002340976140006
+53-0000,Transportation and Material Moving Occupations,30,Information Processing,Information Processing,0.4463906926660394,84,0.4327560440172248
+53-0000,Transportation and Material Moving Occupations,31,Cloud Computing,Cloud Computing,0.748845307914437,141,0.6922231708847983
+53-0000,Transportation and Material Moving Occupations,32,Recommender Systems,Recommender Systems,0.12296678360202594,26,0.12265898014381914
+53-0000,Transportation and Material Moving Occupations,33,Social Networking & Media Platforms,Social Networking,0.049556489543203554,10,0.04953622807852947
+53-0000,Transportation and Material Moving Occupations,34,Digital Media Content,Digital Media Content,0.0969301258008293,16,0.09677898028860793
+53-0000,Transportation and Material Moving Occupations,35,Augmented and Virtual Reality (AR/VR),AR/VR,0.1417302962433188,27,0.1412600341590773
+53-0000,Transportation and Material Moving Occupations,36,Machine Learning & Neural Networks,Machine Learning,0.12547257640072437,27,0.12514566037538616
+53-0000,Transportation and Material Moving Occupations,37,Medical Imaging & Image Processing,Medical Imaging,0.018270516479213194,3,0.018269500146293062
+53-0000,Transportation and Material Moving Occupations,38,Health Monitoring,Health Monitoring,0.022340875030424902,7,0.022339017004531222
+53-0000,Transportation and Material Moving Occupations,39,Medical Information,Medical Information,0.051446828657060684,8,0.05142416093830455
+53-0000,Transportation and Material Moving Occupations,40,E-Healthcare,E-Healthcare,0.10805887789509341,16,0.10784967971543105

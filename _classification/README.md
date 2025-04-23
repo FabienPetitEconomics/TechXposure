@@ -10,6 +10,8 @@ This directory contains all the classifications used in the `TechXposure` databa
 | `classification_isco.pdf`  | Document | This document presents the ISCO-08 classification. | [ILO](https://www.ilo.org/public/english/bureau/stat/isco/) |
 | `classification_nace.csv`  | Dataset | This dataset includes the NACE Rev.2 industry codes and their labels from the 1-digit to the 3-digit level. | [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Statistical_classification_of_economic_activities_in_the_European_Community_(NACE)) |
 | `classification_nace.pdf`  | Document | This document presents the NACE Rev.2 industry classification. |  [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Statistical_classification_of_economic_activities_in_the_European_Community_(NACE)) |
+| `classification_naics.csv`  | Dataset | This dataset includes the NAICS (2007) industry codes and their labels from the 2-digit to the 4-digit level. | [BLS](https://www.bls.gov/cew/classifications/industry/naics-2007.htm) |
+| `classification_soc.csv`  | Dataset | This dataset includes the ONET-SOC (2010) occupation codes and their labels from the 2-digit to the 8-digit level. | [BLS](https://www.bls.gov/soc/2010/2010_major_groups.htm) |
 | `classification_tech40.csv`  | Dataset | This dataset includes the classification of emerging digital technologies. | Authors |
 
 ## Data structure
@@ -27,6 +29,21 @@ This directory contains all the classifications used in the `TechXposure` databa
 | ----------------------- | ------------------------- | ------------------- | -------- |
 | `naceXd`  | String / Numeric[^1] | NACE Rev.2 code at the `X`-digit level | All `techXposure_nace` files |
 | `naceXd_label`  | String | NACE Rev.2 label at the `X`-digit level | All `techXposure_nace` files |
+
+### `classification_naics.csv`
+
+| VARIABLE               | TYPE                    | DESCRIPTION               | MERGE WITH |
+| ----------------------- | ------------------------- | ------------------- | -------- |
+| `naicsXd`  | Integer | NAICS (2007) code at the `X`-digit level | All `techXposure_naics` files |
+| `naicsXd_label`  | String | NAICS (2007) label at the `X`-digit level | All `techXposure_naics` files |
+
+
+### `classification_soc.csv`
+
+| VARIABLE               | TYPE                    | DESCRIPTION               | MERGE WITH |
+| ----------------------- | ------------------------- | ------------------- | -------- |
+| `socXd`  | Numeric | ONET-SOC (2010) code at the `X`-digit level | All `techXposure_soc` files |
+| `socXd_label`  | String | ONET-SOC (2010) label at the `X`-digit level | All `techXposure_soc` files |
 
 ### `classification_tech40.csv`
 
