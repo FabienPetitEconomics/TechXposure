@@ -1,6 +1,6 @@
 # TechXposure Database (v0.9.1)
 
-[![DOI](https://zenodo.org/badge/750952450.svg)](https://zenodo.org/doi/10.5281/zenodo.10696075)
+[![DOI](https://zenodo.org/badge/750952450.svg)](https://zenodo.org/doi/10.5281/zenodo.15268469)
 
 TechXposure is a database that provides information on the exposure of industries and occupations to 40 digital technologies that emerged over the last decade (2012–2021). The data are available for several industry and occupation classifications. 
 
